@@ -1,0 +1,31 @@
+#cloud-config
+
+# Update package list and upgrade the system
+package_update: true
+package_upgrade: true
+
+# Install PostgreSQL and its utilities
+packages:
+  - postgresql
+  - postgresql-contrib
+
+# Run commands to setup PostgreSQL
+
+write_files:
+  - path: /run/scripts/test-script.sh
+    content: |
+      #!/bin/bash
+      /bin/ls /data/initdb/*.sql | while read i
+      do
+        su postgres -c psql <"$i"
+      done
+      echo 'Script executed successfully!' >> /run/testing.txt      
+    permissions: '0755'
+
+runcmd:
+  - [ sh, "/run/scripts/test-script.sh" ]
+  - [ sh, "-c", "ssh-keygen -A" ]
+
+
+
+final_message: "The system is finally up, after $UPTIME seconds"

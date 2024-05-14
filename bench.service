@@ -1,0 +1,12 @@
+[Unit]
+Description=Start Bench Script at Boot
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /data/bench/bench.sh
+User=root
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

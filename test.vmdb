@@ -1,0 +1,85 @@
+# This is a sample vmdb2 input file for testing vmdb2 with a few
+# different configurations. The check-one script will modify this
+# based on its command line options, before building an image.
+
+steps:
+  - mkimg: "{{ output }}"
+    size: 4G
+
+  - mklabel: msdos
+    device: "{{ output }}"
+
+
+  - mkpart: primary
+    device: "{{ output }}"
+    start: 1G
+    end: 100%
+    tag: /
+
+  - kpartx: "{{ output }}"
+
+  - mkfs: ext4
+    partition: /
+
+  - mount: /
+
+  - unpack-rootfs: /
+
+  - debootstrap: buster
+    mirror: http://deb.debian.org/debian
+    variant: minbase
+    target: /
+    unless: rootfs_unpacked
+    include:
+      - python3
+      - systemd-sysv
+
+  - virtual-filesystems: /
+
+  - apt: install
+    packages:
+      - linux-image-amd64
+      - vim
+      - bash
+      - joe
+      - zerofree
+      - cloud-init
+      - iproute2
+      - network-manager
+      - openssh-server
+      - postgresql
+    tag: /
+    unless: rootfs_unpacked
+
+
+  - cache-rootfs: /
+    unless: rootfs_unpacked
+
+  - copy-file: /etc/systemd/system/bench.service
+    src: bench.service
+
+  - chroot: /
+    shell: |
+      systemctl daemon-reload
+      systemctl enable bench.service
+      systemctl enable cloud-init
+      sed -i '/^root:[^:]*:/s//root::/' /etc/passwd
+      echo testpc > /etc/hostname
+
+  - copy-file: /etc/cloud/cloud.cfg
+    src: cloud.cfg
+
+  - copy-file: /root/.ssh/authorized_keys
+    src: id_vm_rsa.pub
+
+  - copy-dir: /data
+    src: data/
+
+  - copy-dir: /etc/cloud/seed/
+    src: seed
+
+  - fstab: /
+
+  - grub: bios
+    tag: /
+    console: serial
