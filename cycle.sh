@@ -19,7 +19,9 @@ check_vm_health() {
 
 start_vm() {
     # Start the VM with port forwarding
-    (qemu-system-x86_64 -enable-kvm -display none -daemonize -m 2G -drive file=$vm_image,format=qcow2,if=virtio \
+    (qemu-system-x86_64 -enable-kvm -display none -daemonize -m 2G -drive file=$vm_image,format=qcow2,id=disk0,if=none,cache=none \
+        -device ahci,id=ahci \
+        -device ide-hd,drive=disk0,bus=ahci.0 \
         -net nic -net user,hostfwd=tcp::${ssh_port}-:22 \
     ) &    
 }
