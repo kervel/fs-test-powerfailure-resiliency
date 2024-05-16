@@ -33,3 +33,8 @@ pip install git+https://gitlab.com/larswirzenius/vmdb2.git
 # First results
 
 * so far the ext4 machine survived 820 reboots without postgres failing to start.
+* btrfs kept running until it ran out of disk space at 1112 reboots.
+
+btrfs did slightly less DB iterations per time unit than ext4: 
+
+![comparison](results/ext4-vs-btrfs.png)
