@@ -1,0 +1,2541 @@
+Mi 15 Mai 2024 09:34:39 CEST: Health check passed - count ------- 3020 (1 row)
+Mi 15 Mai 2024 09:34:44 CEST: Restarting VM
+Mi 15 Mai 2024 09:35:44 CEST: Health check passed - count ------- 3468 (1 row)
+Mi 15 Mai 2024 09:35:49 CEST: Restarting VM
+Mi 15 Mai 2024 09:36:49 CEST: Health check passed - count ------- 4033 (1 row)
+Mi 15 Mai 2024 09:36:54 CEST: Restarting VM
+Mi 15 Mai 2024 09:37:54 CEST: Health check passed - count ------- 4521 (1 row)
+Mi 15 Mai 2024 09:37:59 CEST: Restarting VM
+Mi 15 Mai 2024 09:39:00 CEST: Health check passed - count ------- 4965 (1 row)
+Mi 15 Mai 2024 09:39:05 CEST: Restarting VM
+Mi 15 Mai 2024 09:40:05 CEST: Health check passed - count ------- 5465 (1 row)
+Mi 15 Mai 2024 09:40:10 CEST: Restarting VM
+Mi 15 Mai 2024 09:41:10 CEST: Health check passed - count ------- 5813 (1 row)
+Mi 15 Mai 2024 09:41:15 CEST: Restarting VM
+Mi 15 Mai 2024 09:42:15 CEST: Health check passed - count ------- 6364 (1 row)
+Mi 15 Mai 2024 09:42:20 CEST: Restarting VM
+Mi 15 Mai 2024 09:43:21 CEST: Health check passed - count ------- 6843 (1 row)
+Mi 15 Mai 2024 09:43:26 CEST: Restarting VM
+Mi 15 Mai 2024 09:44:26 CEST: Health check passed - count ------- 7337 (1 row)
+Mi 15 Mai 2024 09:44:31 CEST: Restarting VM
+Mi 15 Mai 2024 09:45:31 CEST: Health check passed - count ------- 7691 (1 row)
+Mi 15 Mai 2024 09:45:36 CEST: Restarting VM
+Mi 15 Mai 2024 09:46:36 CEST: Health check passed - count ------- 8160 (1 row)
+Mi 15 Mai 2024 09:46:41 CEST: Restarting VM
+Mi 15 Mai 2024 09:47:41 CEST: Health check passed - count ------- 8752 (1 row)
+Mi 15 Mai 2024 09:47:46 CEST: Restarting VM
+Mi 15 Mai 2024 09:48:47 CEST: Health check passed - count ------- 9209 (1 row)
+Mi 15 Mai 2024 09:48:52 CEST: Restarting VM
+Mi 15 Mai 2024 09:49:52 CEST: Health check passed - count ------- 9665 (1 row)
+Mi 15 Mai 2024 09:49:57 CEST: Restarting VM
+Mi 15 Mai 2024 09:50:57 CEST: Health check passed - count ------- 10101 (1 row)
+Mi 15 Mai 2024 09:51:02 CEST: Restarting VM
+Mi 15 Mai 2024 09:52:02 CEST: Health check passed - count ------- 10456 (1 row)
+Mi 15 Mai 2024 09:52:07 CEST: Restarting VM
+Mi 15 Mai 2024 09:53:08 CEST: Health check passed - count ------- 10927 (1 row)
+Mi 15 Mai 2024 09:53:13 CEST: Restarting VM
+Mi 15 Mai 2024 09:54:13 CEST: Health check passed - count ------- 11530 (1 row)
+Mi 15 Mai 2024 09:54:18 CEST: Restarting VM
+Mi 15 Mai 2024 09:55:18 CEST: Health check passed - count ------- 12023 (1 row)
+Mi 15 Mai 2024 09:55:23 CEST: Restarting VM
+Mi 15 Mai 2024 09:56:23 CEST: Health check passed - count ------- 12414 (1 row)
+Mi 15 Mai 2024 09:56:28 CEST: Restarting VM
+Mi 15 Mai 2024 09:57:29 CEST: Health check passed - count ------- 12871 (1 row)
+Mi 15 Mai 2024 09:57:34 CEST: Restarting VM
+Mi 15 Mai 2024 09:58:34 CEST: Health check passed - count ------- 13323 (1 row)
+Mi 15 Mai 2024 09:58:39 CEST: Restarting VM
+Mi 15 Mai 2024 09:59:39 CEST: Health check passed - count ------- 13822 (1 row)
+Mi 15 Mai 2024 09:59:44 CEST: Restarting VM
+Mi 15 Mai 2024 10:00:44 CEST: Health check passed - count ------- 14410 (1 row)
+Mi 15 Mai 2024 10:00:49 CEST: Restarting VM
+Mi 15 Mai 2024 10:01:49 CEST: Health check passed - count ------- 14891 (1 row)
+Mi 15 Mai 2024 10:01:54 CEST: Restarting VM
+Mi 15 Mai 2024 10:02:55 CEST: Health check passed - count ------- 15356 (1 row)
+Mi 15 Mai 2024 10:03:00 CEST: Restarting VM
+Mi 15 Mai 2024 10:04:00 CEST: Health check passed - count ------- 15800 (1 row)
+Mi 15 Mai 2024 10:04:05 CEST: Restarting VM
+Mi 15 Mai 2024 10:05:05 CEST: Health check passed - count ------- 16279 (1 row)
+Mi 15 Mai 2024 10:05:10 CEST: Restarting VM
+Mi 15 Mai 2024 10:06:10 CEST: Health check passed - count ------- 16763 (1 row)
+Mi 15 Mai 2024 10:06:15 CEST: Restarting VM
+Mi 15 Mai 2024 10:07:16 CEST: Health check passed - count ------- 17188 (1 row)
+Mi 15 Mai 2024 10:07:21 CEST: Restarting VM
+Mi 15 Mai 2024 10:08:21 CEST: Health check passed - count ------- 17527 (1 row)
+Mi 15 Mai 2024 10:08:26 CEST: Restarting VM
+Mi 15 Mai 2024 10:09:26 CEST: Health check passed - count ------- 17949 (1 row)
+Mi 15 Mai 2024 10:09:31 CEST: Restarting VM
+Mi 15 Mai 2024 10:10:31 CEST: Health check passed - count ------- 18488 (1 row)
+Mi 15 Mai 2024 10:10:36 CEST: Restarting VM
+Mi 15 Mai 2024 10:11:37 CEST: Health check passed - count ------- 18934 (1 row)
+Mi 15 Mai 2024 10:11:42 CEST: Restarting VM
+Mi 15 Mai 2024 10:12:42 CEST: Health check passed - count ------- 19410 (1 row)
+Mi 15 Mai 2024 10:12:47 CEST: Restarting VM
+Mi 15 Mai 2024 10:13:47 CEST: Health check passed - count ------- 19704 (1 row)
+Mi 15 Mai 2024 10:13:52 CEST: Restarting VM
+Mi 15 Mai 2024 10:14:52 CEST: Health check passed - count ------- 20231 (1 row)
+Mi 15 Mai 2024 10:14:57 CEST: Restarting VM
+Mi 15 Mai 2024 10:15:58 CEST: Health check passed - count ------- 20654 (1 row)
+Mi 15 Mai 2024 10:16:03 CEST: Restarting VM
+Mi 15 Mai 2024 10:17:03 CEST: Health check passed - count ------- 20972 (1 row)
+Mi 15 Mai 2024 10:17:08 CEST: Restarting VM
+Mi 15 Mai 2024 10:18:08 CEST: Health check passed - count ------- 21447 (1 row)
+Mi 15 Mai 2024 10:18:13 CEST: Restarting VM
+Mi 15 Mai 2024 10:19:13 CEST: Health check passed - count ------- 21845 (1 row)
+Mi 15 Mai 2024 10:19:18 CEST: Restarting VM
+Mi 15 Mai 2024 10:20:19 CEST: Health check passed - count ------- 22278 (1 row)
+Mi 15 Mai 2024 10:20:24 CEST: Restarting VM
+Mi 15 Mai 2024 10:21:24 CEST: Health check passed - count ------- 22732 (1 row)
+Mi 15 Mai 2024 10:21:29 CEST: Restarting VM
+Mi 15 Mai 2024 10:22:29 CEST: Health check passed - count ------- 23151 (1 row)
+Mi 15 Mai 2024 10:22:34 CEST: Restarting VM
+Mi 15 Mai 2024 10:23:34 CEST: Health check passed - count ------- 23577 (1 row)
+Mi 15 Mai 2024 10:23:39 CEST: Restarting VM
+Mi 15 Mai 2024 10:24:40 CEST: Health check passed - count ------- 23902 (1 row)
+Mi 15 Mai 2024 10:24:45 CEST: Restarting VM
+Mi 15 Mai 2024 10:25:45 CEST: Health check passed - count ------- 24428 (1 row)
+Mi 15 Mai 2024 10:25:50 CEST: Restarting VM
+Mi 15 Mai 2024 10:26:50 CEST: Health check passed - count ------- 24859 (1 row)
+Mi 15 Mai 2024 10:26:55 CEST: Restarting VM
+Mi 15 Mai 2024 10:27:55 CEST: Health check passed - count ------- 25322 (1 row)
+Mi 15 Mai 2024 10:28:00 CEST: Restarting VM
+Mi 15 Mai 2024 10:29:01 CEST: Health check passed - count ------- 25777 (1 row)
+Mi 15 Mai 2024 10:29:06 CEST: Restarting VM
+Mi 15 Mai 2024 10:30:06 CEST: Health check passed - count ------- 26182 (1 row)
+Mi 15 Mai 2024 10:30:11 CEST: Restarting VM
+Mi 15 Mai 2024 10:31:11 CEST: Health check passed - count ------- 26590 (1 row)
+Mi 15 Mai 2024 10:31:16 CEST: Restarting VM
+Mi 15 Mai 2024 10:32:16 CEST: Health check passed - count ------- 26904 (1 row)
+Mi 15 Mai 2024 10:32:21 CEST: Restarting VM
+Mi 15 Mai 2024 10:33:22 CEST: Health check passed - count ------- 27438 (1 row)
+Mi 15 Mai 2024 10:33:27 CEST: Restarting VM
+Mi 15 Mai 2024 10:34:27 CEST: Health check passed - count ------- 27786 (1 row)
+Mi 15 Mai 2024 10:34:32 CEST: Restarting VM
+Mi 15 Mai 2024 10:35:32 CEST: Health check passed - count ------- 28168 (1 row)
+Mi 15 Mai 2024 10:35:37 CEST: Restarting VM
+Mi 15 Mai 2024 10:36:37 CEST: Health check passed - count ------- 28565 (1 row)
+Mi 15 Mai 2024 10:36:42 CEST: Restarting VM
+Mi 15 Mai 2024 10:37:43 CEST: Health check passed - count ------- 28989 (1 row)
+Mi 15 Mai 2024 10:37:48 CEST: Restarting VM
+Mi 15 Mai 2024 10:38:48 CEST: Health check passed - count ------- 29289 (1 row)
+Mi 15 Mai 2024 10:38:53 CEST: Restarting VM
+Mi 15 Mai 2024 10:39:53 CEST: Health check passed - count ------- 29662 (1 row)
+Mi 15 Mai 2024 10:39:58 CEST: Restarting VM
+Mi 15 Mai 2024 10:40:58 CEST: Health check passed - count ------- 30037 (1 row)
+Mi 15 Mai 2024 10:41:03 CEST: Restarting VM
+Mi 15 Mai 2024 10:42:04 CEST: Health check passed - count ------- 30531 (1 row)
+Mi 15 Mai 2024 10:42:09 CEST: Restarting VM
+Mi 15 Mai 2024 10:43:09 CEST: Health check passed - count ------- 30925 (1 row)
+Mi 15 Mai 2024 10:43:14 CEST: Restarting VM
+Mi 15 Mai 2024 10:44:14 CEST: Health check passed - count ------- 31206 (1 row)
+Mi 15 Mai 2024 10:44:19 CEST: Restarting VM
+Mi 15 Mai 2024 10:45:19 CEST: Health check passed - count ------- 31600 (1 row)
+Mi 15 Mai 2024 10:45:25 CEST: Restarting VM
+Mi 15 Mai 2024 10:46:25 CEST: Health check passed - count ------- 32095 (1 row)
+Mi 15 Mai 2024 10:46:30 CEST: Restarting VM
+Mi 15 Mai 2024 10:47:30 CEST: Health check passed - count ------- 32484 (1 row)
+Mi 15 Mai 2024 10:47:35 CEST: Restarting VM
+Mi 15 Mai 2024 10:48:35 CEST: Health check passed - count ------- 32798 (1 row)
+Mi 15 Mai 2024 10:48:40 CEST: Restarting VM
+Mi 15 Mai 2024 10:49:40 CEST: Health check passed - count ------- 33319 (1 row)
+Mi 15 Mai 2024 10:49:45 CEST: Restarting VM
+Mi 15 Mai 2024 10:50:46 CEST: Health check passed - count ------- 33726 (1 row)
+Mi 15 Mai 2024 10:50:51 CEST: Restarting VM
+Mi 15 Mai 2024 10:51:51 CEST: Health check passed - count ------- 34126 (1 row)
+Mi 15 Mai 2024 10:51:56 CEST: Restarting VM
+Mi 15 Mai 2024 10:52:56 CEST: Health check passed - count ------- 34422 (1 row)
+Mi 15 Mai 2024 10:53:01 CEST: Restarting VM
+Mi 15 Mai 2024 10:54:02 CEST: Health check passed - count ------- 34749 (1 row)
+Mi 15 Mai 2024 10:54:07 CEST: Restarting VM
+Mi 15 Mai 2024 10:55:07 CEST: Health check passed - count ------- 35184 (1 row)
+Mi 15 Mai 2024 10:55:12 CEST: Restarting VM
+Mi 15 Mai 2024 10:56:12 CEST: Health check passed - count ------- 35507 (1 row)
+Mi 15 Mai 2024 10:56:17 CEST: Restarting VM
+Mi 15 Mai 2024 10:57:17 CEST: Health check passed - count ------- 35841 (1 row)
+Mi 15 Mai 2024 10:57:22 CEST: Restarting VM
+Mi 15 Mai 2024 10:58:23 CEST: Health check passed - count ------- 36086 (1 row)
+Mi 15 Mai 2024 10:58:28 CEST: Restarting VM
+Mi 15 Mai 2024 10:59:28 CEST: Health check passed - count ------- 36511 (1 row)
+Mi 15 Mai 2024 10:59:33 CEST: Restarting VM
+Mi 15 Mai 2024 11:00:33 CEST: Health check passed - count ------- 36909 (1 row)
+Mi 15 Mai 2024 11:00:38 CEST: Restarting VM
+Mi 15 Mai 2024 11:01:38 CEST: Health check passed - count ------- 37289 (1 row)
+Mi 15 Mai 2024 11:01:44 CEST: Restarting VM
+Mi 15 Mai 2024 11:02:44 CEST: Health check passed - count ------- 37657 (1 row)
+Mi 15 Mai 2024 11:02:49 CEST: Restarting VM
+Mi 15 Mai 2024 11:03:49 CEST: Health check passed - count ------- 38027 (1 row)
+Mi 15 Mai 2024 11:03:54 CEST: Restarting VM
+Mi 15 Mai 2024 11:04:54 CEST: Health check passed - count ------- 38416 (1 row)
+Mi 15 Mai 2024 11:04:59 CEST: Restarting VM
+Mi 15 Mai 2024 11:06:00 CEST: Health check passed - count ------- 38780 (1 row)
+Mi 15 Mai 2024 11:06:05 CEST: Restarting VM
+Mi 15 Mai 2024 11:07:05 CEST: Health check passed - count ------- 39172 (1 row)
+Mi 15 Mai 2024 11:07:10 CEST: Restarting VM
+Mi 15 Mai 2024 11:08:10 CEST: Health check passed - count ------- 39540 (1 row)
+Mi 15 Mai 2024 11:08:15 CEST: Restarting VM
+Mi 15 Mai 2024 11:09:15 CEST: Health check passed - count ------- 39901 (1 row)
+Mi 15 Mai 2024 11:09:20 CEST: Restarting VM
+Mi 15 Mai 2024 11:10:21 CEST: Health check passed - count ------- 40299 (1 row)
+Mi 15 Mai 2024 11:10:26 CEST: Restarting VM
+Mi 15 Mai 2024 11:11:26 CEST: Health check passed - count ------- 40688 (1 row)
+Mi 15 Mai 2024 11:11:31 CEST: Restarting VM
+Mi 15 Mai 2024 11:12:31 CEST: Health check passed - count ------- 41031 (1 row)
+Mi 15 Mai 2024 11:12:36 CEST: Restarting VM
+Mi 15 Mai 2024 11:13:36 CEST: Health check passed - count ------- 41372 (1 row)
+Mi 15 Mai 2024 11:13:41 CEST: Restarting VM
+Mi 15 Mai 2024 11:14:42 CEST: Health check passed - count ------- 41627 (1 row)
+Mi 15 Mai 2024 11:14:47 CEST: Restarting VM
+Mi 15 Mai 2024 11:15:47 CEST: Health check passed - count ------- 42004 (1 row)
+Mi 15 Mai 2024 11:15:52 CEST: Restarting VM
+Mi 15 Mai 2024 11:16:52 CEST: Health check passed - count ------- 42478 (1 row)
+Mi 15 Mai 2024 11:16:57 CEST: Restarting VM
+Mi 15 Mai 2024 11:17:58 CEST: Health check passed - count ------- 42811 (1 row)
+Mi 15 Mai 2024 11:18:03 CEST: Restarting VM
+Mi 15 Mai 2024 11:19:03 CEST: Health check passed - count ------- 43201 (1 row)
+Mi 15 Mai 2024 11:19:08 CEST: Restarting VM
+Mi 15 Mai 2024 11:20:08 CEST: Health check passed - count ------- 43578 (1 row)
+Mi 15 Mai 2024 11:20:13 CEST: Restarting VM
+Mi 15 Mai 2024 11:21:13 CEST: Health check passed - count ------- 43942 (1 row)
+Mi 15 Mai 2024 11:21:18 CEST: Restarting VM
+Mi 15 Mai 2024 11:22:19 CEST: Health check passed - count ------- 44282 (1 row)
+Mi 15 Mai 2024 11:22:24 CEST: Restarting VM
+Mi 15 Mai 2024 11:23:24 CEST: Health check passed - count ------- 44636 (1 row)
+Mi 15 Mai 2024 11:23:29 CEST: Restarting VM
+Mi 15 Mai 2024 11:24:29 CEST: Health check passed - count ------- 44978 (1 row)
+Mi 15 Mai 2024 11:24:34 CEST: Restarting VM
+Mi 15 Mai 2024 11:25:34 CEST: Health check passed - count ------- 45347 (1 row)
+Mi 15 Mai 2024 11:25:39 CEST: Restarting VM
+Mi 15 Mai 2024 11:26:40 CEST: Health check passed - count ------- 45717 (1 row)
+Mi 15 Mai 2024 11:26:45 CEST: Restarting VM
+Mi 15 Mai 2024 11:27:45 CEST: Health check passed - count ------- 46064 (1 row)
+Mi 15 Mai 2024 11:27:50 CEST: Restarting VM
+Mi 15 Mai 2024 11:28:50 CEST: Health check passed - count ------- 46410 (1 row)
+Mi 15 Mai 2024 11:28:55 CEST: Restarting VM
+Mi 15 Mai 2024 11:29:55 CEST: Health check passed - count ------- 46760 (1 row)
+Mi 15 Mai 2024 11:30:01 CEST: Restarting VM
+Mi 15 Mai 2024 11:31:01 CEST: Health check passed - count ------- 47031 (1 row)
+Mi 15 Mai 2024 11:31:06 CEST: Restarting VM
+Mi 15 Mai 2024 11:32:06 CEST: Health check passed - count ------- 47455 (1 row)
+Mi 15 Mai 2024 11:32:11 CEST: Restarting VM
+Mi 15 Mai 2024 11:33:11 CEST: Health check passed - count ------- 47712 (1 row)
+Mi 15 Mai 2024 11:33:16 CEST: Restarting VM
+Mi 15 Mai 2024 11:34:17 CEST: Health check passed - count ------- 48118 (1 row)
+Mi 15 Mai 2024 11:34:22 CEST: Restarting VM
+Mi 15 Mai 2024 11:35:22 CEST: Health check passed - count ------- 48451 (1 row)
+Mi 15 Mai 2024 11:35:27 CEST: Restarting VM
+Mi 15 Mai 2024 11:36:27 CEST: Health check passed - count ------- 48799 (1 row)
+Mi 15 Mai 2024 11:36:32 CEST: Restarting VM
+Mi 15 Mai 2024 11:37:32 CEST: Health check passed - count ------- 49155 (1 row)
+Mi 15 Mai 2024 11:37:37 CEST: Restarting VM
+Mi 15 Mai 2024 11:38:38 CEST: Health check passed - count ------- 49394 (1 row)
+Mi 15 Mai 2024 11:38:43 CEST: Restarting VM
+Mi 15 Mai 2024 11:39:43 CEST: Health check passed - count ------- 49734 (1 row)
+Mi 15 Mai 2024 11:39:48 CEST: Restarting VM
+Mi 15 Mai 2024 11:40:48 CEST: Health check passed - count ------- 50196 (1 row)
+Mi 15 Mai 2024 11:40:53 CEST: Restarting VM
+Mi 15 Mai 2024 11:41:53 CEST: Health check passed - count ------- 50457 (1 row)
+Mi 15 Mai 2024 11:41:58 CEST: Restarting VM
+Mi 15 Mai 2024 11:42:59 CEST: Health check passed - count ------- 50895 (1 row)
+Mi 15 Mai 2024 11:43:04 CEST: Restarting VM
+Mi 15 Mai 2024 11:44:04 CEST: Health check passed - count ------- 51255 (1 row)
+Mi 15 Mai 2024 11:44:09 CEST: Restarting VM
+Mi 15 Mai 2024 11:45:09 CEST: Health check passed - count ------- 51593 (1 row)
+Mi 15 Mai 2024 11:45:14 CEST: Restarting VM
+Mi 15 Mai 2024 11:46:14 CEST: Health check passed - count ------- 51966 (1 row)
+Mi 15 Mai 2024 11:46:19 CEST: Restarting VM
+Mi 15 Mai 2024 11:47:20 CEST: Health check passed - count ------- 52311 (1 row)
+Mi 15 Mai 2024 11:47:25 CEST: Restarting VM
+Mi 15 Mai 2024 11:48:25 CEST: Health check passed - count ------- 52636 (1 row)
+Mi 15 Mai 2024 11:48:30 CEST: Restarting VM
+Mi 15 Mai 2024 11:49:30 CEST: Health check passed - count ------- 52969 (1 row)
+Mi 15 Mai 2024 11:49:35 CEST: Restarting VM
+Mi 15 Mai 2024 11:50:36 CEST: Health check passed - count ------- 53185 (1 row)
+Mi 15 Mai 2024 11:50:41 CEST: Restarting VM
+Mi 15 Mai 2024 11:51:41 CEST: Health check passed - count ------- 53602 (1 row)
+Mi 15 Mai 2024 11:51:46 CEST: Restarting VM
+Mi 15 Mai 2024 11:52:46 CEST: Health check passed - count ------- 53952 (1 row)
+Mi 15 Mai 2024 11:52:51 CEST: Restarting VM
+Mi 15 Mai 2024 11:53:51 CEST: Health check passed - count ------- 54309 (1 row)
+Mi 15 Mai 2024 11:53:56 CEST: Restarting VM
+Mi 15 Mai 2024 11:54:57 CEST: Health check passed - count ------- 54644 (1 row)
+Mi 15 Mai 2024 11:55:02 CEST: Restarting VM
+Mi 15 Mai 2024 11:56:02 CEST: Health check passed - count ------- 54999 (1 row)
+Mi 15 Mai 2024 11:56:07 CEST: Restarting VM
+Mi 15 Mai 2024 11:57:07 CEST: Health check passed - count ------- 55330 (1 row)
+Mi 15 Mai 2024 11:57:12 CEST: Restarting VM
+Mi 15 Mai 2024 11:58:12 CEST: Health check passed - count ------- 55657 (1 row)
+Mi 15 Mai 2024 11:58:17 CEST: Restarting VM
+Mi 15 Mai 2024 11:59:18 CEST: Health check passed - count ------- 55992 (1 row)
+Mi 15 Mai 2024 11:59:23 CEST: Restarting VM
+Mi 15 Mai 2024 12:00:23 CEST: Health check passed - count ------- 56343 (1 row)
+Mi 15 Mai 2024 12:00:28 CEST: Restarting VM
+Mi 15 Mai 2024 12:01:28 CEST: Health check passed - count ------- 56600 (1 row)
+Mi 15 Mai 2024 12:01:33 CEST: Restarting VM
+Mi 15 Mai 2024 12:02:33 CEST: Health check passed - count ------- 57039 (1 row)
+Mi 15 Mai 2024 12:02:39 CEST: Restarting VM
+Mi 15 Mai 2024 12:03:39 CEST: Health check passed - count ------- 57376 (1 row)
+Mi 15 Mai 2024 12:03:44 CEST: Restarting VM
+Mi 15 Mai 2024 12:04:44 CEST: Health check passed - count ------- 57708 (1 row)
+Mi 15 Mai 2024 12:04:49 CEST: Restarting VM
+Mi 15 Mai 2024 12:05:49 CEST: Health check passed - count ------- 58067 (1 row)
+Mi 15 Mai 2024 12:05:54 CEST: Restarting VM
+Mi 15 Mai 2024 12:06:55 CEST: Health check passed - count ------- 58420 (1 row)
+Mi 15 Mai 2024 12:07:00 CEST: Restarting VM
+Mi 15 Mai 2024 12:08:00 CEST: Health check passed - count ------- 58665 (1 row)
+Mi 15 Mai 2024 12:08:05 CEST: Restarting VM
+Mi 15 Mai 2024 12:09:05 CEST: Health check passed - count ------- 59097 (1 row)
+Mi 15 Mai 2024 12:09:10 CEST: Restarting VM
+Mi 15 Mai 2024 12:10:10 CEST: Health check passed - count ------- 59337 (1 row)
+Mi 15 Mai 2024 12:10:15 CEST: Restarting VM
+Mi 15 Mai 2024 12:11:16 CEST: Health check passed - count ------- 59754 (1 row)
+Mi 15 Mai 2024 12:11:21 CEST: Restarting VM
+Mi 15 Mai 2024 12:12:21 CEST: Health check passed - count ------- 60087 (1 row)
+Mi 15 Mai 2024 12:12:26 CEST: Restarting VM
+Mi 15 Mai 2024 12:13:26 CEST: Health check passed - count ------- 60342 (1 row)
+Mi 15 Mai 2024 12:13:31 CEST: Restarting VM
+Mi 15 Mai 2024 12:14:32 CEST: Health check passed - count ------- 60759 (1 row)
+Mi 15 Mai 2024 12:14:37 CEST: Restarting VM
+Mi 15 Mai 2024 12:15:37 CEST: Health check passed - count ------- 61089 (1 row)
+Mi 15 Mai 2024 12:15:42 CEST: Restarting VM
+Mi 15 Mai 2024 12:16:42 CEST: Health check passed - count ------- 61419 (1 row)
+Mi 15 Mai 2024 12:16:47 CEST: Restarting VM
+Mi 15 Mai 2024 12:17:47 CEST: Health check passed - count ------- 61752 (1 row)
+Mi 15 Mai 2024 12:17:52 CEST: Restarting VM
+Mi 15 Mai 2024 12:18:53 CEST: Health check passed - count ------- 62071 (1 row)
+Mi 15 Mai 2024 12:18:58 CEST: Restarting VM
+Mi 15 Mai 2024 12:19:58 CEST: Health check passed - count ------- 62414 (1 row)
+Mi 15 Mai 2024 12:20:03 CEST: Restarting VM
+Mi 15 Mai 2024 12:21:03 CEST: Health check passed - count ------- 62629 (1 row)
+Mi 15 Mai 2024 12:21:08 CEST: Restarting VM
+Mi 15 Mai 2024 12:22:08 CEST: Health check passed - count ------- 63047 (1 row)
+Mi 15 Mai 2024 12:22:14 CEST: Restarting VM
+Mi 15 Mai 2024 12:23:14 CEST: Health check passed - count ------- 63292 (1 row)
+Mi 15 Mai 2024 12:23:19 CEST: Restarting VM
+Mi 15 Mai 2024 12:24:19 CEST: Health check passed - count ------- 63628 (1 row)
+Mi 15 Mai 2024 12:24:24 CEST: Restarting VM
+Mi 15 Mai 2024 12:25:24 CEST: Health check passed - count ------- 64035 (1 row)
+Mi 15 Mai 2024 12:25:29 CEST: Restarting VM
+Mi 15 Mai 2024 12:26:30 CEST: Health check passed - count ------- 64362 (1 row)
+Mi 15 Mai 2024 12:26:35 CEST: Restarting VM
+Mi 15 Mai 2024 12:27:35 CEST: Health check passed - count ------- 64691 (1 row)
+Mi 15 Mai 2024 12:27:40 CEST: Restarting VM
+Mi 15 Mai 2024 12:28:40 CEST: Health check passed - count ------- 64909 (1 row)
+Mi 15 Mai 2024 12:28:45 CEST: Restarting VM
+Mi 15 Mai 2024 12:29:45 CEST: Health check passed - count ------- 65330 (1 row)
+Mi 15 Mai 2024 12:29:50 CEST: Restarting VM
+Mi 15 Mai 2024 12:30:51 CEST: Health check passed - count ------- 65641 (1 row)
+Mi 15 Mai 2024 12:30:56 CEST: Restarting VM
+Mi 15 Mai 2024 12:31:56 CEST: Health check passed - count ------- 65978 (1 row)
+Mi 15 Mai 2024 12:32:01 CEST: Restarting VM
+Mi 15 Mai 2024 12:33:01 CEST: Health check passed - count ------- 66183 (1 row)
+Mi 15 Mai 2024 12:33:06 CEST: Restarting VM
+Mi 15 Mai 2024 12:34:07 CEST: Health check passed - count ------- 66514 (1 row)
+Mi 15 Mai 2024 12:34:12 CEST: Restarting VM
+Mi 15 Mai 2024 12:35:12 CEST: Health check passed - count ------- 66929 (1 row)
+Mi 15 Mai 2024 12:35:17 CEST: Restarting VM
+Mi 15 Mai 2024 12:36:17 CEST: Health check passed - count ------- 67223 (1 row)
+Mi 15 Mai 2024 12:36:22 CEST: Restarting VM
+Mi 15 Mai 2024 12:37:22 CEST: Health check passed - count ------- 67532 (1 row)
+Mi 15 Mai 2024 12:37:27 CEST: Restarting VM
+Mi 15 Mai 2024 12:38:28 CEST: Health check passed - count ------- 67841 (1 row)
+Mi 15 Mai 2024 12:38:33 CEST: Restarting VM
+Mi 15 Mai 2024 12:39:33 CEST: Health check passed - count ------- 68148 (1 row)
+Mi 15 Mai 2024 12:39:38 CEST: Restarting VM
+Mi 15 Mai 2024 12:40:38 CEST: Health check passed - count ------- 68482 (1 row)
+Mi 15 Mai 2024 12:40:43 CEST: Restarting VM
+Mi 15 Mai 2024 12:41:44 CEST: Health check passed - count ------- 68784 (1 row)
+Mi 15 Mai 2024 12:41:49 CEST: Restarting VM
+Mi 15 Mai 2024 12:42:49 CEST: Health check passed - count ------- 69080 (1 row)
+Mi 15 Mai 2024 12:42:54 CEST: Restarting VM
+Mi 15 Mai 2024 12:43:54 CEST: Health check passed - count ------- 69382 (1 row)
+Mi 15 Mai 2024 12:43:59 CEST: Restarting VM
+Mi 15 Mai 2024 12:44:59 CEST: Health check passed - count ------- 69677 (1 row)
+Mi 15 Mai 2024 12:45:04 CEST: Restarting VM
+Mi 15 Mai 2024 12:46:05 CEST: Health check passed - count ------- 69858 (1 row)
+Mi 15 Mai 2024 12:46:10 CEST: Restarting VM
+Mi 15 Mai 2024 12:47:10 CEST: Health check passed - count ------- 70237 (1 row)
+Mi 15 Mai 2024 12:47:15 CEST: Restarting VM
+Mi 15 Mai 2024 12:48:15 CEST: Health check passed - count ------- 70533 (1 row)
+Mi 15 Mai 2024 12:48:20 CEST: Restarting VM
+Mi 15 Mai 2024 12:49:21 CEST: Health check passed - count ------- 70833 (1 row)
+Mi 15 Mai 2024 12:49:26 CEST: Restarting VM
+Mi 15 Mai 2024 12:50:26 CEST: Health check passed - count ------- 71153 (1 row)
+Mi 15 Mai 2024 12:50:31 CEST: Restarting VM
+Mi 15 Mai 2024 12:51:31 CEST: Health check passed - count ------- 71361 (1 row)
+Mi 15 Mai 2024 12:51:36 CEST: Restarting VM
+Mi 15 Mai 2024 12:52:36 CEST: Health check passed - count ------- 71772 (1 row)
+Mi 15 Mai 2024 12:52:41 CEST: Restarting VM
+Mi 15 Mai 2024 12:53:42 CEST: Health check passed - count ------- 71957 (1 row)
+Mi 15 Mai 2024 12:53:47 CEST: Restarting VM
+Mi 15 Mai 2024 12:54:47 CEST: Health check passed - count ------- 72369 (1 row)
+Mi 15 Mai 2024 12:54:52 CEST: Restarting VM
+Mi 15 Mai 2024 12:55:52 CEST: Health check passed - count ------- 72682 (1 row)
+Mi 15 Mai 2024 12:55:57 CEST: Restarting VM
+Mi 15 Mai 2024 12:56:58 CEST: Health check passed - count ------- 72989 (1 row)
+Mi 15 Mai 2024 12:57:03 CEST: Restarting VM
+Mi 15 Mai 2024 12:58:03 CEST: Health check passed - count ------- 73183 (1 row)
+Mi 15 Mai 2024 12:58:08 CEST: Restarting VM
+Mi 15 Mai 2024 12:59:08 CEST: Health check passed - count ------- 73563 (1 row)
+Mi 15 Mai 2024 12:59:13 CEST: Restarting VM
+Mi 15 Mai 2024 13:00:14 CEST: Health check passed - count ------- 73860 (1 row)
+Mi 15 Mai 2024 13:00:19 CEST: Restarting VM
+Mi 15 Mai 2024 13:01:19 CEST: Health check passed - count ------- 74164 (1 row)
+Mi 15 Mai 2024 13:01:24 CEST: Restarting VM
+Mi 15 Mai 2024 13:02:24 CEST: Health check passed - count ------- 74359 (1 row)
+Mi 15 Mai 2024 13:02:29 CEST: Restarting VM
+Mi 15 Mai 2024 13:03:29 CEST: Health check passed - count ------- 74769 (1 row)
+Mi 15 Mai 2024 13:03:34 CEST: Restarting VM
+Mi 15 Mai 2024 13:04:35 CEST: Health check passed - count ------- 75069 (1 row)
+Mi 15 Mai 2024 13:04:40 CEST: Restarting VM
+Mi 15 Mai 2024 13:05:40 CEST: Health check passed - count ------- 75355 (1 row)
+Mi 15 Mai 2024 13:05:45 CEST: Restarting VM
+Mi 15 Mai 2024 13:06:45 CEST: Health check passed - count ------- 75527 (1 row)
+Mi 15 Mai 2024 13:06:50 CEST: Restarting VM
+Mi 15 Mai 2024 13:07:51 CEST: Health check passed - count ------- 75830 (1 row)
+Mi 15 Mai 2024 13:07:56 CEST: Restarting VM
+Mi 15 Mai 2024 13:08:56 CEST: Health check passed - count ------- 76218 (1 row)
+Mi 15 Mai 2024 13:09:01 CEST: Restarting VM
+Mi 15 Mai 2024 13:10:01 CEST: Health check passed - count ------- 76425 (1 row)
+Mi 15 Mai 2024 13:10:06 CEST: Restarting VM
+Mi 15 Mai 2024 13:11:07 CEST: Health check passed - count ------- 76801 (1 row)
+Mi 15 Mai 2024 13:11:12 CEST: Restarting VM
+Mi 15 Mai 2024 13:12:12 CEST: Health check passed - count ------- 77004 (1 row)
+Mi 15 Mai 2024 13:12:17 CEST: Restarting VM
+Mi 15 Mai 2024 13:13:17 CEST: Health check passed - count ------- 77283 (1 row)
+Mi 15 Mai 2024 13:13:22 CEST: Restarting VM
+Mi 15 Mai 2024 13:14:22 CEST: Health check passed - count ------- 77683 (1 row)
+Mi 15 Mai 2024 13:14:27 CEST: Restarting VM
+Mi 15 Mai 2024 13:15:28 CEST: Health check passed - count ------- 77960 (1 row)
+Mi 15 Mai 2024 13:15:33 CEST: Restarting VM
+Mi 15 Mai 2024 13:16:33 CEST: Health check passed - count ------- 78259 (1 row)
+Mi 15 Mai 2024 13:16:38 CEST: Restarting VM
+Mi 15 Mai 2024 13:17:38 CEST: Health check passed - count ------- 78448 (1 row)
+Mi 15 Mai 2024 13:17:43 CEST: Restarting VM
+Mi 15 Mai 2024 13:18:44 CEST: Health check passed - count ------- 78837 (1 row)
+Mi 15 Mai 2024 13:18:49 CEST: Restarting VM
+Mi 15 Mai 2024 13:19:49 CEST: Health check passed - count ------- 79022 (1 row)
+Mi 15 Mai 2024 13:19:54 CEST: Restarting VM
+Mi 15 Mai 2024 13:20:54 CEST: Health check passed - count ------- 79392 (1 row)
+Mi 15 Mai 2024 13:20:59 CEST: Restarting VM
+Mi 15 Mai 2024 13:22:00 CEST: Health check passed - count ------- 79592 (1 row)
+Mi 15 Mai 2024 13:22:05 CEST: Restarting VM
+Mi 15 Mai 2024 13:23:05 CEST: Health check passed - count ------- 79985 (1 row)
+Mi 15 Mai 2024 13:23:10 CEST: Restarting VM
+Mi 15 Mai 2024 13:24:10 CEST: Health check passed - count ------- 80277 (1 row)
+Mi 15 Mai 2024 13:24:15 CEST: Restarting VM
+Mi 15 Mai 2024 13:25:15 CEST: Health check passed - count ------- 80552 (1 row)
+Mi 15 Mai 2024 13:25:21 CEST: Restarting VM
+Mi 15 Mai 2024 13:26:21 CEST: Health check passed - count ------- 80809 (1 row)
+Mi 15 Mai 2024 13:26:26 CEST: Restarting VM
+Mi 15 Mai 2024 13:27:26 CEST: Health check passed - count ------- 81076 (1 row)
+Mi 15 Mai 2024 13:27:31 CEST: Restarting VM
+Mi 15 Mai 2024 13:28:31 CEST: Health check passed - count ------- 81246 (1 row)
+Mi 15 Mai 2024 13:28:37 CEST: Restarting VM
+Mi 15 Mai 2024 13:29:37 CEST: Health check passed - count ------- 81605 (1 row)
+Mi 15 Mai 2024 13:29:42 CEST: Restarting VM
+Mi 15 Mai 2024 13:30:42 CEST: Health check passed - count ------- 81764 (1 row)
+Mi 15 Mai 2024 13:30:47 CEST: Restarting VM
+Mi 15 Mai 2024 13:31:47 CEST: Health check passed - count ------- 82121 (1 row)
+Mi 15 Mai 2024 13:31:52 CEST: Restarting VM
+Mi 15 Mai 2024 13:32:53 CEST: Health check passed - count ------- 82399 (1 row)
+Mi 15 Mai 2024 13:32:58 CEST: Restarting VM
+Mi 15 Mai 2024 13:33:58 CEST: Health check passed - count ------- 82696 (1 row)
+Mi 15 Mai 2024 13:34:03 CEST: Restarting VM
+Mi 15 Mai 2024 13:35:03 CEST: Health check passed - count ------- 82960 (1 row)
+Mi 15 Mai 2024 13:35:08 CEST: Restarting VM
+Mi 15 Mai 2024 13:36:09 CEST: Health check passed - count ------- 83128 (1 row)
+Mi 15 Mai 2024 13:36:14 CEST: Restarting VM
+Mi 15 Mai 2024 13:37:14 CEST: Health check passed - count ------- 83494 (1 row)
+Mi 15 Mai 2024 13:37:19 CEST: Restarting VM
+Mi 15 Mai 2024 13:38:19 CEST: Health check passed - count ------- 83772 (1 row)
+Mi 15 Mai 2024 13:38:24 CEST: Restarting VM
+Mi 15 Mai 2024 13:39:25 CEST: Health check passed - count ------- 84059 (1 row)
+Mi 15 Mai 2024 13:39:30 CEST: Restarting VM
+Mi 15 Mai 2024 13:40:30 CEST: Health check passed - count ------- 84333 (1 row)
+Mi 15 Mai 2024 13:40:35 CEST: Restarting VM
+Mi 15 Mai 2024 13:41:35 CEST: Health check passed - count ------- 84609 (1 row)
+Mi 15 Mai 2024 13:41:40 CEST: Restarting VM
+Mi 15 Mai 2024 13:42:40 CEST: Health check passed - count ------- 84891 (1 row)
+Mi 15 Mai 2024 13:42:45 CEST: Restarting VM
+Mi 15 Mai 2024 13:43:46 CEST: Health check passed - count ------- 85164 (1 row)
+Mi 15 Mai 2024 13:43:51 CEST: Restarting VM
+Mi 15 Mai 2024 13:44:51 CEST: Health check passed - count ------- 85442 (1 row)
+Mi 15 Mai 2024 13:44:56 CEST: Restarting VM
+Mi 15 Mai 2024 13:45:56 CEST: Health check passed - count ------- 85677 (1 row)
+Mi 15 Mai 2024 13:46:01 CEST: Restarting VM
+Mi 15 Mai 2024 13:47:02 CEST: Health check passed - count ------- 85944 (1 row)
+Mi 15 Mai 2024 13:47:07 CEST: Restarting VM
+Mi 15 Mai 2024 13:48:07 CEST: Health check passed - count ------- 86220 (1 row)
+Mi 15 Mai 2024 13:48:12 CEST: Restarting VM
+Mi 15 Mai 2024 13:49:12 CEST: Health check passed - count ------- 86501 (1 row)
+Mi 15 Mai 2024 13:49:17 CEST: Restarting VM
+Mi 15 Mai 2024 13:50:18 CEST: Health check passed - count ------- 86787 (1 row)
+Mi 15 Mai 2024 13:50:23 CEST: Restarting VM
+Mi 15 Mai 2024 13:51:23 CEST: Health check passed - count ------- 87059 (1 row)
+Mi 15 Mai 2024 13:51:28 CEST: Restarting VM
+Mi 15 Mai 2024 13:52:28 CEST: Health check passed - count ------- 87326 (1 row)
+Mi 15 Mai 2024 13:52:33 CEST: Restarting VM
+Mi 15 Mai 2024 13:53:34 CEST: Health check passed - count ------- 87587 (1 row)
+Mi 15 Mai 2024 13:53:39 CEST: Restarting VM
+Mi 15 Mai 2024 13:54:39 CEST: Health check passed - count ------- 87765 (1 row)
+Mi 15 Mai 2024 13:54:44 CEST: Restarting VM
+Mi 15 Mai 2024 13:55:44 CEST: Health check passed - count ------- 88035 (1 row)
+Mi 15 Mai 2024 13:55:49 CEST: Restarting VM
+Mi 15 Mai 2024 13:56:49 CEST: Health check passed - count ------- 88393 (1 row)
+Mi 15 Mai 2024 13:56:55 CEST: Restarting VM
+Mi 15 Mai 2024 13:57:55 CEST: Health check passed - count ------- 88571 (1 row)
+Mi 15 Mai 2024 13:58:00 CEST: Restarting VM
+Mi 15 Mai 2024 13:59:00 CEST: Health check passed - count ------- 88948 (1 row)
+Mi 15 Mai 2024 13:59:05 CEST: Restarting VM
+Mi 15 Mai 2024 14:00:05 CEST: Health check passed - count ------- 89123 (1 row)
+Mi 15 Mai 2024 14:00:10 CEST: Restarting VM
+Mi 15 Mai 2024 14:01:11 CEST: Health check passed - count ------- 89477 (1 row)
+Mi 15 Mai 2024 14:01:16 CEST: Restarting VM
+Mi 15 Mai 2024 14:02:16 CEST: Health check passed - count ------- 89659 (1 row)
+Mi 15 Mai 2024 14:02:21 CEST: Restarting VM
+Mi 15 Mai 2024 14:03:21 CEST: Health check passed - count ------- 90020 (1 row)
+Mi 15 Mai 2024 14:03:26 CEST: Restarting VM
+Mi 15 Mai 2024 14:04:27 CEST: Health check passed - count ------- 90281 (1 row)
+Mi 15 Mai 2024 14:04:32 CEST: Restarting VM
+Mi 15 Mai 2024 14:05:32 CEST: Health check passed - count ------- 90552 (1 row)
+Mi 15 Mai 2024 14:05:37 CEST: Restarting VM
+Mi 15 Mai 2024 14:06:37 CEST: Health check passed - count ------- 90727 (1 row)
+Mi 15 Mai 2024 14:06:42 CEST: Restarting VM
+Mi 15 Mai 2024 14:07:43 CEST: Health check passed - count ------- 91100 (1 row)
+Mi 15 Mai 2024 14:07:48 CEST: Restarting VM
+Mi 15 Mai 2024 14:08:48 CEST: Health check passed - count ------- 91267 (1 row)
+Mi 15 Mai 2024 14:08:53 CEST: Restarting VM
+Mi 15 Mai 2024 14:09:53 CEST: Health check passed - count ------- 91641 (1 row)
+Mi 15 Mai 2024 14:09:58 CEST: Restarting VM
+Mi 15 Mai 2024 14:10:59 CEST: Health check passed - count ------- 91916 (1 row)
+Mi 15 Mai 2024 14:11:04 CEST: Restarting VM
+Mi 15 Mai 2024 14:12:04 CEST: Health check passed - count ------- 92168 (1 row)
+Mi 15 Mai 2024 14:12:09 CEST: Restarting VM
+Mi 15 Mai 2024 14:13:09 CEST: Health check passed - count ------- 92440 (1 row)
+Mi 15 Mai 2024 14:13:14 CEST: Restarting VM
+Mi 15 Mai 2024 14:14:14 CEST: Health check passed - count ------- 92693 (1 row)
+Mi 15 Mai 2024 14:14:19 CEST: Restarting VM
+Mi 15 Mai 2024 14:15:20 CEST: Health check passed - count ------- 92952 (1 row)
+Mi 15 Mai 2024 14:15:25 CEST: Restarting VM
+Mi 15 Mai 2024 14:16:25 CEST: Health check passed - count ------- 93114 (1 row)
+Mi 15 Mai 2024 14:16:30 CEST: Restarting VM
+Mi 15 Mai 2024 14:17:30 CEST: Health check passed - count ------- 93470 (1 row)
+Mi 15 Mai 2024 14:17:35 CEST: Restarting VM
+Mi 15 Mai 2024 14:18:36 CEST: Health check passed - count ------- 93729 (1 row)
+Mi 15 Mai 2024 14:18:41 CEST: Restarting VM
+Mi 15 Mai 2024 14:19:41 CEST: Health check passed - count ------- 93980 (1 row)
+Mi 15 Mai 2024 14:19:46 CEST: Restarting VM
+Mi 15 Mai 2024 14:20:46 CEST: Health check passed - count ------- 94253 (1 row)
+Mi 15 Mai 2024 14:20:51 CEST: Restarting VM
+Mi 15 Mai 2024 14:21:52 CEST: Health check passed - count ------- 94509 (1 row)
+Mi 15 Mai 2024 14:21:57 CEST: Restarting VM
+Mi 15 Mai 2024 14:22:57 CEST: Health check passed - count ------- 94759 (1 row)
+Mi 15 Mai 2024 14:23:02 CEST: Restarting VM
+Mi 15 Mai 2024 14:24:02 CEST: Health check passed - count ------- 95008 (1 row)
+Mi 15 Mai 2024 14:24:07 CEST: Restarting VM
+Mi 15 Mai 2024 14:25:08 CEST: Health check passed - count ------- 95137 (1 row)
+Mi 15 Mai 2024 14:25:13 CEST: Restarting VM
+Mi 15 Mai 2024 14:26:13 CEST: Health check passed - count ------- 95474 (1 row)
+Mi 15 Mai 2024 14:26:18 CEST: Restarting VM
+Mi 15 Mai 2024 14:27:18 CEST: Health check passed - count ------- 95624 (1 row)
+Mi 15 Mai 2024 14:27:23 CEST: Restarting VM
+Mi 15 Mai 2024 14:28:24 CEST: Health check passed - count ------- 95973 (1 row)
+Mi 15 Mai 2024 14:28:29 CEST: Restarting VM
+Mi 15 Mai 2024 14:29:29 CEST: Health check passed - count ------- 96242 (1 row)
+Mi 15 Mai 2024 14:29:34 CEST: Restarting VM
+Mi 15 Mai 2024 14:30:34 CEST: Health check passed - count ------- 96518 (1 row)
+Mi 15 Mai 2024 14:30:39 CEST: Restarting VM
+Mi 15 Mai 2024 14:31:39 CEST: Health check passed - count ------- 96785 (1 row)
+Mi 15 Mai 2024 14:31:45 CEST: Restarting VM
+Mi 15 Mai 2024 14:32:45 CEST: Health check passed - count ------- 96955 (1 row)
+Mi 15 Mai 2024 14:32:50 CEST: Restarting VM
+Mi 15 Mai 2024 14:33:50 CEST: Health check passed - count ------- 97217 (1 row)
+Mi 15 Mai 2024 14:33:55 CEST: Restarting VM
+Mi 15 Mai 2024 14:34:55 CEST: Health check passed - count ------- 97598 (1 row)
+Mi 15 Mai 2024 14:35:00 CEST: Restarting VM
+Mi 15 Mai 2024 14:36:01 CEST: Health check passed - count ------- 97843 (1 row)
+Mi 15 Mai 2024 14:36:06 CEST: Restarting VM
+Mi 15 Mai 2024 14:37:06 CEST: Health check passed - count ------- 98014 (1 row)
+Mi 15 Mai 2024 14:37:11 CEST: Restarting VM
+Mi 15 Mai 2024 14:38:11 CEST: Health check passed - count ------- 98285 (1 row)
+Mi 15 Mai 2024 14:38:16 CEST: Restarting VM
+Mi 15 Mai 2024 14:39:17 CEST: Health check passed - count ------- 98647 (1 row)
+Mi 15 Mai 2024 14:39:22 CEST: Restarting VM
+Mi 15 Mai 2024 14:40:22 CEST: Health check passed - count ------- 98804 (1 row)
+Mi 15 Mai 2024 14:40:27 CEST: Restarting VM
+Mi 15 Mai 2024 14:41:27 CEST: Health check passed - count ------- 99082 (1 row)
+Mi 15 Mai 2024 14:41:32 CEST: Restarting VM
+Mi 15 Mai 2024 14:42:33 CEST: Health check passed - count ------- 99456 (1 row)
+Mi 15 Mai 2024 14:42:38 CEST: Restarting VM
+Mi 15 Mai 2024 14:43:38 CEST: Health check passed - count ------- 99713 (1 row)
+Mi 15 Mai 2024 14:43:43 CEST: Restarting VM
+Mi 15 Mai 2024 14:44:43 CEST: Health check passed - count ------- 99968 (1 row)
+Mi 15 Mai 2024 14:44:48 CEST: Restarting VM
+Mi 15 Mai 2024 14:45:48 CEST: Health check passed - count -------- 100220 (1 row)
+Mi 15 Mai 2024 14:45:54 CEST: Restarting VM
+Mi 15 Mai 2024 14:46:54 CEST: Health check passed - count -------- 100476 (1 row)
+Mi 15 Mai 2024 14:46:59 CEST: Restarting VM
+Mi 15 Mai 2024 14:47:59 CEST: Health check passed - count -------- 100734 (1 row)
+Mi 15 Mai 2024 14:48:04 CEST: Restarting VM
+Mi 15 Mai 2024 14:49:04 CEST: Health check passed - count -------- 100896 (1 row)
+Mi 15 Mai 2024 14:49:09 CEST: Restarting VM
+Mi 15 Mai 2024 14:50:10 CEST: Health check passed - count -------- 101260 (1 row)
+Mi 15 Mai 2024 14:50:15 CEST: Restarting VM
+Mi 15 Mai 2024 14:51:15 CEST: Health check passed - count -------- 101527 (1 row)
+Mi 15 Mai 2024 14:51:20 CEST: Restarting VM
+Mi 15 Mai 2024 14:52:20 CEST: Health check passed - count -------- 101772 (1 row)
+Mi 15 Mai 2024 14:52:25 CEST: Restarting VM
+Mi 15 Mai 2024 14:53:26 CEST: Health check passed - count -------- 101934 (1 row)
+Mi 15 Mai 2024 14:53:31 CEST: Restarting VM
+Mi 15 Mai 2024 14:54:31 CEST: Health check passed - count -------- 102198 (1 row)
+Mi 15 Mai 2024 14:54:36 CEST: Restarting VM
+Mi 15 Mai 2024 14:55:36 CEST: Health check passed - count -------- 102462 (1 row)
+Mi 15 Mai 2024 14:55:41 CEST: Restarting VM
+Mi 15 Mai 2024 14:56:42 CEST: Health check passed - count -------- 102812 (1 row)
+Mi 15 Mai 2024 14:56:47 CEST: Restarting VM
+Mi 15 Mai 2024 14:57:47 CEST: Health check passed - count -------- 103067 (1 row)
+Mi 15 Mai 2024 14:57:52 CEST: Restarting VM
+Mi 15 Mai 2024 14:58:52 CEST: Health check passed - count -------- 103316 (1 row)
+Mi 15 Mai 2024 14:58:57 CEST: Restarting VM
+Mi 15 Mai 2024 14:59:58 CEST: Health check passed - count -------- 103565 (1 row)
+Mi 15 Mai 2024 15:00:03 CEST: Restarting VM
+Mi 15 Mai 2024 15:01:03 CEST: Health check passed - count -------- 103720 (1 row)
+Mi 15 Mai 2024 15:01:08 CEST: Restarting VM
+Mi 15 Mai 2024 15:02:08 CEST: Health check passed - count -------- 104086 (1 row)
+Mi 15 Mai 2024 15:02:13 CEST: Restarting VM
+Mi 15 Mai 2024 15:03:13 CEST: Health check passed - count -------- 104253 (1 row)
+Mi 15 Mai 2024 15:03:18 CEST: Restarting VM
+Mi 15 Mai 2024 15:04:19 CEST: Health check passed - count -------- 104517 (1 row)
+Mi 15 Mai 2024 15:04:24 CEST: Restarting VM
+Mi 15 Mai 2024 15:05:24 CEST: Health check passed - count -------- 104872 (1 row)
+Mi 15 Mai 2024 15:05:29 CEST: Restarting VM
+Mi 15 Mai 2024 15:06:29 CEST: Health check passed - count -------- 105127 (1 row)
+Mi 15 Mai 2024 15:06:34 CEST: Restarting VM
+Mi 15 Mai 2024 15:07:35 CEST: Health check passed - count -------- 105391 (1 row)
+Mi 15 Mai 2024 15:07:40 CEST: Restarting VM
+Mi 15 Mai 2024 15:08:40 CEST: Health check passed - count -------- 105643 (1 row)
+Mi 15 Mai 2024 15:08:45 CEST: Restarting VM
+Mi 15 Mai 2024 15:09:45 CEST: Health check passed - count -------- 105908 (1 row)
+Mi 15 Mai 2024 15:09:50 CEST: Restarting VM
+Mi 15 Mai 2024 15:10:51 CEST: Health check passed - count -------- 106148 (1 row)
+Mi 15 Mai 2024 15:10:56 CEST: Restarting VM
+Mi 15 Mai 2024 15:11:56 CEST: Health check passed - count -------- 106412 (1 row)
+Mi 15 Mai 2024 15:12:01 CEST: Restarting VM
+Mi 15 Mai 2024 15:13:01 CEST: Health check passed - count -------- 106659 (1 row)
+Mi 15 Mai 2024 15:13:06 CEST: Restarting VM
+Mi 15 Mai 2024 15:14:07 CEST: Health check passed - count -------- 106793 (1 row)
+Mi 15 Mai 2024 15:14:12 CEST: Restarting VM
+Mi 15 Mai 2024 15:15:12 CEST: Health check passed - count -------- 107137 (1 row)
+Mi 15 Mai 2024 15:15:17 CEST: Restarting VM
+Mi 15 Mai 2024 15:16:17 CEST: Health check passed - count -------- 107396 (1 row)
+Mi 15 Mai 2024 15:16:22 CEST: Restarting VM
+Mi 15 Mai 2024 15:17:23 CEST: Health check passed - count -------- 107641 (1 row)
+Mi 15 Mai 2024 15:17:28 CEST: Restarting VM
+Mi 15 Mai 2024 15:18:28 CEST: Health check passed - count -------- 107896 (1 row)
+Mi 15 Mai 2024 15:18:33 CEST: Restarting VM
+Mi 15 Mai 2024 15:19:33 CEST: Health check passed - count -------- 108142 (1 row)
+Mi 15 Mai 2024 15:19:38 CEST: Restarting VM
+Mi 15 Mai 2024 15:20:38 CEST: Health check passed - count -------- 108390 (1 row)
+Mi 15 Mai 2024 15:20:43 CEST: Restarting VM
+Mi 15 Mai 2024 15:21:44 CEST: Health check passed - count -------- 108630 (1 row)
+Mi 15 Mai 2024 15:21:49 CEST: Restarting VM
+Mi 15 Mai 2024 15:22:49 CEST: Health check passed - count -------- 108772 (1 row)
+Mi 15 Mai 2024 15:22:54 CEST: Restarting VM
+Mi 15 Mai 2024 15:23:54 CEST: Health check passed - count -------- 109022 (1 row)
+Mi 15 Mai 2024 15:23:59 CEST: Restarting VM
+Mi 15 Mai 2024 15:25:00 CEST: Health check passed - count -------- 109361 (1 row)
+Mi 15 Mai 2024 15:25:05 CEST: Restarting VM
+Mi 15 Mai 2024 15:26:05 CEST: Health check passed - count -------- 109501 (1 row)
+Mi 15 Mai 2024 15:26:10 CEST: Restarting VM
+Mi 15 Mai 2024 15:27:10 CEST: Health check passed - count -------- 109841 (1 row)
+Mi 15 Mai 2024 15:27:15 CEST: Restarting VM
+Mi 15 Mai 2024 15:28:16 CEST: Health check passed - count -------- 110095 (1 row)
+Mi 15 Mai 2024 15:28:21 CEST: Restarting VM
+Mi 15 Mai 2024 15:29:21 CEST: Health check passed - count -------- 110251 (1 row)
+Mi 15 Mai 2024 15:29:26 CEST: Restarting VM
+Mi 15 Mai 2024 15:30:26 CEST: Health check passed - count -------- 110600 (1 row)
+Mi 15 Mai 2024 15:30:31 CEST: Restarting VM
+Mi 15 Mai 2024 15:31:32 CEST: Health check passed - count -------- 110819 (1 row)
+Mi 15 Mai 2024 15:31:37 CEST: Restarting VM
+Mi 15 Mai 2024 15:32:37 CEST: Health check passed - count -------- 111068 (1 row)
+Mi 15 Mai 2024 15:32:42 CEST: Restarting VM
+Mi 15 Mai 2024 15:33:42 CEST: Health check passed - count -------- 111293 (1 row)
+Mi 15 Mai 2024 15:33:47 CEST: Restarting VM
+Mi 15 Mai 2024 15:34:48 CEST: Health check passed - count -------- 111524 (1 row)
+Mi 15 Mai 2024 15:34:53 CEST: Restarting VM
+Mi 15 Mai 2024 15:35:53 CEST: Health check passed - count -------- 111749 (1 row)
+Mi 15 Mai 2024 15:35:58 CEST: Restarting VM
+Mi 15 Mai 2024 15:36:58 CEST: Health check passed - count -------- 111969 (1 row)
+Mi 15 Mai 2024 15:37:03 CEST: Restarting VM
+Mi 15 Mai 2024 15:38:03 CEST: Health check passed - count -------- 112212 (1 row)
+Mi 15 Mai 2024 15:38:09 CEST: Restarting VM
+Mi 15 Mai 2024 15:39:09 CEST: Health check passed - count -------- 112356 (1 row)
+Mi 15 Mai 2024 15:39:14 CEST: Restarting VM
+Mi 15 Mai 2024 15:40:14 CEST: Health check passed - count -------- 112693 (1 row)
+Mi 15 Mai 2024 15:40:19 CEST: Restarting VM
+Mi 15 Mai 2024 15:41:19 CEST: Health check passed - count -------- 112835 (1 row)
+Mi 15 Mai 2024 15:41:25 CEST: Restarting VM
+Mi 15 Mai 2024 15:42:25 CEST: Health check passed - count -------- 113164 (1 row)
+Mi 15 Mai 2024 15:42:30 CEST: Restarting VM
+Mi 15 Mai 2024 15:43:30 CEST: Health check passed - count -------- 113402 (1 row)
+Mi 15 Mai 2024 15:43:35 CEST: Restarting VM
+Mi 15 Mai 2024 15:44:35 CEST: Health check passed - count -------- 113641 (1 row)
+Mi 15 Mai 2024 15:44:40 CEST: Restarting VM
+Mi 15 Mai 2024 15:45:41 CEST: Health check passed - count -------- 113890 (1 row)
+Mi 15 Mai 2024 15:45:46 CEST: Restarting VM
+Mi 15 Mai 2024 15:46:46 CEST: Health check passed - count -------- 114139 (1 row)
+Mi 15 Mai 2024 15:46:51 CEST: Restarting VM
+Mi 15 Mai 2024 15:47:51 CEST: Health check passed - count -------- 114365 (1 row)
+Mi 15 Mai 2024 15:47:56 CEST: Restarting VM
+Mi 15 Mai 2024 15:48:57 CEST: Health check passed - count -------- 114600 (1 row)
+Mi 15 Mai 2024 15:49:02 CEST: Restarting VM
+Mi 15 Mai 2024 15:50:02 CEST: Health check passed - count -------- 114826 (1 row)
+Mi 15 Mai 2024 15:50:07 CEST: Restarting VM
+Mi 15 Mai 2024 15:51:07 CEST: Health check passed - count -------- 115078 (1 row)
+Mi 15 Mai 2024 15:51:12 CEST: Restarting VM
+Mi 15 Mai 2024 15:52:13 CEST: Health check passed - count -------- 115328 (1 row)
+Mi 15 Mai 2024 15:52:18 CEST: Restarting VM
+Mi 15 Mai 2024 15:53:18 CEST: Health check passed - count -------- 115574 (1 row)
+Mi 15 Mai 2024 15:53:23 CEST: Restarting VM
+Mi 15 Mai 2024 15:54:23 CEST: Health check passed - count -------- 115807 (1 row)
+Mi 15 Mai 2024 15:54:28 CEST: Restarting VM
+Mi 15 Mai 2024 15:55:29 CEST: Health check passed - count -------- 115948 (1 row)
+Mi 15 Mai 2024 15:55:34 CEST: Restarting VM
+Mi 15 Mai 2024 15:56:34 CEST: Health check passed - count -------- 116269 (1 row)
+Mi 15 Mai 2024 15:56:39 CEST: Restarting VM
+Mi 15 Mai 2024 15:57:39 CEST: Health check passed - count -------- 116491 (1 row)
+Mi 15 Mai 2024 15:57:44 CEST: Restarting VM
+Mi 15 Mai 2024 15:58:45 CEST: Health check passed - count -------- 116734 (1 row)
+Mi 15 Mai 2024 15:58:50 CEST: Restarting VM
+Mi 15 Mai 2024 15:59:50 CEST: Health check passed - count -------- 116883 (1 row)
+Mi 15 Mai 2024 15:59:55 CEST: Restarting VM
+Mi 15 Mai 2024 16:00:55 CEST: Health check passed - count -------- 117218 (1 row)
+Mi 15 Mai 2024 16:01:00 CEST: Restarting VM
+Mi 15 Mai 2024 16:02:01 CEST: Health check passed - count -------- 117459 (1 row)
+Mi 15 Mai 2024 16:02:06 CEST: Restarting VM
+Mi 15 Mai 2024 16:03:06 CEST: Health check passed - count -------- 117696 (1 row)
+Mi 15 Mai 2024 16:03:11 CEST: Restarting VM
+Mi 15 Mai 2024 16:04:11 CEST: Health check passed - count -------- 117928 (1 row)
+Mi 15 Mai 2024 16:04:16 CEST: Restarting VM
+Mi 15 Mai 2024 16:05:16 CEST: Health check passed - count -------- 118149 (1 row)
+Mi 15 Mai 2024 16:05:21 CEST: Restarting VM
+Mi 15 Mai 2024 16:06:22 CEST: Health check passed - count -------- 118387 (1 row)
+Mi 15 Mai 2024 16:06:27 CEST: Restarting VM
+Mi 15 Mai 2024 16:07:27 CEST: Health check passed - count -------- 118635 (1 row)
+Mi 15 Mai 2024 16:07:32 CEST: Restarting VM
+Mi 15 Mai 2024 16:08:32 CEST: Health check passed - count -------- 118868 (1 row)
+Mi 15 Mai 2024 16:08:37 CEST: Restarting VM
+Mi 15 Mai 2024 16:09:38 CEST: Health check passed - count -------- 119084 (1 row)
+Mi 15 Mai 2024 16:09:43 CEST: Restarting VM
+Mi 15 Mai 2024 16:10:43 CEST: Health check passed - count -------- 119308 (1 row)
+Mi 15 Mai 2024 16:10:48 CEST: Restarting VM
+Mi 15 Mai 2024 16:11:48 CEST: Health check passed - count -------- 119429 (1 row)
+Mi 15 Mai 2024 16:11:53 CEST: Restarting VM
+Mi 15 Mai 2024 16:12:54 CEST: Health check passed - count -------- 119663 (1 row)
+Mi 15 Mai 2024 16:12:59 CEST: Restarting VM
+Mi 15 Mai 2024 16:13:59 CEST: Health check passed - count -------- 119989 (1 row)
+Mi 15 Mai 2024 16:14:04 CEST: Restarting VM
+Mi 15 Mai 2024 16:15:04 CEST: Health check passed - count -------- 120210 (1 row)
+Mi 15 Mai 2024 16:15:09 CEST: Restarting VM
+Mi 15 Mai 2024 16:16:10 CEST: Health check passed - count -------- 120458 (1 row)
+Mi 15 Mai 2024 16:16:15 CEST: Restarting VM
+Mi 15 Mai 2024 16:17:15 CEST: Health check passed - count -------- 120691 (1 row)
+Mi 15 Mai 2024 16:17:20 CEST: Restarting VM
+Mi 15 Mai 2024 16:18:20 CEST: Health check passed - count -------- 120832 (1 row)
+Mi 15 Mai 2024 16:18:25 CEST: Restarting VM
+Mi 15 Mai 2024 16:19:26 CEST: Health check passed - count -------- 121172 (1 row)
+Mi 15 Mai 2024 16:19:31 CEST: Restarting VM
+Mi 15 Mai 2024 16:20:31 CEST: Health check passed - count -------- 121396 (1 row)
+Mi 15 Mai 2024 16:20:36 CEST: Restarting VM
+Mi 15 Mai 2024 16:21:36 CEST: Health check passed - count -------- 121641 (1 row)
+Mi 15 Mai 2024 16:21:41 CEST: Restarting VM
+Mi 15 Mai 2024 16:22:42 CEST: Health check passed - count -------- 121876 (1 row)
+Mi 15 Mai 2024 16:22:47 CEST: Restarting VM
+Mi 15 Mai 2024 16:23:47 CEST: Health check passed - count -------- 121998 (1 row)
+Mi 15 Mai 2024 16:23:52 CEST: Restarting VM
+Mi 15 Mai 2024 16:24:52 CEST: Health check passed - count -------- 122334 (1 row)
+Mi 15 Mai 2024 16:24:57 CEST: Restarting VM
+Mi 15 Mai 2024 16:25:58 CEST: Health check passed - count -------- 122554 (1 row)
+Mi 15 Mai 2024 16:26:03 CEST: Restarting VM
+Mi 15 Mai 2024 16:27:03 CEST: Health check passed - count -------- 122672 (1 row)
+Mi 15 Mai 2024 16:27:08 CEST: Restarting VM
+Mi 15 Mai 2024 16:28:08 CEST: Health check passed - count -------- 122903 (1 row)
+Mi 15 Mai 2024 16:28:13 CEST: Restarting VM
+Mi 15 Mai 2024 16:29:14 CEST: Health check passed - count -------- 123234 (1 row)
+Mi 15 Mai 2024 16:29:19 CEST: Restarting VM
+Mi 15 Mai 2024 16:30:19 CEST: Health check passed - count -------- 123448 (1 row)
+Mi 15 Mai 2024 16:30:24 CEST: Restarting VM
+Mi 15 Mai 2024 16:31:24 CEST: Health check passed - count -------- 123664 (1 row)
+Mi 15 Mai 2024 16:31:29 CEST: Restarting VM
+Mi 15 Mai 2024 16:32:30 CEST: Health check passed - count -------- 123900 (1 row)
+Mi 15 Mai 2024 16:32:35 CEST: Restarting VM
+Mi 15 Mai 2024 16:33:35 CEST: Health check passed - count -------- 124119 (1 row)
+Mi 15 Mai 2024 16:33:40 CEST: Restarting VM
+Mi 15 Mai 2024 16:34:40 CEST: Health check passed - count -------- 124352 (1 row)
+Mi 15 Mai 2024 16:34:45 CEST: Restarting VM
+Mi 15 Mai 2024 16:35:46 CEST: Health check passed - count -------- 124568 (1 row)
+Mi 15 Mai 2024 16:35:51 CEST: Restarting VM
+Mi 15 Mai 2024 16:36:51 CEST: Health check passed - count -------- 124776 (1 row)
+Mi 15 Mai 2024 16:36:56 CEST: Restarting VM
+Mi 15 Mai 2024 16:37:56 CEST: Health check passed - count -------- 124990 (1 row)
+Mi 15 Mai 2024 16:38:01 CEST: Restarting VM
+Mi 15 Mai 2024 16:39:02 CEST: Health check passed - count -------- 125215 (1 row)
+Mi 15 Mai 2024 16:39:07 CEST: Restarting VM
+Mi 15 Mai 2024 16:40:07 CEST: Health check passed - count -------- 125315 (1 row)
+Mi 15 Mai 2024 16:40:12 CEST: Restarting VM
+Mi 15 Mai 2024 16:41:12 CEST: Health check passed - count -------- 125611 (1 row)
+Mi 15 Mai 2024 16:41:17 CEST: Restarting VM
+Mi 15 Mai 2024 16:42:18 CEST: Health check passed - count -------- 125818 (1 row)
+Mi 15 Mai 2024 16:42:23 CEST: Restarting VM
+Mi 15 Mai 2024 16:43:23 CEST: Health check passed - count -------- 126026 (1 row)
+Mi 15 Mai 2024 16:43:28 CEST: Restarting VM
+Mi 15 Mai 2024 16:44:28 CEST: Health check passed - count -------- 126226 (1 row)
+Mi 15 Mai 2024 16:44:33 CEST: Restarting VM
+Mi 15 Mai 2024 16:45:34 CEST: Health check passed - count -------- 126439 (1 row)
+Mi 15 Mai 2024 16:45:39 CEST: Restarting VM
+Mi 15 Mai 2024 16:46:39 CEST: Health check passed - count -------- 126564 (1 row)
+Mi 15 Mai 2024 16:46:44 CEST: Restarting VM
+Mi 15 Mai 2024 16:47:44 CEST: Health check passed - count -------- 126871 (1 row)
+Mi 15 Mai 2024 16:47:49 CEST: Restarting VM
+Mi 15 Mai 2024 16:48:50 CEST: Health check passed - count -------- 127077 (1 row)
+Mi 15 Mai 2024 16:48:55 CEST: Restarting VM
+Mi 15 Mai 2024 16:49:55 CEST: Health check passed - count -------- 127182 (1 row)
+Mi 15 Mai 2024 16:50:00 CEST: Restarting VM
+Mi 15 Mai 2024 16:51:00 CEST: Health check passed - count -------- 127497 (1 row)
+Mi 15 Mai 2024 16:51:05 CEST: Restarting VM
+Mi 15 Mai 2024 16:52:06 CEST: Health check passed - count -------- 127717 (1 row)
+Mi 15 Mai 2024 16:52:11 CEST: Restarting VM
+Mi 15 Mai 2024 16:53:11 CEST: Health check passed - count -------- 127929 (1 row)
+Mi 15 Mai 2024 16:53:16 CEST: Restarting VM
+Mi 15 Mai 2024 16:54:16 CEST: Health check passed - count -------- 128144 (1 row)
+Mi 15 Mai 2024 16:54:21 CEST: Restarting VM
+Mi 15 Mai 2024 16:55:22 CEST: Health check passed - count -------- 128362 (1 row)
+Mi 15 Mai 2024 16:55:27 CEST: Restarting VM
+Mi 15 Mai 2024 16:56:27 CEST: Health check passed - count -------- 128558 (1 row)
+Mi 15 Mai 2024 16:56:32 CEST: Restarting VM
+Mi 15 Mai 2024 16:57:32 CEST: Health check passed - count -------- 128748 (1 row)
+Mi 15 Mai 2024 16:57:37 CEST: Restarting VM
+Mi 15 Mai 2024 16:58:38 CEST: Health check passed - count -------- 128950 (1 row)
+Mi 15 Mai 2024 16:58:43 CEST: Restarting VM
+Mi 15 Mai 2024 16:59:43 CEST: Health check passed - count -------- 129165 (1 row)
+Mi 15 Mai 2024 16:59:48 CEST: Restarting VM
+Mi 15 Mai 2024 17:00:49 CEST: Health check passed - count -------- 129361 (1 row)
+Mi 15 Mai 2024 17:00:54 CEST: Restarting VM
+Mi 15 Mai 2024 17:01:54 CEST: Health check passed - count -------- 129537 (1 row)
+Mi 15 Mai 2024 17:01:59 CEST: Restarting VM
+Mi 15 Mai 2024 17:02:59 CEST: Health check passed - count -------- 129633 (1 row)
+Mi 15 Mai 2024 17:03:04 CEST: Restarting VM
+Mi 15 Mai 2024 17:04:05 CEST: Health check passed - count -------- 129920 (1 row)
+Mi 15 Mai 2024 17:04:10 CEST: Restarting VM
+Mi 15 Mai 2024 17:05:10 CEST: Health check passed - count -------- 130099 (1 row)
+Mi 15 Mai 2024 17:05:15 CEST: Restarting VM
+Mi 15 Mai 2024 17:06:15 CEST: Health check passed - count -------- 130176 (1 row)
+Mi 15 Mai 2024 17:06:20 CEST: Restarting VM
+Mi 15 Mai 2024 17:07:21 CEST: Health check passed - count -------- 130457 (1 row)
+Mi 15 Mai 2024 17:07:26 CEST: Restarting VM
+Mi 15 Mai 2024 17:08:26 CEST: Health check passed - count -------- 130654 (1 row)
+Mi 15 Mai 2024 17:08:31 CEST: Restarting VM
+Mi 15 Mai 2024 17:09:32 CEST: Health check passed - count -------- 130733 (1 row)
+Mi 15 Mai 2024 17:09:37 CEST: Restarting VM
+Mi 15 Mai 2024 17:10:37 CEST: Health check passed - count -------- 131009 (1 row)
+Mi 15 Mai 2024 17:10:42 CEST: Restarting VM
+Mi 15 Mai 2024 17:11:42 CEST: Health check passed - count -------- 131202 (1 row)
+Mi 15 Mai 2024 17:11:47 CEST: Restarting VM
+Mi 15 Mai 2024 17:12:48 CEST: Health check passed - count -------- 131379 (1 row)
+Mi 15 Mai 2024 17:12:53 CEST: Restarting VM
+Mi 15 Mai 2024 17:13:53 CEST: Health check passed - count -------- 131557 (1 row)
+Mi 15 Mai 2024 17:13:58 CEST: Restarting VM
+Mi 15 Mai 2024 17:14:58 CEST: Health check passed - count -------- 131744 (1 row)
+Mi 15 Mai 2024 17:15:03 CEST: Restarting VM
+Mi 15 Mai 2024 17:16:04 CEST: Health check passed - count -------- 131831 (1 row)
+Mi 15 Mai 2024 17:16:09 CEST: Restarting VM
+Mi 15 Mai 2024 17:17:09 CEST: Health check passed - count -------- 132109 (1 row)
+Mi 15 Mai 2024 17:17:14 CEST: Restarting VM
+Mi 15 Mai 2024 17:18:15 CEST: Health check passed - count -------- 132306 (1 row)
+Mi 15 Mai 2024 17:18:20 CEST: Restarting VM
+Mi 15 Mai 2024 17:19:20 CEST: Health check passed - count -------- 132482 (1 row)
+Mi 15 Mai 2024 17:19:25 CEST: Restarting VM
+Mi 15 Mai 2024 17:20:25 CEST: Health check passed - count -------- 132670 (1 row)
+Mi 15 Mai 2024 17:20:30 CEST: Restarting VM
+Mi 15 Mai 2024 17:21:31 CEST: Health check passed - count -------- 132848 (1 row)
+Mi 15 Mai 2024 17:21:36 CEST: Restarting VM
+Mi 15 Mai 2024 17:22:36 CEST: Health check passed - count -------- 133041 (1 row)
+Mi 15 Mai 2024 17:22:41 CEST: Restarting VM
+Mi 15 Mai 2024 17:23:41 CEST: Health check passed - count -------- 133228 (1 row)
+Mi 15 Mai 2024 17:23:46 CEST: Restarting VM
+Mi 15 Mai 2024 17:24:47 CEST: Health check passed - count -------- 133426 (1 row)
+Mi 15 Mai 2024 17:24:52 CEST: Restarting VM
+Mi 15 Mai 2024 17:25:52 CEST: Health check passed - count -------- 133601 (1 row)
+Mi 15 Mai 2024 17:25:57 CEST: Restarting VM
+Mi 15 Mai 2024 17:26:57 CEST: Health check passed - count -------- 133694 (1 row)
+Mi 15 Mai 2024 17:27:03 CEST: Restarting VM
+Mi 15 Mai 2024 17:28:03 CEST: Health check passed - count -------- 133991 (1 row)
+Mi 15 Mai 2024 17:28:08 CEST: Restarting VM
+Mi 15 Mai 2024 17:29:08 CEST: Health check passed - count -------- 134175 (1 row)
+Mi 15 Mai 2024 17:29:13 CEST: Restarting VM
+Mi 15 Mai 2024 17:30:14 CEST: Health check passed - count -------- 134257 (1 row)
+Mi 15 Mai 2024 17:30:19 CEST: Restarting VM
+Mi 15 Mai 2024 17:31:19 CEST: Health check passed - count -------- 134550 (1 row)
+Mi 15 Mai 2024 17:31:24 CEST: Restarting VM
+Mi 15 Mai 2024 17:32:24 CEST: Health check passed - count -------- 134741 (1 row)
+Mi 15 Mai 2024 17:32:29 CEST: Restarting VM
+Mi 15 Mai 2024 17:33:30 CEST: Health check passed - count -------- 134915 (1 row)
+Mi 15 Mai 2024 17:33:35 CEST: Restarting VM
+Mi 15 Mai 2024 17:34:35 CEST: Health check passed - count -------- 135006 (1 row)
+Mi 15 Mai 2024 17:34:40 CEST: Restarting VM
+Mi 15 Mai 2024 17:35:40 CEST: Health check passed - count -------- 135288 (1 row)
+Mi 15 Mai 2024 17:35:46 CEST: Restarting VM
+Mi 15 Mai 2024 17:36:46 CEST: Health check passed - count -------- 135469 (1 row)
+Mi 15 Mai 2024 17:36:51 CEST: Restarting VM
+Mi 15 Mai 2024 17:37:51 CEST: Health check passed - count -------- 135666 (1 row)
+Mi 15 Mai 2024 17:37:56 CEST: Restarting VM
+Mi 15 Mai 2024 17:38:57 CEST: Health check passed - count -------- 135878 (1 row)
+Mi 15 Mai 2024 17:39:02 CEST: Restarting VM
+Mi 15 Mai 2024 17:40:02 CEST: Health check passed - count -------- 135992 (1 row)
+Mi 15 Mai 2024 17:40:07 CEST: Restarting VM
+Mi 15 Mai 2024 17:41:07 CEST: Health check passed - count -------- 136304 (1 row)
+Mi 15 Mai 2024 17:41:12 CEST: Restarting VM
+Mi 15 Mai 2024 17:42:13 CEST: Health check passed - count -------- 136521 (1 row)
+Mi 15 Mai 2024 17:42:18 CEST: Restarting VM
+Mi 15 Mai 2024 17:43:18 CEST: Health check passed - count -------- 136631 (1 row)
+Mi 15 Mai 2024 17:43:23 CEST: Restarting VM
+Mi 15 Mai 2024 17:44:23 CEST: Health check passed - count -------- 136945 (1 row)
+Mi 15 Mai 2024 17:44:28 CEST: Restarting VM
+Mi 15 Mai 2024 17:45:29 CEST: Health check passed - count -------- 137156 (1 row)
+Mi 15 Mai 2024 17:45:34 CEST: Restarting VM
+Mi 15 Mai 2024 17:46:34 CEST: Health check passed - count -------- 137255 (1 row)
+Mi 15 Mai 2024 17:46:39 CEST: Restarting VM
+Mi 15 Mai 2024 17:47:39 CEST: Health check passed - count -------- 137565 (1 row)
+Mi 15 Mai 2024 17:47:44 CEST: Restarting VM
+Mi 15 Mai 2024 17:48:45 CEST: Health check passed - count -------- 137782 (1 row)
+Mi 15 Mai 2024 17:48:50 CEST: Restarting VM
+Mi 15 Mai 2024 17:49:50 CEST: Health check passed - count -------- 137997 (1 row)
+Mi 15 Mai 2024 17:49:55 CEST: Restarting VM
+Mi 15 Mai 2024 17:50:55 CEST: Health check passed - count -------- 138112 (1 row)
+Mi 15 Mai 2024 17:51:00 CEST: Restarting VM
+Mi 15 Mai 2024 17:52:01 CEST: Health check passed - count -------- 138418 (1 row)
+Mi 15 Mai 2024 17:52:06 CEST: Restarting VM
+Mi 15 Mai 2024 17:53:06 CEST: Health check passed - count -------- 138625 (1 row)
+Mi 15 Mai 2024 17:53:11 CEST: Restarting VM
+Mi 15 Mai 2024 17:54:11 CEST: Health check passed - count -------- 138844 (1 row)
+Mi 15 Mai 2024 17:54:16 CEST: Restarting VM
+Mi 15 Mai 2024 17:55:17 CEST: Health check passed - count -------- 139052 (1 row)
+Mi 15 Mai 2024 17:55:22 CEST: Restarting VM
+Mi 15 Mai 2024 17:56:22 CEST: Health check passed - count -------- 139155 (1 row)
+Mi 15 Mai 2024 17:56:27 CEST: Restarting VM
+Mi 15 Mai 2024 17:57:27 CEST: Health check passed - count -------- 139461 (1 row)
+Mi 15 Mai 2024 17:57:32 CEST: Restarting VM
+Mi 15 Mai 2024 17:58:33 CEST: Health check passed - count -------- 139670 (1 row)
+Mi 15 Mai 2024 17:58:38 CEST: Restarting VM
+Mi 15 Mai 2024 17:59:38 CEST: Health check passed - count -------- 139791 (1 row)
+Mi 15 Mai 2024 17:59:43 CEST: Restarting VM
+Mi 15 Mai 2024 18:00:43 CEST: Health check passed - count -------- 140016 (1 row)
+Mi 15 Mai 2024 18:00:48 CEST: Restarting VM
+Mi 15 Mai 2024 18:01:49 CEST: Health check passed - count -------- 140328 (1 row)
+Mi 15 Mai 2024 18:01:54 CEST: Restarting VM
+Mi 15 Mai 2024 18:02:54 CEST: Health check passed - count -------- 140435 (1 row)
+Mi 15 Mai 2024 18:02:59 CEST: Restarting VM
+Mi 15 Mai 2024 18:03:59 CEST: Health check passed - count -------- 140736 (1 row)
+Mi 15 Mai 2024 18:04:04 CEST: Restarting VM
+Mi 15 Mai 2024 18:05:05 CEST: Health check passed - count -------- 140930 (1 row)
+Mi 15 Mai 2024 18:05:10 CEST: Restarting VM
+Mi 15 Mai 2024 18:06:10 CEST: Health check passed - count -------- 141119 (1 row)
+Mi 15 Mai 2024 18:06:15 CEST: Restarting VM
+Mi 15 Mai 2024 18:07:16 CEST: Health check passed - count -------- 141209 (1 row)
+Mi 15 Mai 2024 18:07:21 CEST: Restarting VM
+Mi 15 Mai 2024 18:08:22 CEST: Health check passed - count -------- 141289 (1 row)
+Mi 15 Mai 2024 18:08:27 CEST: Restarting VM
+Mi 15 Mai 2024 18:09:28 CEST: Health check passed - count -------- 141423 (1 row)
+Mi 15 Mai 2024 18:09:33 CEST: Restarting VM
+Mi 15 Mai 2024 18:10:34 CEST: Health check passed - count -------- 141538 (1 row)
+Mi 15 Mai 2024 18:10:39 CEST: Restarting VM
+Mi 15 Mai 2024 18:11:39 CEST: Health check passed - count -------- 141629 (1 row)
+Mi 15 Mai 2024 18:11:44 CEST: Restarting VM
+Mi 15 Mai 2024 18:12:45 CEST: Health check passed - count -------- 141691 (1 row)
+Mi 15 Mai 2024 18:12:50 CEST: Restarting VM
+Mi 15 Mai 2024 18:13:51 CEST: Health check passed - count -------- 141845 (1 row)
+Mi 15 Mai 2024 18:13:56 CEST: Restarting VM
+Mi 15 Mai 2024 18:14:57 CEST: Health check passed - count -------- 141933 (1 row)
+Mi 15 Mai 2024 18:15:02 CEST: Restarting VM
+Mi 15 Mai 2024 18:16:03 CEST: Health check passed - count -------- 141984 (1 row)
+Mi 15 Mai 2024 18:16:08 CEST: Restarting VM
+Mi 15 Mai 2024 18:17:08 CEST: Health check passed - count -------- 142032 (1 row)
+Mi 15 Mai 2024 18:17:13 CEST: Restarting VM
+Mi 15 Mai 2024 18:18:14 CEST: Health check passed - count -------- 142275 (1 row)
+Mi 15 Mai 2024 18:18:19 CEST: Restarting VM
+Mi 15 Mai 2024 18:19:20 CEST: Health check passed - count -------- 142367 (1 row)
+Mi 15 Mai 2024 18:19:25 CEST: Restarting VM
+Mi 15 Mai 2024 18:20:26 CEST: Health check passed - count -------- 142414 (1 row)
+Mi 15 Mai 2024 18:20:31 CEST: Restarting VM
+Mi 15 Mai 2024 18:21:32 CEST: Health check passed - count -------- 142475 (1 row)
+Mi 15 Mai 2024 18:21:37 CEST: Restarting VM
+Mi 15 Mai 2024 18:22:39 CEST: Health check passed - count -------- 142539 (1 row)
+Mi 15 Mai 2024 18:22:45 CEST: Restarting VM
+Mi 15 Mai 2024 18:23:47 CEST: Health check passed - count -------- 142564 (1 row)
+Mi 15 Mai 2024 18:23:52 CEST: Restarting VM
+Mi 15 Mai 2024 18:24:53 CEST: Health check passed - count -------- 142589 (1 row)
+Mi 15 Mai 2024 18:24:58 CEST: Restarting VM
+Mi 15 Mai 2024 18:26:00 CEST: Health check passed - count -------- 142639 (1 row)
+Mi 15 Mai 2024 18:26:05 CEST: Restarting VM
+Mi 15 Mai 2024 18:27:07 CEST: Health check passed - count -------- 142696 (1 row)
+Mi 15 Mai 2024 18:27:12 CEST: Restarting VM
+Mi 15 Mai 2024 18:28:16 CEST: Health check passed - count -------- 142718 (1 row)
+Mi 15 Mai 2024 18:28:21 CEST: Restarting VM
+Mi 15 Mai 2024 18:29:23 CEST: Health check passed - count -------- 142638 (1 row)
+Mi 15 Mai 2024 18:29:28 CEST: Restarting VM
+Mi 15 Mai 2024 18:30:30 CEST: Health check passed - count -------- 142647 (1 row)
+Mi 15 Mai 2024 18:30:35 CEST: Restarting VM
+Mi 15 Mai 2024 18:31:37 CEST: Health check passed - count -------- 142807 (1 row)
+Mi 15 Mai 2024 18:31:42 CEST: Restarting VM
+Mi 15 Mai 2024 18:32:46 CEST: Health check passed - count -------- 142820 (1 row)
+Mi 15 Mai 2024 18:32:51 CEST: Restarting VM
+Mi 15 Mai 2024 18:33:53 CEST: Health check passed - count -------- 142828 (1 row)
+Mi 15 Mai 2024 18:33:59 CEST: Restarting VM
+Mi 15 Mai 2024 18:35:01 CEST: Health check passed - count -------- 142836 (1 row)
+Mi 15 Mai 2024 18:35:06 CEST: Restarting VM
+Mi 15 Mai 2024 18:36:08 CEST: Health check passed - count -------- 142840 (1 row)
+Mi 15 Mai 2024 18:36:13 CEST: Restarting VM
+Mi 15 Mai 2024 18:37:15 CEST: Health check passed - count -------- 142869 (1 row)
+Mi 15 Mai 2024 18:37:20 CEST: Restarting VM
+Mi 15 Mai 2024 18:38:21 CEST: Health check passed - count -------- 142918 (1 row)
+Mi 15 Mai 2024 18:38:26 CEST: Restarting VM
+Mi 15 Mai 2024 18:39:27 CEST: Health check passed - count -------- 142874 (1 row)
+Mi 15 Mai 2024 18:39:32 CEST: Restarting VM
+Mi 15 Mai 2024 18:40:34 CEST: Health check passed - count -------- 143027 (1 row)
+Mi 15 Mai 2024 18:40:39 CEST: Restarting VM
+Mi 15 Mai 2024 18:41:41 CEST: Health check passed - count -------- 142948 (1 row)
+Mi 15 Mai 2024 18:41:46 CEST: Restarting VM
+Mi 15 Mai 2024 18:42:48 CEST: Health check passed - count -------- 143065 (1 row)
+Mi 15 Mai 2024 18:42:53 CEST: Restarting VM
+Mi 15 Mai 2024 18:43:55 CEST: Health check passed - count -------- 142975 (1 row)
+Mi 15 Mai 2024 18:44:00 CEST: Restarting VM
+Mi 15 Mai 2024 18:45:02 CEST: Health check passed - count -------- 143094 (1 row)
+Mi 15 Mai 2024 18:45:07 CEST: Restarting VM
+Mi 15 Mai 2024 18:46:08 CEST: Health check passed - count -------- 143168 (1 row)
+Mi 15 Mai 2024 18:46:13 CEST: Restarting VM
+Mi 15 Mai 2024 18:47:13 CEST: Health check passed - count -------- 143319 (1 row)
+Mi 15 Mai 2024 18:47:18 CEST: Restarting VM
+Mi 15 Mai 2024 18:48:18 CEST: Health check passed - count -------- 143430 (1 row)
+Mi 15 Mai 2024 18:48:23 CEST: Restarting VM
+Mi 15 Mai 2024 18:49:24 CEST: Health check passed - count -------- 143577 (1 row)
+Mi 15 Mai 2024 18:49:29 CEST: Restarting VM
+Mi 15 Mai 2024 18:50:29 CEST: Health check passed - count -------- 143655 (1 row)
+Mi 15 Mai 2024 18:50:34 CEST: Restarting VM
+Mi 15 Mai 2024 18:51:35 CEST: Health check passed - count -------- 143760 (1 row)
+Mi 15 Mai 2024 18:51:40 CEST: Restarting VM
+Mi 15 Mai 2024 18:52:40 CEST: Health check passed - count -------- 144061 (1 row)
+Mi 15 Mai 2024 18:52:45 CEST: Restarting VM
+Mi 15 Mai 2024 18:53:45 CEST: Health check passed - count -------- 144257 (1 row)
+Mi 15 Mai 2024 18:53:50 CEST: Restarting VM
+Mi 15 Mai 2024 18:54:51 CEST: Health check passed - count -------- 144462 (1 row)
+Mi 15 Mai 2024 18:54:56 CEST: Restarting VM
+Mi 15 Mai 2024 18:55:56 CEST: Health check passed - count -------- 144675 (1 row)
+Mi 15 Mai 2024 18:56:01 CEST: Restarting VM
+Mi 15 Mai 2024 18:57:01 CEST: Health check passed - count -------- 144872 (1 row)
+Mi 15 Mai 2024 18:57:06 CEST: Restarting VM
+Mi 15 Mai 2024 18:58:07 CEST: Health check passed - count -------- 145085 (1 row)
+Mi 15 Mai 2024 18:58:12 CEST: Restarting VM
+Mi 15 Mai 2024 18:59:12 CEST: Health check passed - count -------- 145302 (1 row)
+Mi 15 Mai 2024 18:59:17 CEST: Restarting VM
+Mi 15 Mai 2024 19:00:17 CEST: Health check passed - count -------- 145401 (1 row)
+Mi 15 Mai 2024 19:00:22 CEST: Restarting VM
+Mi 15 Mai 2024 19:01:23 CEST: Health check passed - count -------- 145698 (1 row)
+Mi 15 Mai 2024 19:01:28 CEST: Restarting VM
+Mi 15 Mai 2024 19:02:28 CEST: Health check passed - count -------- 145918 (1 row)
+Mi 15 Mai 2024 19:02:33 CEST: Restarting VM
+Mi 15 Mai 2024 19:03:33 CEST: Health check passed - count -------- 146025 (1 row)
+Mi 15 Mai 2024 19:03:38 CEST: Restarting VM
+Mi 15 Mai 2024 19:04:39 CEST: Health check passed - count -------- 146331 (1 row)
+Mi 15 Mai 2024 19:04:44 CEST: Restarting VM
+Mi 15 Mai 2024 19:05:44 CEST: Health check passed - count -------- 146530 (1 row)
+Mi 15 Mai 2024 19:05:49 CEST: Restarting VM
+Mi 15 Mai 2024 19:06:49 CEST: Health check passed - count -------- 146641 (1 row)
+Mi 15 Mai 2024 19:06:54 CEST: Restarting VM
+Mi 15 Mai 2024 19:07:55 CEST: Health check passed - count -------- 146954 (1 row)
+Mi 15 Mai 2024 19:08:00 CEST: Restarting VM
+Mi 15 Mai 2024 19:09:00 CEST: Health check passed - count -------- 147161 (1 row)
+Mi 15 Mai 2024 19:09:05 CEST: Restarting VM
+Mi 15 Mai 2024 19:10:05 CEST: Health check passed - count -------- 147358 (1 row)
+Mi 15 Mai 2024 19:10:10 CEST: Restarting VM
+Mi 15 Mai 2024 19:11:11 CEST: Health check passed - count -------- 147566 (1 row)
+Mi 15 Mai 2024 19:11:16 CEST: Restarting VM
+Mi 15 Mai 2024 19:12:16 CEST: Health check passed - count -------- 147769 (1 row)
+Mi 15 Mai 2024 19:12:21 CEST: Restarting VM
+Mi 15 Mai 2024 19:13:21 CEST: Health check passed - count -------- 147881 (1 row)
+Mi 15 Mai 2024 19:13:26 CEST: Restarting VM
+Mi 15 Mai 2024 19:14:27 CEST: Health check passed - count -------- 148081 (1 row)
+Mi 15 Mai 2024 19:14:32 CEST: Restarting VM
+Mi 15 Mai 2024 19:15:32 CEST: Health check passed - count -------- 148391 (1 row)
+Mi 15 Mai 2024 19:15:37 CEST: Restarting VM
+Mi 15 Mai 2024 19:16:37 CEST: Health check passed - count -------- 148600 (1 row)
+Mi 15 Mai 2024 19:16:42 CEST: Restarting VM
+Mi 15 Mai 2024 19:17:43 CEST: Health check passed - count -------- 148789 (1 row)
+Mi 15 Mai 2024 19:17:48 CEST: Restarting VM
+Mi 15 Mai 2024 19:18:48 CEST: Health check passed - count -------- 148997 (1 row)
+Mi 15 Mai 2024 19:18:53 CEST: Restarting VM
+Mi 15 Mai 2024 19:19:53 CEST: Health check passed - count -------- 149201 (1 row)
+Mi 15 Mai 2024 19:19:58 CEST: Restarting VM
+Mi 15 Mai 2024 19:20:59 CEST: Health check passed - count -------- 149399 (1 row)
+Mi 15 Mai 2024 19:21:04 CEST: Restarting VM
+Mi 15 Mai 2024 19:22:04 CEST: Health check passed - count -------- 149609 (1 row)
+Mi 15 Mai 2024 19:22:09 CEST: Restarting VM
+Mi 15 Mai 2024 19:23:09 CEST: Health check passed - count -------- 149812 (1 row)
+Mi 15 Mai 2024 19:23:14 CEST: Restarting VM
+Mi 15 Mai 2024 19:24:15 CEST: Health check passed - count -------- 150014 (1 row)
+Mi 15 Mai 2024 19:24:20 CEST: Restarting VM
+Mi 15 Mai 2024 19:25:20 CEST: Health check passed - count -------- 150220 (1 row)
+Mi 15 Mai 2024 19:25:25 CEST: Restarting VM
+Mi 15 Mai 2024 19:26:25 CEST: Health check passed - count -------- 150410 (1 row)
+Mi 15 Mai 2024 19:26:30 CEST: Restarting VM
+Mi 15 Mai 2024 19:27:31 CEST: Health check passed - count -------- 150622 (1 row)
+Mi 15 Mai 2024 19:27:36 CEST: Restarting VM
+Mi 15 Mai 2024 19:28:36 CEST: Health check passed - count -------- 150829 (1 row)
+Mi 15 Mai 2024 19:28:41 CEST: Restarting VM
+Mi 15 Mai 2024 19:29:41 CEST: Health check passed - count -------- 151042 (1 row)
+Mi 15 Mai 2024 19:29:47 CEST: Restarting VM
+Mi 15 Mai 2024 19:30:47 CEST: Health check passed - count -------- 151256 (1 row)
+Mi 15 Mai 2024 19:30:52 CEST: Restarting VM
+Mi 15 Mai 2024 19:31:52 CEST: Health check passed - count -------- 151476 (1 row)
+Mi 15 Mai 2024 19:31:57 CEST: Restarting VM
+Mi 15 Mai 2024 19:32:58 CEST: Health check passed - count -------- 151579 (1 row)
+Mi 15 Mai 2024 19:33:03 CEST: Restarting VM
+Mi 15 Mai 2024 19:34:03 CEST: Health check passed - count -------- 151883 (1 row)
+Mi 15 Mai 2024 19:34:08 CEST: Restarting VM
+Mi 15 Mai 2024 19:35:08 CEST: Health check passed - count -------- 151993 (1 row)
+Mi 15 Mai 2024 19:35:13 CEST: Restarting VM
+Mi 15 Mai 2024 19:36:14 CEST: Health check passed - count -------- 152285 (1 row)
+Mi 15 Mai 2024 19:36:19 CEST: Restarting VM
+Mi 15 Mai 2024 19:37:19 CEST: Health check passed - count -------- 152482 (1 row)
+Mi 15 Mai 2024 19:37:24 CEST: Restarting VM
+Mi 15 Mai 2024 19:38:24 CEST: Health check passed - count -------- 152674 (1 row)
+Mi 15 Mai 2024 19:38:29 CEST: Restarting VM
+Mi 15 Mai 2024 19:39:30 CEST: Health check passed - count -------- 152879 (1 row)
+Mi 15 Mai 2024 19:39:35 CEST: Restarting VM
+Mi 15 Mai 2024 19:40:35 CEST: Health check passed - count -------- 153077 (1 row)
+Mi 15 Mai 2024 19:40:40 CEST: Restarting VM
+Mi 15 Mai 2024 19:41:40 CEST: Health check passed - count -------- 153179 (1 row)
+Mi 15 Mai 2024 19:41:45 CEST: Restarting VM
+Mi 15 Mai 2024 19:42:46 CEST: Health check passed - count -------- 153483 (1 row)
+Mi 15 Mai 2024 19:42:51 CEST: Restarting VM
+Mi 15 Mai 2024 19:43:51 CEST: Health check passed - count -------- 153690 (1 row)
+Mi 15 Mai 2024 19:43:56 CEST: Restarting VM
+Mi 15 Mai 2024 19:44:56 CEST: Health check passed - count -------- 153877 (1 row)
+Mi 15 Mai 2024 19:45:01 CEST: Restarting VM
+Mi 15 Mai 2024 19:46:02 CEST: Health check passed - count -------- 154088 (1 row)
+Mi 15 Mai 2024 19:46:07 CEST: Restarting VM
+Mi 15 Mai 2024 19:47:07 CEST: Health check passed - count -------- 154301 (1 row)
+Mi 15 Mai 2024 19:47:12 CEST: Restarting VM
+Mi 15 Mai 2024 19:48:12 CEST: Health check passed - count -------- 154509 (1 row)
+Mi 15 Mai 2024 19:48:17 CEST: Restarting VM
+Mi 15 Mai 2024 19:49:18 CEST: Health check passed - count -------- 154716 (1 row)
+Mi 15 Mai 2024 19:49:23 CEST: Restarting VM
+Mi 15 Mai 2024 19:50:23 CEST: Health check passed - count -------- 154914 (1 row)
+Mi 15 Mai 2024 19:50:28 CEST: Restarting VM
+Mi 15 Mai 2024 19:51:28 CEST: Health check passed - count -------- 155113 (1 row)
+Mi 15 Mai 2024 19:51:33 CEST: Restarting VM
+Mi 15 Mai 2024 19:52:34 CEST: Health check passed - count -------- 155313 (1 row)
+Mi 15 Mai 2024 19:52:39 CEST: Restarting VM
+Mi 15 Mai 2024 19:53:39 CEST: Health check passed - count -------- 155523 (1 row)
+Mi 15 Mai 2024 19:53:44 CEST: Restarting VM
+Mi 15 Mai 2024 19:54:44 CEST: Health check passed - count -------- 155720 (1 row)
+Mi 15 Mai 2024 19:54:49 CEST: Restarting VM
+Mi 15 Mai 2024 19:55:50 CEST: Health check passed - count -------- 155814 (1 row)
+Mi 15 Mai 2024 19:55:55 CEST: Restarting VM
+Mi 15 Mai 2024 19:56:55 CEST: Health check passed - count -------- 156100 (1 row)
+Mi 15 Mai 2024 19:57:00 CEST: Restarting VM
+Mi 15 Mai 2024 19:58:00 CEST: Health check passed - count -------- 156293 (1 row)
+Mi 15 Mai 2024 19:58:06 CEST: Restarting VM
+Mi 15 Mai 2024 19:59:06 CEST: Health check passed - count -------- 156496 (1 row)
+Mi 15 Mai 2024 19:59:11 CEST: Restarting VM
+Mi 15 Mai 2024 20:00:11 CEST: Health check passed - count -------- 156680 (1 row)
+Mi 15 Mai 2024 20:00:16 CEST: Restarting VM
+Mi 15 Mai 2024 20:01:17 CEST: Health check passed - count -------- 156876 (1 row)
+Mi 15 Mai 2024 20:01:22 CEST: Restarting VM
+Mi 15 Mai 2024 20:02:22 CEST: Health check passed - count -------- 157052 (1 row)
+Mi 15 Mai 2024 20:02:27 CEST: Restarting VM
+Mi 15 Mai 2024 20:03:27 CEST: Health check passed - count -------- 157249 (1 row)
+Mi 15 Mai 2024 20:03:32 CEST: Restarting VM
+Mi 15 Mai 2024 20:04:33 CEST: Health check passed - count -------- 157438 (1 row)
+Mi 15 Mai 2024 20:04:38 CEST: Restarting VM
+Mi 15 Mai 2024 20:05:38 CEST: Health check passed - count -------- 157542 (1 row)
+Mi 15 Mai 2024 20:05:43 CEST: Restarting VM
+Mi 15 Mai 2024 20:06:43 CEST: Health check passed - count -------- 157841 (1 row)
+Mi 15 Mai 2024 20:06:48 CEST: Restarting VM
+Mi 15 Mai 2024 20:07:49 CEST: Health check passed - count -------- 158019 (1 row)
+Mi 15 Mai 2024 20:07:54 CEST: Restarting VM
+Mi 15 Mai 2024 20:08:54 CEST: Health check passed - count -------- 158224 (1 row)
+Mi 15 Mai 2024 20:08:59 CEST: Restarting VM
+Mi 15 Mai 2024 20:09:59 CEST: Health check passed - count -------- 158319 (1 row)
+Mi 15 Mai 2024 20:10:04 CEST: Restarting VM
+Mi 15 Mai 2024 20:11:05 CEST: Health check passed - count -------- 158603 (1 row)
+Mi 15 Mai 2024 20:11:10 CEST: Restarting VM
+Mi 15 Mai 2024 20:12:10 CEST: Health check passed - count -------- 158782 (1 row)
+Mi 15 Mai 2024 20:12:15 CEST: Restarting VM
+Mi 15 Mai 2024 20:13:16 CEST: Health check passed - count -------- 158942 (1 row)
+Mi 15 Mai 2024 20:13:21 CEST: Restarting VM
+Mi 15 Mai 2024 20:14:21 CEST: Health check passed - count -------- 159119 (1 row)
+Mi 15 Mai 2024 20:14:26 CEST: Restarting VM
+Mi 15 Mai 2024 20:15:26 CEST: Health check passed - count -------- 159319 (1 row)
+Mi 15 Mai 2024 20:15:31 CEST: Restarting VM
+Mi 15 Mai 2024 20:16:32 CEST: Health check passed - count -------- 159502 (1 row)
+Mi 15 Mai 2024 20:16:37 CEST: Restarting VM
+Mi 15 Mai 2024 20:17:37 CEST: Health check passed - count -------- 159696 (1 row)
+Mi 15 Mai 2024 20:17:42 CEST: Restarting VM
+Mi 15 Mai 2024 20:18:42 CEST: Health check passed - count -------- 159882 (1 row)
+Mi 15 Mai 2024 20:18:47 CEST: Restarting VM
+Mi 15 Mai 2024 20:19:48 CEST: Health check passed - count -------- 159983 (1 row)
+Mi 15 Mai 2024 20:19:53 CEST: Restarting VM
+Mi 15 Mai 2024 20:20:53 CEST: Health check passed - count -------- 160274 (1 row)
+Mi 15 Mai 2024 20:20:58 CEST: Restarting VM
+Mi 15 Mai 2024 20:21:58 CEST: Health check passed - count -------- 160471 (1 row)
+Mi 15 Mai 2024 20:22:03 CEST: Restarting VM
+Mi 15 Mai 2024 20:23:04 CEST: Health check passed - count -------- 160662 (1 row)
+Mi 15 Mai 2024 20:23:09 CEST: Restarting VM
+Mi 15 Mai 2024 20:24:09 CEST: Health check passed - count -------- 160850 (1 row)
+Mi 15 Mai 2024 20:24:14 CEST: Restarting VM
+Mi 15 Mai 2024 20:25:14 CEST: Health check passed - count -------- 161036 (1 row)
+Mi 15 Mai 2024 20:25:19 CEST: Restarting VM
+Mi 15 Mai 2024 20:26:20 CEST: Health check passed - count -------- 161130 (1 row)
+Mi 15 Mai 2024 20:26:25 CEST: Restarting VM
+Mi 15 Mai 2024 20:27:25 CEST: Health check passed - count -------- 161432 (1 row)
+Mi 15 Mai 2024 20:27:30 CEST: Restarting VM
+Mi 15 Mai 2024 20:28:30 CEST: Health check passed - count -------- 161628 (1 row)
+Mi 15 Mai 2024 20:28:35 CEST: Restarting VM
+Mi 15 Mai 2024 20:29:36 CEST: Health check passed - count -------- 161825 (1 row)
+Mi 15 Mai 2024 20:29:41 CEST: Restarting VM
+Mi 15 Mai 2024 20:30:41 CEST: Health check passed - count -------- 162018 (1 row)
+Mi 15 Mai 2024 20:30:46 CEST: Restarting VM
+Mi 15 Mai 2024 20:31:46 CEST: Health check passed - count -------- 162102 (1 row)
+Mi 15 Mai 2024 20:31:51 CEST: Restarting VM
+Mi 15 Mai 2024 20:32:52 CEST: Health check passed - count -------- 162373 (1 row)
+Mi 15 Mai 2024 20:32:57 CEST: Restarting VM
+Mi 15 Mai 2024 20:33:58 CEST: Health check passed - count -------- 162504 (1 row)
+Mi 15 Mai 2024 20:34:03 CEST: Restarting VM
+Mi 15 Mai 2024 20:35:03 CEST: Health check passed - count -------- 162628 (1 row)
+Mi 15 Mai 2024 20:35:08 CEST: Restarting VM
+Mi 15 Mai 2024 20:36:09 CEST: Health check passed - count -------- 162820 (1 row)
+Mi 15 Mai 2024 20:36:14 CEST: Restarting VM
+Mi 15 Mai 2024 20:37:14 CEST: Health check passed - count -------- 162906 (1 row)
+Mi 15 Mai 2024 20:37:19 CEST: Restarting VM
+Mi 15 Mai 2024 20:38:19 CEST: Health check passed - count -------- 163194 (1 row)
+Mi 15 Mai 2024 20:38:24 CEST: Restarting VM
+Mi 15 Mai 2024 20:39:25 CEST: Health check passed - count -------- 163315 (1 row)
+Mi 15 Mai 2024 20:39:30 CEST: Restarting VM
+Mi 15 Mai 2024 20:40:30 CEST: Health check passed - count -------- 163497 (1 row)
+Mi 15 Mai 2024 20:40:35 CEST: Restarting VM
+Mi 15 Mai 2024 20:41:36 CEST: Health check passed - count -------- 163683 (1 row)
+Mi 15 Mai 2024 20:41:41 CEST: Restarting VM
+Mi 15 Mai 2024 20:42:42 CEST: Health check passed - count -------- 163839 (1 row)
+Mi 15 Mai 2024 20:42:47 CEST: Restarting VM
+Mi 15 Mai 2024 20:43:47 CEST: Health check passed - count -------- 164017 (1 row)
+Mi 15 Mai 2024 20:43:52 CEST: Restarting VM
+Mi 15 Mai 2024 20:44:52 CEST: Health check passed - count -------- 164198 (1 row)
+Mi 15 Mai 2024 20:44:57 CEST: Restarting VM
+Mi 15 Mai 2024 20:45:58 CEST: Health check passed - count -------- 164320 (1 row)
+Mi 15 Mai 2024 20:46:03 CEST: Restarting VM
+Mi 15 Mai 2024 20:47:04 CEST: Health check passed - count -------- 164457 (1 row)
+Mi 15 Mai 2024 20:47:09 CEST: Restarting VM
+Mi 15 Mai 2024 20:48:10 CEST: Health check passed - count -------- 164546 (1 row)
+Mi 15 Mai 2024 20:48:15 CEST: Restarting VM
+Mi 15 Mai 2024 20:49:15 CEST: Health check passed - count -------- 164562 (1 row)
+Mi 15 Mai 2024 20:49:20 CEST: Restarting VM
+Mi 15 Mai 2024 20:50:21 CEST: Health check passed - count -------- 164767 (1 row)
+Mi 15 Mai 2024 20:50:26 CEST: Restarting VM
+Mi 15 Mai 2024 20:51:27 CEST: Health check passed - count -------- 164831 (1 row)
+Mi 15 Mai 2024 20:51:32 CEST: Restarting VM
+Mi 15 Mai 2024 20:52:33 CEST: Health check passed - count -------- 164952 (1 row)
+Mi 15 Mai 2024 20:52:38 CEST: Restarting VM
+Mi 15 Mai 2024 20:53:38 CEST: Health check passed - count -------- 165038 (1 row)
+Mi 15 Mai 2024 20:53:43 CEST: Restarting VM
+Mi 15 Mai 2024 20:54:44 CEST: Health check passed - count -------- 165148 (1 row)
+Mi 15 Mai 2024 20:54:49 CEST: Restarting VM
+Mi 15 Mai 2024 20:55:50 CEST: Health check passed - count -------- 165285 (1 row)
+Mi 15 Mai 2024 20:55:55 CEST: Restarting VM
+Mi 15 Mai 2024 20:56:56 CEST: Health check passed - count -------- 165376 (1 row)
+Mi 15 Mai 2024 20:57:01 CEST: Restarting VM
+Mi 15 Mai 2024 20:58:02 CEST: Health check passed - count -------- 165331 (1 row)
+Mi 15 Mai 2024 20:58:07 CEST: Restarting VM
+Mi 15 Mai 2024 20:59:08 CEST: Health check passed - count -------- 165487 (1 row)
+Mi 15 Mai 2024 20:59:13 CEST: Restarting VM
+Mi 15 Mai 2024 21:00:14 CEST: Health check passed - count -------- 165542 (1 row)
+Mi 15 Mai 2024 21:00:19 CEST: Restarting VM
+Mi 15 Mai 2024 21:01:20 CEST: Health check passed - count -------- 165610 (1 row)
+Mi 15 Mai 2024 21:01:25 CEST: Restarting VM
+Mi 15 Mai 2024 21:02:25 CEST: Health check passed - count -------- 165586 (1 row)
+Mi 15 Mai 2024 21:02:30 CEST: Restarting VM
+Mi 15 Mai 2024 21:03:31 CEST: Health check passed - count -------- 165751 (1 row)
+Mi 15 Mai 2024 21:03:36 CEST: Restarting VM
+Mi 15 Mai 2024 21:04:37 CEST: Health check passed - count -------- 165807 (1 row)
+Mi 15 Mai 2024 21:04:42 CEST: Restarting VM
+Mi 15 Mai 2024 21:05:43 CEST: Health check passed - count -------- 165871 (1 row)
+Mi 15 Mai 2024 21:05:48 CEST: Restarting VM
+Mi 15 Mai 2024 21:06:49 CEST: Health check passed - count -------- 165934 (1 row)
+Mi 15 Mai 2024 21:06:54 CEST: Restarting VM
+Mi 15 Mai 2024 21:07:55 CEST: Health check passed - count -------- 165995 (1 row)
+Mi 15 Mai 2024 21:08:00 CEST: Restarting VM
+Mi 15 Mai 2024 21:09:01 CEST: Health check passed - count -------- 165956 (1 row)
+Mi 15 Mai 2024 21:09:06 CEST: Restarting VM
+Mi 15 Mai 2024 21:10:07 CEST: Health check passed - count -------- 166112 (1 row)
+Mi 15 Mai 2024 21:10:12 CEST: Restarting VM
+Mi 15 Mai 2024 21:11:13 CEST: Health check passed - count -------- 166073 (1 row)
+Mi 15 Mai 2024 21:11:18 CEST: Restarting VM
+Mi 15 Mai 2024 21:12:19 CEST: Health check passed - count -------- 166234 (1 row)
+Mi 15 Mai 2024 21:12:24 CEST: Restarting VM
+Mi 15 Mai 2024 21:13:25 CEST: Health check passed - count -------- 166274 (1 row)
+Mi 15 Mai 2024 21:13:30 CEST: Restarting VM
+Mi 15 Mai 2024 21:14:31 CEST: Health check passed - count -------- 166341 (1 row)
+Mi 15 Mai 2024 21:14:36 CEST: Restarting VM
+Mi 15 Mai 2024 21:15:37 CEST: Health check passed - count -------- 166403 (1 row)
+Mi 15 Mai 2024 21:15:42 CEST: Restarting VM
+Mi 15 Mai 2024 21:16:43 CEST: Health check passed - count -------- 166460 (1 row)
+Mi 15 Mai 2024 21:16:48 CEST: Restarting VM
+Mi 15 Mai 2024 21:17:49 CEST: Health check passed - count -------- 166520 (1 row)
+Mi 15 Mai 2024 21:17:54 CEST: Restarting VM
+Mi 15 Mai 2024 21:18:55 CEST: Health check passed - count -------- 166583 (1 row)
+Mi 15 Mai 2024 21:19:00 CEST: Restarting VM
+Mi 15 Mai 2024 21:20:00 CEST: Health check passed - count -------- 166653 (1 row)
+Mi 15 Mai 2024 21:20:05 CEST: Restarting VM
+Mi 15 Mai 2024 21:21:06 CEST: Health check passed - count -------- 166611 (1 row)
+Mi 15 Mai 2024 21:21:11 CEST: Restarting VM
+Mi 15 Mai 2024 21:22:12 CEST: Health check passed - count -------- 166783 (1 row)
+Mi 15 Mai 2024 21:22:17 CEST: Restarting VM
+Mi 15 Mai 2024 21:23:18 CEST: Health check passed - count -------- 166846 (1 row)
+Mi 15 Mai 2024 21:23:23 CEST: Restarting VM
+Mi 15 Mai 2024 21:24:24 CEST: Health check passed - count -------- 166917 (1 row)
+Mi 15 Mai 2024 21:24:29 CEST: Restarting VM
+Mi 15 Mai 2024 21:25:29 CEST: Health check passed - count -------- 166894 (1 row)
+Mi 15 Mai 2024 21:25:34 CEST: Restarting VM
+Mi 15 Mai 2024 21:26:35 CEST: Health check passed - count -------- 166961 (1 row)
+Mi 15 Mai 2024 21:26:40 CEST: Restarting VM
+Mi 15 Mai 2024 21:27:41 CEST: Health check passed - count -------- 167131 (1 row)
+Mi 15 Mai 2024 21:27:46 CEST: Restarting VM
+Mi 15 Mai 2024 21:28:47 CEST: Health check passed - count -------- 167118 (1 row)
+Mi 15 Mai 2024 21:28:52 CEST: Restarting VM
+Mi 15 Mai 2024 21:29:53 CEST: Health check passed - count -------- 167308 (1 row)
+Mi 15 Mai 2024 21:29:58 CEST: Restarting VM
+Mi 15 Mai 2024 21:30:59 CEST: Health check passed - count -------- 167385 (1 row)
+Mi 15 Mai 2024 21:31:04 CEST: Restarting VM
+Mi 15 Mai 2024 21:32:04 CEST: Health check passed - count -------- 167396 (1 row)
+Mi 15 Mai 2024 21:32:09 CEST: Restarting VM
+Mi 15 Mai 2024 21:33:09 CEST: Health check passed - count -------- 167663 (1 row)
+Mi 15 Mai 2024 21:33:14 CEST: Restarting VM
+Mi 15 Mai 2024 21:34:15 CEST: Health check passed - count -------- 167824 (1 row)
+Mi 15 Mai 2024 21:34:20 CEST: Restarting VM
+Mi 15 Mai 2024 21:35:20 CEST: Health check passed - count -------- 167991 (1 row)
+Mi 15 Mai 2024 21:35:25 CEST: Restarting VM
+Mi 15 Mai 2024 21:36:25 CEST: Health check passed - count -------- 168171 (1 row)
+Mi 15 Mai 2024 21:36:30 CEST: Restarting VM
+Mi 15 Mai 2024 21:37:31 CEST: Health check passed - count -------- 168356 (1 row)
+Mi 15 Mai 2024 21:37:36 CEST: Restarting VM
+Mi 15 Mai 2024 21:38:36 CEST: Health check passed - count -------- 168544 (1 row)
+Mi 15 Mai 2024 21:38:41 CEST: Restarting VM
+Mi 15 Mai 2024 21:39:41 CEST: Health check passed - count -------- 168743 (1 row)
+Mi 15 Mai 2024 21:39:47 CEST: Restarting VM
+Mi 15 Mai 2024 21:40:47 CEST: Health check passed - count -------- 168820 (1 row)
+Mi 15 Mai 2024 21:40:52 CEST: Restarting VM
+Mi 15 Mai 2024 21:41:52 CEST: Health check passed - count -------- 169111 (1 row)
+Mi 15 Mai 2024 21:41:57 CEST: Restarting VM
+Mi 15 Mai 2024 21:42:58 CEST: Health check passed - count -------- 169201 (1 row)
+Mi 15 Mai 2024 21:43:03 CEST: Restarting VM
+Mi 15 Mai 2024 21:44:03 CEST: Health check passed - count -------- 169490 (1 row)
+Mi 15 Mai 2024 21:44:08 CEST: Restarting VM
+Mi 15 Mai 2024 21:45:08 CEST: Health check passed - count -------- 169575 (1 row)
+Mi 15 Mai 2024 21:45:13 CEST: Restarting VM
+Mi 15 Mai 2024 21:46:14 CEST: Health check passed - count -------- 169854 (1 row)
+Mi 15 Mai 2024 21:46:19 CEST: Restarting VM
+Mi 15 Mai 2024 21:47:19 CEST: Health check passed - count -------- 170050 (1 row)
+Mi 15 Mai 2024 21:47:24 CEST: Restarting VM
+Mi 15 Mai 2024 21:48:24 CEST: Health check passed - count -------- 170130 (1 row)
+Mi 15 Mai 2024 21:48:29 CEST: Restarting VM
+Mi 15 Mai 2024 21:49:30 CEST: Health check passed - count -------- 170412 (1 row)
+Mi 15 Mai 2024 21:49:35 CEST: Restarting VM
+Mi 15 Mai 2024 21:50:35 CEST: Health check passed - count -------- 170593 (1 row)
+Mi 15 Mai 2024 21:50:40 CEST: Restarting VM
+Mi 15 Mai 2024 21:51:40 CEST: Health check passed - count -------- 170785 (1 row)
+Mi 15 Mai 2024 21:51:45 CEST: Restarting VM
+Mi 15 Mai 2024 21:52:46 CEST: Health check passed - count -------- 170961 (1 row)
+Mi 15 Mai 2024 21:52:51 CEST: Restarting VM
+Mi 15 Mai 2024 21:53:51 CEST: Health check passed - count -------- 171143 (1 row)
+Mi 15 Mai 2024 21:53:56 CEST: Restarting VM
+Mi 15 Mai 2024 21:54:56 CEST: Health check passed - count -------- 171335 (1 row)
+Mi 15 Mai 2024 21:55:01 CEST: Restarting VM
+Mi 15 Mai 2024 21:56:02 CEST: Health check passed - count -------- 171516 (1 row)
+Mi 15 Mai 2024 21:56:07 CEST: Restarting VM
+Mi 15 Mai 2024 21:57:07 CEST: Health check passed - count -------- 171597 (1 row)
+Mi 15 Mai 2024 21:57:12 CEST: Restarting VM
+Mi 15 Mai 2024 21:58:12 CEST: Health check passed - count -------- 171783 (1 row)
+Mi 15 Mai 2024 21:58:18 CEST: Restarting VM
+Mi 15 Mai 2024 21:59:18 CEST: Health check passed - count -------- 172070 (1 row)
+Mi 15 Mai 2024 21:59:23 CEST: Restarting VM
+Mi 15 Mai 2024 22:00:23 CEST: Health check passed - count -------- 172259 (1 row)
+Mi 15 Mai 2024 22:00:28 CEST: Restarting VM
+Mi 15 Mai 2024 22:01:29 CEST: Health check passed - count -------- 172445 (1 row)
+Mi 15 Mai 2024 22:01:34 CEST: Restarting VM
+Mi 15 Mai 2024 22:02:34 CEST: Health check passed - count -------- 172625 (1 row)
+Mi 15 Mai 2024 22:02:39 CEST: Restarting VM
+Mi 15 Mai 2024 22:03:39 CEST: Health check passed - count -------- 172821 (1 row)
+Mi 15 Mai 2024 22:03:44 CEST: Restarting VM
+Mi 15 Mai 2024 22:04:45 CEST: Health check passed - count -------- 173015 (1 row)
+Mi 15 Mai 2024 22:04:50 CEST: Restarting VM
+Mi 15 Mai 2024 22:05:50 CEST: Health check passed - count -------- 173200 (1 row)
+Mi 15 Mai 2024 22:05:55 CEST: Restarting VM
+Mi 15 Mai 2024 22:06:55 CEST: Health check passed - count -------- 173298 (1 row)
+Mi 15 Mai 2024 22:07:00 CEST: Restarting VM
+Mi 15 Mai 2024 22:08:01 CEST: Health check passed - count -------- 173573 (1 row)
+Mi 15 Mai 2024 22:08:06 CEST: Restarting VM
+Mi 15 Mai 2024 22:09:06 CEST: Health check passed - count -------- 173763 (1 row)
+Mi 15 Mai 2024 22:09:11 CEST: Restarting VM
+Mi 15 Mai 2024 22:10:11 CEST: Health check passed - count -------- 173858 (1 row)
+Mi 15 Mai 2024 22:10:16 CEST: Restarting VM
+Mi 15 Mai 2024 22:11:17 CEST: Health check passed - count -------- 174150 (1 row)
+Mi 15 Mai 2024 22:11:22 CEST: Restarting VM
+Mi 15 Mai 2024 22:12:22 CEST: Health check passed - count -------- 174338 (1 row)
+Mi 15 Mai 2024 22:12:27 CEST: Restarting VM
+Mi 15 Mai 2024 22:13:27 CEST: Health check passed - count -------- 174518 (1 row)
+Mi 15 Mai 2024 22:13:32 CEST: Restarting VM
+Mi 15 Mai 2024 22:14:33 CEST: Health check passed - count -------- 174702 (1 row)
+Mi 15 Mai 2024 22:14:38 CEST: Restarting VM
+Mi 15 Mai 2024 22:15:38 CEST: Health check passed - count -------- 174881 (1 row)
+Mi 15 Mai 2024 22:15:43 CEST: Restarting VM
+Mi 15 Mai 2024 22:16:43 CEST: Health check passed - count -------- 175059 (1 row)
+Mi 15 Mai 2024 22:16:49 CEST: Restarting VM
+Mi 15 Mai 2024 22:17:49 CEST: Health check passed - count -------- 175241 (1 row)
+Mi 15 Mai 2024 22:17:54 CEST: Restarting VM
+Mi 15 Mai 2024 22:18:54 CEST: Health check passed - count -------- 175424 (1 row)
+Mi 15 Mai 2024 22:18:59 CEST: Restarting VM
+Mi 15 Mai 2024 22:20:00 CEST: Health check passed - count -------- 175616 (1 row)
+Mi 15 Mai 2024 22:20:05 CEST: Restarting VM
+Mi 15 Mai 2024 22:21:05 CEST: Health check passed - count -------- 175805 (1 row)
+Mi 15 Mai 2024 22:21:10 CEST: Restarting VM
+Mi 15 Mai 2024 22:22:10 CEST: Health check passed - count -------- 175991 (1 row)
+Mi 15 Mai 2024 22:22:15 CEST: Restarting VM
+Mi 15 Mai 2024 22:23:16 CEST: Health check passed - count -------- 176163 (1 row)
+Mi 15 Mai 2024 22:23:21 CEST: Restarting VM
+Mi 15 Mai 2024 22:24:21 CEST: Health check passed - count -------- 176357 (1 row)
+Mi 15 Mai 2024 22:24:26 CEST: Restarting VM
+Mi 15 Mai 2024 22:25:26 CEST: Health check passed - count -------- 176539 (1 row)
+Mi 15 Mai 2024 22:25:31 CEST: Restarting VM
+Mi 15 Mai 2024 22:26:32 CEST: Health check passed - count -------- 176723 (1 row)
+Mi 15 Mai 2024 22:26:37 CEST: Restarting VM
+Mi 15 Mai 2024 22:27:37 CEST: Health check passed - count -------- 176812 (1 row)
+Mi 15 Mai 2024 22:27:42 CEST: Restarting VM
+Mi 15 Mai 2024 22:28:42 CEST: Health check passed - count -------- 177087 (1 row)
+Mi 15 Mai 2024 22:28:47 CEST: Restarting VM
+Mi 15 Mai 2024 22:29:48 CEST: Health check passed - count -------- 177164 (1 row)
+Mi 15 Mai 2024 22:29:53 CEST: Restarting VM
+Mi 15 Mai 2024 22:30:53 CEST: Health check passed - count -------- 177438 (1 row)
+Mi 15 Mai 2024 22:30:58 CEST: Restarting VM
+Mi 15 Mai 2024 22:31:59 CEST: Health check passed - count -------- 177516 (1 row)
+Mi 15 Mai 2024 22:32:04 CEST: Restarting VM
+Mi 15 Mai 2024 22:33:04 CEST: Health check passed - count -------- 177710 (1 row)
+Mi 15 Mai 2024 22:33:09 CEST: Restarting VM
+Mi 15 Mai 2024 22:34:09 CEST: Health check passed - count -------- 178000 (1 row)
+Mi 15 Mai 2024 22:34:14 CEST: Restarting VM
+Mi 15 Mai 2024 22:35:15 CEST: Health check passed - count -------- 178093 (1 row)
+Mi 15 Mai 2024 22:35:20 CEST: Restarting VM
+Mi 15 Mai 2024 22:36:20 CEST: Health check passed - count -------- 178387 (1 row)
+Mi 15 Mai 2024 22:36:25 CEST: Restarting VM
+Mi 15 Mai 2024 22:37:25 CEST: Health check passed - count -------- 178575 (1 row)
+Mi 15 Mai 2024 22:37:30 CEST: Restarting VM
+Mi 15 Mai 2024 22:38:31 CEST: Health check passed - count -------- 178767 (1 row)
+Mi 15 Mai 2024 22:38:36 CEST: Restarting VM
+Mi 15 Mai 2024 22:39:36 CEST: Health check passed - count -------- 178958 (1 row)
+Mi 15 Mai 2024 22:39:41 CEST: Restarting VM
+Mi 15 Mai 2024 22:40:41 CEST: Health check passed - count -------- 179146 (1 row)
+Mi 15 Mai 2024 22:40:46 CEST: Restarting VM
+Mi 15 Mai 2024 22:41:47 CEST: Health check passed - count -------- 179319 (1 row)
+Mi 15 Mai 2024 22:41:52 CEST: Restarting VM
+Mi 15 Mai 2024 22:42:52 CEST: Health check passed - count -------- 179497 (1 row)
+Mi 15 Mai 2024 22:42:57 CEST: Restarting VM
+Mi 15 Mai 2024 22:43:57 CEST: Health check passed - count -------- 179567 (1 row)
+Mi 15 Mai 2024 22:44:02 CEST: Restarting VM
+Mi 15 Mai 2024 22:45:03 CEST: Health check passed - count -------- 179847 (1 row)
+Mi 15 Mai 2024 22:45:08 CEST: Restarting VM
+Mi 15 Mai 2024 22:46:08 CEST: Health check passed - count -------- 180041 (1 row)
+Mi 15 Mai 2024 22:46:13 CEST: Restarting VM
+Mi 15 Mai 2024 22:47:13 CEST: Health check passed - count -------- 180210 (1 row)
+Mi 15 Mai 2024 22:47:19 CEST: Restarting VM
+Mi 15 Mai 2024 22:48:19 CEST: Health check passed - count -------- 180391 (1 row)
+Mi 15 Mai 2024 22:48:24 CEST: Restarting VM
+Mi 15 Mai 2024 22:49:24 CEST: Health check passed - count -------- 180571 (1 row)
+Mi 15 Mai 2024 22:49:29 CEST: Restarting VM
+Mi 15 Mai 2024 22:50:30 CEST: Health check passed - count -------- 180761 (1 row)
+Mi 15 Mai 2024 22:50:35 CEST: Restarting VM
+Mi 15 Mai 2024 22:51:35 CEST: Health check passed - count -------- 180938 (1 row)
+Mi 15 Mai 2024 22:51:40 CEST: Restarting VM
+Mi 15 Mai 2024 22:52:40 CEST: Health check passed - count -------- 181120 (1 row)
+Mi 15 Mai 2024 22:52:45 CEST: Restarting VM
+Mi 15 Mai 2024 22:53:46 CEST: Health check passed - count -------- 181306 (1 row)
+Mi 15 Mai 2024 22:53:51 CEST: Restarting VM
+Mi 15 Mai 2024 22:54:51 CEST: Health check passed - count -------- 181487 (1 row)
+Mi 15 Mai 2024 22:54:56 CEST: Restarting VM
+Mi 15 Mai 2024 22:55:56 CEST: Health check passed - count -------- 181561 (1 row)
+Mi 15 Mai 2024 22:56:01 CEST: Restarting VM
+Mi 15 Mai 2024 22:57:02 CEST: Health check passed - count -------- 181828 (1 row)
+Mi 15 Mai 2024 22:57:07 CEST: Restarting VM
+Mi 15 Mai 2024 22:58:07 CEST: Health check passed - count -------- 182000 (1 row)
+Mi 15 Mai 2024 22:58:12 CEST: Restarting VM
+Mi 15 Mai 2024 22:59:12 CEST: Health check passed - count -------- 182184 (1 row)
+Mi 15 Mai 2024 22:59:17 CEST: Restarting VM
+Mi 15 Mai 2024 23:00:18 CEST: Health check passed - count -------- 182357 (1 row)
+Mi 15 Mai 2024 23:00:23 CEST: Restarting VM
+Mi 15 Mai 2024 23:01:23 CEST: Health check passed - count -------- 182536 (1 row)
+Mi 15 Mai 2024 23:01:28 CEST: Restarting VM
+Mi 15 Mai 2024 23:02:29 CEST: Health check passed - count -------- 182721 (1 row)
+Mi 15 Mai 2024 23:02:34 CEST: Restarting VM
+Mi 15 Mai 2024 23:03:34 CEST: Health check passed - count -------- 182909 (1 row)
+Mi 15 Mai 2024 23:03:39 CEST: Restarting VM
+Mi 15 Mai 2024 23:04:39 CEST: Health check passed - count -------- 182983 (1 row)
+Mi 15 Mai 2024 23:04:44 CEST: Restarting VM
+Mi 15 Mai 2024 23:05:45 CEST: Health check passed - count -------- 183269 (1 row)
+Mi 15 Mai 2024 23:05:50 CEST: Restarting VM
+Mi 15 Mai 2024 23:06:50 CEST: Health check passed - count -------- 183459 (1 row)
+Mi 15 Mai 2024 23:06:55 CEST: Restarting VM
+Mi 15 Mai 2024 23:07:55 CEST: Health check passed - count -------- 183647 (1 row)
+Mi 15 Mai 2024 23:08:00 CEST: Restarting VM
+Mi 15 Mai 2024 23:09:01 CEST: Health check passed - count -------- 183724 (1 row)
+Mi 15 Mai 2024 23:09:06 CEST: Restarting VM
+Mi 15 Mai 2024 23:10:06 CEST: Health check passed - count -------- 184002 (1 row)
+Mi 15 Mai 2024 23:10:11 CEST: Restarting VM
+Mi 15 Mai 2024 23:11:11 CEST: Health check passed - count -------- 184181 (1 row)
+Mi 15 Mai 2024 23:11:16 CEST: Restarting VM
+Mi 15 Mai 2024 23:12:17 CEST: Health check passed - count -------- 184352 (1 row)
+Mi 15 Mai 2024 23:12:22 CEST: Restarting VM
+Mi 15 Mai 2024 23:13:22 CEST: Health check passed - count -------- 184529 (1 row)
+Mi 15 Mai 2024 23:13:27 CEST: Restarting VM
+Mi 15 Mai 2024 23:14:28 CEST: Health check passed - count -------- 184714 (1 row)
+Mi 15 Mai 2024 23:14:33 CEST: Restarting VM
+Mi 15 Mai 2024 23:15:33 CEST: Health check passed - count -------- 184895 (1 row)
+Mi 15 Mai 2024 23:15:38 CEST: Restarting VM
+Mi 15 Mai 2024 23:16:38 CEST: Health check passed - count -------- 185067 (1 row)
+Mi 15 Mai 2024 23:16:43 CEST: Restarting VM
+Mi 15 Mai 2024 23:17:44 CEST: Health check passed - count -------- 185254 (1 row)
+Mi 15 Mai 2024 23:17:49 CEST: Restarting VM
+Mi 15 Mai 2024 23:18:49 CEST: Health check passed - count -------- 185427 (1 row)
+Mi 15 Mai 2024 23:18:54 CEST: Restarting VM
+Mi 15 Mai 2024 23:19:54 CEST: Health check passed - count -------- 185603 (1 row)
+Mi 15 Mai 2024 23:19:59 CEST: Restarting VM
+Mi 15 Mai 2024 23:21:00 CEST: Health check passed - count -------- 185775 (1 row)
+Mi 15 Mai 2024 23:21:05 CEST: Restarting VM
+Mi 15 Mai 2024 23:22:05 CEST: Health check passed - count -------- 185944 (1 row)
+Mi 15 Mai 2024 23:22:10 CEST: Restarting VM
+Mi 15 Mai 2024 23:23:10 CEST: Health check passed - count -------- 186130 (1 row)
+Mi 15 Mai 2024 23:23:15 CEST: Restarting VM
+Mi 15 Mai 2024 23:24:16 CEST: Health check passed - count -------- 186312 (1 row)
+Mi 15 Mai 2024 23:24:21 CEST: Restarting VM
+Mi 15 Mai 2024 23:25:21 CEST: Health check passed - count -------- 186487 (1 row)
+Mi 15 Mai 2024 23:25:26 CEST: Restarting VM
+Mi 15 Mai 2024 23:26:27 CEST: Health check passed - count -------- 186669 (1 row)
+Mi 15 Mai 2024 23:26:32 CEST: Restarting VM
+Mi 15 Mai 2024 23:27:32 CEST: Health check passed - count -------- 186840 (1 row)
+Mi 15 Mai 2024 23:27:37 CEST: Restarting VM
+Mi 15 Mai 2024 23:28:37 CEST: Health check passed - count -------- 187012 (1 row)
+Mi 15 Mai 2024 23:28:42 CEST: Restarting VM
+Mi 15 Mai 2024 23:29:43 CEST: Health check passed - count -------- 187188 (1 row)
+Mi 15 Mai 2024 23:29:48 CEST: Restarting VM
+Mi 15 Mai 2024 23:30:48 CEST: Health check passed - count -------- 187361 (1 row)
+Mi 15 Mai 2024 23:30:53 CEST: Restarting VM
+Mi 15 Mai 2024 23:31:53 CEST: Health check passed - count -------- 187538 (1 row)
+Mi 15 Mai 2024 23:31:58 CEST: Restarting VM
+Mi 15 Mai 2024 23:32:59 CEST: Health check passed - count -------- 187724 (1 row)
+Mi 15 Mai 2024 23:33:04 CEST: Restarting VM
+Mi 15 Mai 2024 23:34:04 CEST: Health check passed - count -------- 187897 (1 row)
+Mi 15 Mai 2024 23:34:09 CEST: Restarting VM
+Mi 15 Mai 2024 23:35:09 CEST: Health check passed - count -------- 188073 (1 row)
+Mi 15 Mai 2024 23:35:15 CEST: Restarting VM
+Mi 15 Mai 2024 23:36:15 CEST: Health check passed - count -------- 188250 (1 row)
+Mi 15 Mai 2024 23:36:20 CEST: Restarting VM
+Mi 15 Mai 2024 23:37:20 CEST: Health check passed - count -------- 188421 (1 row)
+Mi 15 Mai 2024 23:37:25 CEST: Restarting VM
+Mi 15 Mai 2024 23:38:26 CEST: Health check passed - count -------- 188594 (1 row)
+Mi 15 Mai 2024 23:38:31 CEST: Restarting VM
+Mi 15 Mai 2024 23:39:31 CEST: Health check passed - count -------- 188668 (1 row)
+Mi 15 Mai 2024 23:39:36 CEST: Restarting VM
+Mi 15 Mai 2024 23:40:36 CEST: Health check passed - count -------- 188846 (1 row)
+Mi 15 Mai 2024 23:40:41 CEST: Restarting VM
+Mi 15 Mai 2024 23:41:42 CEST: Health check passed - count -------- 189115 (1 row)
+Mi 15 Mai 2024 23:41:47 CEST: Restarting VM
+Mi 15 Mai 2024 23:42:47 CEST: Health check passed - count -------- 189298 (1 row)
+Mi 15 Mai 2024 23:42:52 CEST: Restarting VM
+Mi 15 Mai 2024 23:43:52 CEST: Health check passed - count -------- 189471 (1 row)
+Mi 15 Mai 2024 23:43:57 CEST: Restarting VM
+Mi 15 Mai 2024 23:44:58 CEST: Health check passed - count -------- 189654 (1 row)
+Mi 15 Mai 2024 23:45:03 CEST: Restarting VM
+Mi 15 Mai 2024 23:46:03 CEST: Health check passed - count -------- 189837 (1 row)
+Mi 15 Mai 2024 23:46:08 CEST: Restarting VM
+Mi 15 Mai 2024 23:47:09 CEST: Health check passed - count -------- 190002 (1 row)
+Mi 15 Mai 2024 23:47:14 CEST: Restarting VM
+Mi 15 Mai 2024 23:48:14 CEST: Health check passed - count -------- 190188 (1 row)
+Mi 15 Mai 2024 23:48:19 CEST: Restarting VM
+Mi 15 Mai 2024 23:49:19 CEST: Health check passed - count -------- 190369 (1 row)
+Mi 15 Mai 2024 23:49:24 CEST: Restarting VM
+Mi 15 Mai 2024 23:50:25 CEST: Health check passed - count -------- 190552 (1 row)
+Mi 15 Mai 2024 23:50:30 CEST: Restarting VM
+Mi 15 Mai 2024 23:51:30 CEST: Health check passed - count -------- 190721 (1 row)
+Mi 15 Mai 2024 23:51:35 CEST: Restarting VM
+Mi 15 Mai 2024 23:52:35 CEST: Health check passed - count -------- 190890 (1 row)
+Mi 15 Mai 2024 23:52:40 CEST: Restarting VM
+Mi 15 Mai 2024 23:53:41 CEST: Health check passed - count -------- 191073 (1 row)
+Mi 15 Mai 2024 23:53:46 CEST: Restarting VM
+Mi 15 Mai 2024 23:54:46 CEST: Health check passed - count -------- 191143 (1 row)
+Mi 15 Mai 2024 23:54:51 CEST: Restarting VM
+Mi 15 Mai 2024 23:55:51 CEST: Health check passed - count -------- 191408 (1 row)
+Mi 15 Mai 2024 23:55:57 CEST: Restarting VM
+Mi 15 Mai 2024 23:56:57 CEST: Health check passed - count -------- 191576 (1 row)
+Mi 15 Mai 2024 23:57:02 CEST: Restarting VM
+Mi 15 Mai 2024 23:58:02 CEST: Health check passed - count -------- 191756 (1 row)
+Mi 15 Mai 2024 23:58:07 CEST: Restarting VM
+Mi 15 Mai 2024 23:59:08 CEST: Health check passed - count -------- 191936 (1 row)
+Mi 15 Mai 2024 23:59:13 CEST: Restarting VM
+Do 16 Mai 2024 00:00:13 CEST: Health check passed - count -------- 192015 (1 row)
+Do 16 Mai 2024 00:00:18 CEST: Restarting VM
+Do 16 Mai 2024 00:01:18 CEST: Health check passed - count -------- 192290 (1 row)
+Do 16 Mai 2024 00:01:23 CEST: Restarting VM
+Do 16 Mai 2024 00:02:24 CEST: Health check passed - count -------- 192360 (1 row)
+Do 16 Mai 2024 00:02:29 CEST: Restarting VM
+Do 16 Mai 2024 00:03:29 CEST: Health check passed - count -------- 192639 (1 row)
+Do 16 Mai 2024 00:03:34 CEST: Restarting VM
+Do 16 Mai 2024 00:04:34 CEST: Health check passed - count -------- 192710 (1 row)
+Do 16 Mai 2024 00:04:39 CEST: Restarting VM
+Do 16 Mai 2024 00:05:40 CEST: Health check passed - count -------- 192993 (1 row)
+Do 16 Mai 2024 00:05:45 CEST: Restarting VM
+Do 16 Mai 2024 00:06:45 CEST: Health check passed - count -------- 193159 (1 row)
+Do 16 Mai 2024 00:06:50 CEST: Restarting VM
+Do 16 Mai 2024 00:07:51 CEST: Health check passed - count -------- 193344 (1 row)
+Do 16 Mai 2024 00:07:56 CEST: Restarting VM
+Do 16 Mai 2024 00:08:56 CEST: Health check passed - count -------- 193505 (1 row)
+Do 16 Mai 2024 00:09:01 CEST: Restarting VM
+Do 16 Mai 2024 00:10:01 CEST: Health check passed - count -------- 193682 (1 row)
+Do 16 Mai 2024 00:10:06 CEST: Restarting VM
+Do 16 Mai 2024 00:11:07 CEST: Health check passed - count -------- 193853 (1 row)
+Do 16 Mai 2024 00:11:12 CEST: Restarting VM
+Do 16 Mai 2024 00:12:12 CEST: Health check passed - count -------- 194035 (1 row)
+Do 16 Mai 2024 00:12:17 CEST: Restarting VM
+Do 16 Mai 2024 00:13:17 CEST: Health check passed - count -------- 194199 (1 row)
+Do 16 Mai 2024 00:13:22 CEST: Restarting VM
+Do 16 Mai 2024 00:14:23 CEST: Health check passed - count -------- 194267 (1 row)
+Do 16 Mai 2024 00:14:28 CEST: Restarting VM
+Do 16 Mai 2024 00:15:28 CEST: Health check passed - count -------- 194440 (1 row)
+Do 16 Mai 2024 00:15:33 CEST: Restarting VM
+Do 16 Mai 2024 00:16:34 CEST: Health check passed - count -------- 194609 (1 row)
+Do 16 Mai 2024 00:16:39 CEST: Restarting VM
+Do 16 Mai 2024 00:17:39 CEST: Health check passed - count -------- 194771 (1 row)
+Do 16 Mai 2024 00:17:44 CEST: Restarting VM
+Do 16 Mai 2024 00:18:44 CEST: Health check passed - count -------- 195030 (1 row)
+Do 16 Mai 2024 00:18:49 CEST: Restarting VM
+Do 16 Mai 2024 00:19:50 CEST: Health check passed - count -------- 195208 (1 row)
+Do 16 Mai 2024 00:19:55 CEST: Restarting VM
+Do 16 Mai 2024 00:20:55 CEST: Health check passed - count -------- 195375 (1 row)
+Do 16 Mai 2024 00:21:00 CEST: Restarting VM
+Do 16 Mai 2024 00:22:00 CEST: Health check passed - count -------- 195541 (1 row)
+Do 16 Mai 2024 00:22:05 CEST: Restarting VM
+Do 16 Mai 2024 00:23:06 CEST: Health check passed - count -------- 195722 (1 row)
+Do 16 Mai 2024 00:23:11 CEST: Restarting VM
+Do 16 Mai 2024 00:24:11 CEST: Health check passed - count -------- 195887 (1 row)
+Do 16 Mai 2024 00:24:16 CEST: Restarting VM
+Do 16 Mai 2024 00:25:17 CEST: Health check passed - count -------- 195959 (1 row)
+Do 16 Mai 2024 00:25:22 CEST: Restarting VM
+Do 16 Mai 2024 00:26:22 CEST: Health check passed - count -------- 196231 (1 row)
+Do 16 Mai 2024 00:26:27 CEST: Restarting VM
+Do 16 Mai 2024 00:27:27 CEST: Health check passed - count -------- 196309 (1 row)
+Do 16 Mai 2024 00:27:32 CEST: Restarting VM
+Do 16 Mai 2024 00:28:33 CEST: Health check passed - count -------- 196576 (1 row)
+Do 16 Mai 2024 00:28:38 CEST: Restarting VM
+Do 16 Mai 2024 00:29:38 CEST: Health check passed - count -------- 196753 (1 row)
+Do 16 Mai 2024 00:29:43 CEST: Restarting VM
+Do 16 Mai 2024 00:30:43 CEST: Health check passed - count -------- 196819 (1 row)
+Do 16 Mai 2024 00:30:48 CEST: Restarting VM
+Do 16 Mai 2024 00:31:49 CEST: Health check passed - count -------- 197087 (1 row)
+Do 16 Mai 2024 00:31:54 CEST: Restarting VM
+Do 16 Mai 2024 00:32:54 CEST: Health check passed - count -------- 197152 (1 row)
+Do 16 Mai 2024 00:32:59 CEST: Restarting VM
+Do 16 Mai 2024 00:34:00 CEST: Health check passed - count -------- 197415 (1 row)
+Do 16 Mai 2024 00:34:05 CEST: Restarting VM
+Do 16 Mai 2024 00:35:05 CEST: Health check passed - count -------- 197586 (1 row)
+Do 16 Mai 2024 00:35:10 CEST: Restarting VM
+Do 16 Mai 2024 00:36:10 CEST: Health check passed - count -------- 197749 (1 row)
+Do 16 Mai 2024 00:36:15 CEST: Restarting VM
+Do 16 Mai 2024 00:37:16 CEST: Health check passed - count -------- 197929 (1 row)
+Do 16 Mai 2024 00:37:21 CEST: Restarting VM
+Do 16 Mai 2024 00:38:21 CEST: Health check passed - count -------- 198110 (1 row)
+Do 16 Mai 2024 00:38:26 CEST: Restarting VM
+Do 16 Mai 2024 00:39:26 CEST: Health check passed - count -------- 198278 (1 row)
+Do 16 Mai 2024 00:39:31 CEST: Restarting VM
+Do 16 Mai 2024 00:40:32 CEST: Health check passed - count -------- 198354 (1 row)
+Do 16 Mai 2024 00:40:37 CEST: Restarting VM
+Do 16 Mai 2024 00:41:37 CEST: Health check passed - count -------- 198517 (1 row)
+Do 16 Mai 2024 00:41:42 CEST: Restarting VM
+Do 16 Mai 2024 00:42:42 CEST: Health check passed - count -------- 198787 (1 row)
+Do 16 Mai 2024 00:42:48 CEST: Restarting VM
+Do 16 Mai 2024 00:43:48 CEST: Health check passed - count -------- 198960 (1 row)
+Do 16 Mai 2024 00:43:53 CEST: Restarting VM
+Do 16 Mai 2024 00:44:53 CEST: Health check passed - count -------- 199132 (1 row)
+Do 16 Mai 2024 00:44:58 CEST: Restarting VM
+Do 16 Mai 2024 00:45:59 CEST: Health check passed - count -------- 199304 (1 row)
+Do 16 Mai 2024 00:46:04 CEST: Restarting VM
+Do 16 Mai 2024 00:47:04 CEST: Health check passed - count -------- 199477 (1 row)
+Do 16 Mai 2024 00:47:09 CEST: Restarting VM
+Do 16 Mai 2024 00:48:09 CEST: Health check passed - count -------- 199651 (1 row)
+Do 16 Mai 2024 00:48:14 CEST: Restarting VM
+Do 16 Mai 2024 00:49:15 CEST: Health check passed - count -------- 199819 (1 row)
+Do 16 Mai 2024 00:49:20 CEST: Restarting VM
+Do 16 Mai 2024 00:50:20 CEST: Health check passed - count -------- 199982 (1 row)
+Do 16 Mai 2024 00:50:25 CEST: Restarting VM
+Do 16 Mai 2024 00:51:26 CEST: Health check passed - count -------- 200159 (1 row)
+Do 16 Mai 2024 00:51:31 CEST: Restarting VM
+Do 16 Mai 2024 00:52:31 CEST: Health check passed - count -------- 200232 (1 row)
+Do 16 Mai 2024 00:52:36 CEST: Restarting VM
+Do 16 Mai 2024 00:53:36 CEST: Health check passed - count -------- 200505 (1 row)
+Do 16 Mai 2024 00:53:41 CEST: Restarting VM
+Do 16 Mai 2024 00:54:42 CEST: Health check passed - count -------- 200678 (1 row)
+Do 16 Mai 2024 00:54:47 CEST: Restarting VM
+Do 16 Mai 2024 00:55:47 CEST: Health check passed - count -------- 200841 (1 row)
+Do 16 Mai 2024 00:55:52 CEST: Restarting VM
+Do 16 Mai 2024 00:56:52 CEST: Health check passed - count -------- 201013 (1 row)
+Do 16 Mai 2024 00:56:57 CEST: Restarting VM
+Do 16 Mai 2024 00:57:58 CEST: Health check passed - count -------- 201173 (1 row)
+Do 16 Mai 2024 00:58:03 CEST: Restarting VM
+Do 16 Mai 2024 00:59:03 CEST: Health check passed - count -------- 201330 (1 row)
+Do 16 Mai 2024 00:59:08 CEST: Restarting VM
+Do 16 Mai 2024 01:00:08 CEST: Health check passed - count -------- 201496 (1 row)
+Do 16 Mai 2024 01:00:14 CEST: Restarting VM
+Do 16 Mai 2024 01:01:14 CEST: Health check passed - count -------- 201651 (1 row)
+Do 16 Mai 2024 01:01:19 CEST: Restarting VM
+Do 16 Mai 2024 01:02:19 CEST: Health check passed - count -------- 201815 (1 row)
+Do 16 Mai 2024 01:02:24 CEST: Restarting VM
+Do 16 Mai 2024 01:03:25 CEST: Health check passed - count -------- 201982 (1 row)
+Do 16 Mai 2024 01:03:30 CEST: Restarting VM
+Do 16 Mai 2024 01:04:30 CEST: Health check passed - count -------- 202142 (1 row)
+Do 16 Mai 2024 01:04:35 CEST: Restarting VM
+Do 16 Mai 2024 01:05:35 CEST: Health check passed - count -------- 202309 (1 row)
+Do 16 Mai 2024 01:05:40 CEST: Restarting VM
+Do 16 Mai 2024 01:06:41 CEST: Health check passed - count -------- 202487 (1 row)
+Do 16 Mai 2024 01:06:46 CEST: Restarting VM
+Do 16 Mai 2024 01:07:46 CEST: Health check passed - count -------- 202659 (1 row)
+Do 16 Mai 2024 01:07:51 CEST: Restarting VM
+Do 16 Mai 2024 01:08:52 CEST: Health check passed - count -------- 202823 (1 row)
+Do 16 Mai 2024 01:08:57 CEST: Restarting VM
+Do 16 Mai 2024 01:09:57 CEST: Health check passed - count -------- 202900 (1 row)
+Do 16 Mai 2024 01:10:02 CEST: Restarting VM
+Do 16 Mai 2024 01:11:02 CEST: Health check passed - count -------- 203172 (1 row)
+Do 16 Mai 2024 01:11:07 CEST: Restarting VM
+Do 16 Mai 2024 01:12:08 CEST: Health check passed - count -------- 203331 (1 row)
+Do 16 Mai 2024 01:12:13 CEST: Restarting VM
+Do 16 Mai 2024 01:13:13 CEST: Health check passed - count -------- 203503 (1 row)
+Do 16 Mai 2024 01:13:18 CEST: Restarting VM
+Do 16 Mai 2024 01:14:18 CEST: Health check passed - count -------- 203676 (1 row)
+Do 16 Mai 2024 01:14:23 CEST: Restarting VM
+Do 16 Mai 2024 01:15:24 CEST: Health check passed - count -------- 203832 (1 row)
+Do 16 Mai 2024 01:15:29 CEST: Restarting VM
+Do 16 Mai 2024 01:16:29 CEST: Health check passed - count -------- 203999 (1 row)
+Do 16 Mai 2024 01:16:34 CEST: Restarting VM
+Do 16 Mai 2024 01:17:34 CEST: Health check passed - count -------- 204158 (1 row)
+Do 16 Mai 2024 01:17:40 CEST: Restarting VM
+Do 16 Mai 2024 01:18:40 CEST: Health check passed - count -------- 204334 (1 row)
+Do 16 Mai 2024 01:18:45 CEST: Restarting VM
+Do 16 Mai 2024 01:19:45 CEST: Health check passed - count -------- 204510 (1 row)
+Do 16 Mai 2024 01:19:50 CEST: Restarting VM
+Do 16 Mai 2024 01:20:51 CEST: Health check passed - count -------- 204586 (1 row)
+Do 16 Mai 2024 01:20:56 CEST: Restarting VM
+Do 16 Mai 2024 01:21:56 CEST: Health check passed - count -------- 204748 (1 row)
+Do 16 Mai 2024 01:22:01 CEST: Restarting VM
+Do 16 Mai 2024 01:23:01 CEST: Health check passed - count -------- 205012 (1 row)
+Do 16 Mai 2024 01:23:06 CEST: Restarting VM
+Do 16 Mai 2024 01:24:07 CEST: Health check passed - count -------- 205072 (1 row)
+Do 16 Mai 2024 01:24:12 CEST: Restarting VM
+Do 16 Mai 2024 01:25:12 CEST: Health check passed - count -------- 205335 (1 row)
+Do 16 Mai 2024 01:25:17 CEST: Restarting VM
+Do 16 Mai 2024 01:26:18 CEST: Health check passed - count -------- 205501 (1 row)
+Do 16 Mai 2024 01:26:23 CEST: Restarting VM
+Do 16 Mai 2024 01:27:23 CEST: Health check passed - count -------- 205660 (1 row)
+Do 16 Mai 2024 01:27:28 CEST: Restarting VM
+Do 16 Mai 2024 01:28:28 CEST: Health check passed - count -------- 205818 (1 row)
+Do 16 Mai 2024 01:28:33 CEST: Restarting VM
+Do 16 Mai 2024 01:29:34 CEST: Health check passed - count -------- 205988 (1 row)
+Do 16 Mai 2024 01:29:39 CEST: Restarting VM
+Do 16 Mai 2024 01:30:39 CEST: Health check passed - count -------- 206157 (1 row)
+Do 16 Mai 2024 01:30:44 CEST: Restarting VM
+Do 16 Mai 2024 01:31:44 CEST: Health check passed - count -------- 206315 (1 row)
+Do 16 Mai 2024 01:31:49 CEST: Restarting VM
+Do 16 Mai 2024 01:32:50 CEST: Health check passed - count -------- 206490 (1 row)
+Do 16 Mai 2024 01:32:55 CEST: Restarting VM
+Do 16 Mai 2024 01:33:55 CEST: Health check passed - count -------- 206650 (1 row)
+Do 16 Mai 2024 01:34:00 CEST: Restarting VM
+Do 16 Mai 2024 01:35:01 CEST: Health check passed - count -------- 206812 (1 row)
+Do 16 Mai 2024 01:35:06 CEST: Restarting VM
+Do 16 Mai 2024 01:36:06 CEST: Health check passed - count -------- 206880 (1 row)
+Do 16 Mai 2024 01:36:11 CEST: Restarting VM
+Do 16 Mai 2024 01:37:11 CEST: Health check passed - count -------- 207052 (1 row)
+Do 16 Mai 2024 01:37:16 CEST: Restarting VM
+Do 16 Mai 2024 01:38:17 CEST: Health check passed - count -------- 207309 (1 row)
+Do 16 Mai 2024 01:38:22 CEST: Restarting VM
+Do 16 Mai 2024 01:39:22 CEST: Health check passed - count -------- 207485 (1 row)
+Do 16 Mai 2024 01:39:27 CEST: Restarting VM
+Do 16 Mai 2024 01:40:27 CEST: Health check passed - count -------- 207654 (1 row)
+Do 16 Mai 2024 01:40:32 CEST: Restarting VM
+Do 16 Mai 2024 01:41:33 CEST: Health check passed - count -------- 207814 (1 row)
+Do 16 Mai 2024 01:41:38 CEST: Restarting VM
+Do 16 Mai 2024 01:42:38 CEST: Health check passed - count -------- 207970 (1 row)
+Do 16 Mai 2024 01:42:43 CEST: Restarting VM
+Do 16 Mai 2024 01:43:44 CEST: Health check passed - count -------- 208145 (1 row)
+Do 16 Mai 2024 01:43:49 CEST: Restarting VM
+Do 16 Mai 2024 01:44:49 CEST: Health check passed - count -------- 208212 (1 row)
+Do 16 Mai 2024 01:44:54 CEST: Restarting VM
+Do 16 Mai 2024 01:45:54 CEST: Health check passed - count -------- 208466 (1 row)
+Do 16 Mai 2024 01:45:59 CEST: Restarting VM
+Do 16 Mai 2024 01:47:00 CEST: Health check passed - count -------- 208633 (1 row)
+Do 16 Mai 2024 01:47:05 CEST: Restarting VM
+Do 16 Mai 2024 01:48:05 CEST: Health check passed - count -------- 208788 (1 row)
+Do 16 Mai 2024 01:48:10 CEST: Restarting VM
+Do 16 Mai 2024 01:49:10 CEST: Health check passed - count -------- 208947 (1 row)
+Do 16 Mai 2024 01:49:15 CEST: Restarting VM
+Do 16 Mai 2024 01:50:16 CEST: Health check passed - count -------- 209117 (1 row)
+Do 16 Mai 2024 01:50:21 CEST: Restarting VM
+Do 16 Mai 2024 01:51:21 CEST: Health check passed - count -------- 209287 (1 row)
+Do 16 Mai 2024 01:51:26 CEST: Restarting VM
+Do 16 Mai 2024 01:52:27 CEST: Health check passed - count -------- 209458 (1 row)
+Do 16 Mai 2024 01:52:32 CEST: Restarting VM
+Do 16 Mai 2024 01:53:32 CEST: Health check passed - count -------- 209621 (1 row)
+Do 16 Mai 2024 01:53:37 CEST: Restarting VM
+Do 16 Mai 2024 01:54:37 CEST: Health check passed - count -------- 209790 (1 row)
+Do 16 Mai 2024 01:54:42 CEST: Restarting VM
+Do 16 Mai 2024 01:55:43 CEST: Health check passed - count -------- 209951 (1 row)
+Do 16 Mai 2024 01:55:48 CEST: Restarting VM
+Do 16 Mai 2024 01:56:48 CEST: Health check passed - count -------- 210111 (1 row)
+Do 16 Mai 2024 01:56:53 CEST: Restarting VM
+Do 16 Mai 2024 01:57:54 CEST: Health check passed - count -------- 210281 (1 row)
+Do 16 Mai 2024 01:57:59 CEST: Restarting VM
+Do 16 Mai 2024 01:58:59 CEST: Health check passed - count -------- 210445 (1 row)
+Do 16 Mai 2024 01:59:04 CEST: Restarting VM
+Do 16 Mai 2024 02:00:04 CEST: Health check passed - count -------- 210604 (1 row)
+Do 16 Mai 2024 02:00:09 CEST: Restarting VM
+Do 16 Mai 2024 02:01:10 CEST: Health check passed - count -------- 210763 (1 row)
+Do 16 Mai 2024 02:01:15 CEST: Restarting VM
+Do 16 Mai 2024 02:02:15 CEST: Health check passed - count -------- 210928 (1 row)
+Do 16 Mai 2024 02:02:20 CEST: Restarting VM
+Do 16 Mai 2024 02:03:21 CEST: Health check passed - count -------- 211093 (1 row)
+Do 16 Mai 2024 02:03:26 CEST: Restarting VM
+Do 16 Mai 2024 02:04:26 CEST: Health check passed - count -------- 211160 (1 row)
+Do 16 Mai 2024 02:04:31 CEST: Restarting VM
+Do 16 Mai 2024 02:05:31 CEST: Health check passed - count -------- 211329 (1 row)
+Do 16 Mai 2024 02:05:36 CEST: Restarting VM
+Do 16 Mai 2024 02:06:37 CEST: Health check passed - count -------- 211597 (1 row)
+Do 16 Mai 2024 02:06:42 CEST: Restarting VM
+Do 16 Mai 2024 02:07:42 CEST: Health check passed - count -------- 211754 (1 row)
+Do 16 Mai 2024 02:07:47 CEST: Restarting VM
+Do 16 Mai 2024 02:08:47 CEST: Health check passed - count -------- 211924 (1 row)
+Do 16 Mai 2024 02:08:52 CEST: Restarting VM
+Do 16 Mai 2024 02:09:53 CEST: Health check passed - count -------- 212078 (1 row)
+Do 16 Mai 2024 02:09:58 CEST: Restarting VM
+Do 16 Mai 2024 02:10:58 CEST: Health check passed - count -------- 212240 (1 row)
+Do 16 Mai 2024 02:11:03 CEST: Restarting VM
+Do 16 Mai 2024 02:12:04 CEST: Health check passed - count -------- 212389 (1 row)
+Do 16 Mai 2024 02:12:09 CEST: Restarting VM
+Do 16 Mai 2024 02:13:09 CEST: Health check passed - count -------- 212446 (1 row)
+Do 16 Mai 2024 02:13:14 CEST: Restarting VM
+Do 16 Mai 2024 02:14:14 CEST: Health check passed - count -------- 212704 (1 row)
+Do 16 Mai 2024 02:14:19 CEST: Restarting VM
+Do 16 Mai 2024 02:15:20 CEST: Health check passed - count -------- 212859 (1 row)
+Do 16 Mai 2024 02:15:25 CEST: Restarting VM
+Do 16 Mai 2024 02:16:25 CEST: Health check passed - count -------- 213024 (1 row)
+Do 16 Mai 2024 02:16:30 CEST: Restarting VM
+Do 16 Mai 2024 02:17:31 CEST: Health check passed - count -------- 213187 (1 row)
+Do 16 Mai 2024 02:17:36 CEST: Restarting VM
+Do 16 Mai 2024 02:18:36 CEST: Health check passed - count -------- 213348 (1 row)
+Do 16 Mai 2024 02:18:41 CEST: Restarting VM
+Do 16 Mai 2024 02:19:41 CEST: Health check passed - count -------- 213514 (1 row)
+Do 16 Mai 2024 02:19:46 CEST: Restarting VM
+Do 16 Mai 2024 02:20:47 CEST: Health check passed - count -------- 213682 (1 row)
+Do 16 Mai 2024 02:20:52 CEST: Restarting VM
+Do 16 Mai 2024 02:21:52 CEST: Health check passed - count -------- 213739 (1 row)
+Do 16 Mai 2024 02:21:57 CEST: Restarting VM
+Do 16 Mai 2024 02:22:58 CEST: Health check passed - count -------- 214001 (1 row)
+Do 16 Mai 2024 02:23:03 CEST: Restarting VM
+Do 16 Mai 2024 02:24:03 CEST: Health check passed - count -------- 214155 (1 row)
+Do 16 Mai 2024 02:24:08 CEST: Restarting VM
+Do 16 Mai 2024 02:25:08 CEST: Health check passed - count -------- 214324 (1 row)
+Do 16 Mai 2024 02:25:13 CEST: Restarting VM
+Do 16 Mai 2024 02:26:14 CEST: Health check passed - count -------- 214479 (1 row)
+Do 16 Mai 2024 02:26:19 CEST: Restarting VM
+Do 16 Mai 2024 02:27:19 CEST: Health check passed - count -------- 214629 (1 row)
+Do 16 Mai 2024 02:27:24 CEST: Restarting VM
+Do 16 Mai 2024 02:28:24 CEST: Health check passed - count -------- 214684 (1 row)
+Do 16 Mai 2024 02:28:29 CEST: Restarting VM
+Do 16 Mai 2024 02:29:30 CEST: Health check passed - count -------- 214945 (1 row)
+Do 16 Mai 2024 02:29:35 CEST: Restarting VM
+Do 16 Mai 2024 02:30:35 CEST: Health check passed - count -------- 215104 (1 row)
+Do 16 Mai 2024 02:30:40 CEST: Restarting VM
+Do 16 Mai 2024 02:31:41 CEST: Health check passed - count -------- 215263 (1 row)
+Do 16 Mai 2024 02:31:46 CEST: Restarting VM
+Do 16 Mai 2024 02:32:46 CEST: Health check passed - count -------- 215429 (1 row)
+Do 16 Mai 2024 02:32:51 CEST: Restarting VM
+Do 16 Mai 2024 02:33:51 CEST: Health check passed - count -------- 215584 (1 row)
+Do 16 Mai 2024 02:33:56 CEST: Restarting VM
+Do 16 Mai 2024 02:34:57 CEST: Health check passed - count -------- 215743 (1 row)
+Do 16 Mai 2024 02:35:02 CEST: Restarting VM
+Do 16 Mai 2024 02:36:02 CEST: Health check passed - count -------- 215796 (1 row)
+Do 16 Mai 2024 02:36:07 CEST: Restarting VM
+Do 16 Mai 2024 02:37:08 CEST: Health check passed - count -------- 216049 (1 row)
+Do 16 Mai 2024 02:37:13 CEST: Restarting VM
+Do 16 Mai 2024 02:38:13 CEST: Health check passed - count -------- 216203 (1 row)
+Do 16 Mai 2024 02:38:18 CEST: Restarting VM
+Do 16 Mai 2024 02:39:18 CEST: Health check passed - count -------- 216359 (1 row)
+Do 16 Mai 2024 02:39:23 CEST: Restarting VM
+Do 16 Mai 2024 02:40:24 CEST: Health check passed - count -------- 216413 (1 row)
+Do 16 Mai 2024 02:40:29 CEST: Restarting VM
+Do 16 Mai 2024 02:41:29 CEST: Health check passed - count -------- 216663 (1 row)
+Do 16 Mai 2024 02:41:34 CEST: Restarting VM
+Do 16 Mai 2024 02:42:34 CEST: Health check passed - count -------- 216722 (1 row)
+Do 16 Mai 2024 02:42:39 CEST: Restarting VM
+Do 16 Mai 2024 02:43:40 CEST: Health check passed - count -------- 216980 (1 row)
+Do 16 Mai 2024 02:43:45 CEST: Restarting VM
+Do 16 Mai 2024 02:44:45 CEST: Health check passed - count -------- 217142 (1 row)
+Do 16 Mai 2024 02:44:50 CEST: Restarting VM
+Do 16 Mai 2024 02:45:51 CEST: Health check passed - count -------- 217297 (1 row)
+Do 16 Mai 2024 02:45:56 CEST: Restarting VM
+Do 16 Mai 2024 02:46:56 CEST: Health check passed - count -------- 217456 (1 row)
+Do 16 Mai 2024 02:47:01 CEST: Restarting VM
+Do 16 Mai 2024 02:48:01 CEST: Health check passed - count -------- 217619 (1 row)
+Do 16 Mai 2024 02:48:06 CEST: Restarting VM
+Do 16 Mai 2024 02:49:07 CEST: Health check passed - count -------- 217771 (1 row)
+Do 16 Mai 2024 02:49:12 CEST: Restarting VM
+Do 16 Mai 2024 02:50:12 CEST: Health check passed - count -------- 217920 (1 row)
+Do 16 Mai 2024 02:50:17 CEST: Restarting VM
+Do 16 Mai 2024 02:51:17 CEST: Health check passed - count -------- 218079 (1 row)
+Do 16 Mai 2024 02:51:23 CEST: Restarting VM
+Do 16 Mai 2024 02:52:23 CEST: Health check passed - count -------- 218239 (1 row)
+Do 16 Mai 2024 02:52:28 CEST: Restarting VM
+Do 16 Mai 2024 02:53:28 CEST: Health check passed - count -------- 218389 (1 row)
+Do 16 Mai 2024 02:53:33 CEST: Restarting VM
+Do 16 Mai 2024 02:54:34 CEST: Health check passed - count -------- 218545 (1 row)
+Do 16 Mai 2024 02:54:39 CEST: Restarting VM
+Do 16 Mai 2024 02:55:39 CEST: Health check passed - count -------- 218693 (1 row)
+Do 16 Mai 2024 02:55:44 CEST: Restarting VM
+Do 16 Mai 2024 02:56:44 CEST: Health check passed - count -------- 218853 (1 row)
+Do 16 Mai 2024 02:56:49 CEST: Restarting VM
+Do 16 Mai 2024 02:57:50 CEST: Health check passed - count -------- 219012 (1 row)
+Do 16 Mai 2024 02:57:55 CEST: Restarting VM
+Do 16 Mai 2024 02:58:55 CEST: Health check passed - count -------- 219171 (1 row)
+Do 16 Mai 2024 02:59:00 CEST: Restarting VM
+Do 16 Mai 2024 03:00:01 CEST: Health check passed - count -------- 219324 (1 row)
+Do 16 Mai 2024 03:00:06 CEST: Restarting VM
+Do 16 Mai 2024 03:01:06 CEST: Health check passed - count -------- 219480 (1 row)
+Do 16 Mai 2024 03:01:11 CEST: Restarting VM
+Do 16 Mai 2024 03:02:11 CEST: Health check passed - count -------- 219631 (1 row)
+Do 16 Mai 2024 03:02:16 CEST: Restarting VM
+Do 16 Mai 2024 03:03:17 CEST: Health check passed - count -------- 219794 (1 row)
+Do 16 Mai 2024 03:03:22 CEST: Restarting VM
+Do 16 Mai 2024 03:04:22 CEST: Health check passed - count -------- 219950 (1 row)
+Do 16 Mai 2024 03:04:27 CEST: Restarting VM
+Do 16 Mai 2024 03:05:28 CEST: Health check passed - count -------- 220101 (1 row)
+Do 16 Mai 2024 03:05:33 CEST: Restarting VM
+Do 16 Mai 2024 03:06:33 CEST: Health check passed - count -------- 220263 (1 row)
+Do 16 Mai 2024 03:06:38 CEST: Restarting VM
+Do 16 Mai 2024 03:07:38 CEST: Health check passed - count -------- 220417 (1 row)
+Do 16 Mai 2024 03:07:43 CEST: Restarting VM
+Do 16 Mai 2024 03:08:44 CEST: Health check passed - count -------- 220578 (1 row)
+Do 16 Mai 2024 03:08:49 CEST: Restarting VM
+Do 16 Mai 2024 03:09:49 CEST: Health check passed - count -------- 220729 (1 row)
+Do 16 Mai 2024 03:09:54 CEST: Restarting VM
+Do 16 Mai 2024 03:10:54 CEST: Health check passed - count -------- 220781 (1 row)
+Do 16 Mai 2024 03:10:59 CEST: Restarting VM
+Do 16 Mai 2024 03:12:00 CEST: Health check passed - count -------- 221030 (1 row)
+Do 16 Mai 2024 03:12:05 CEST: Restarting VM
+Do 16 Mai 2024 03:13:05 CEST: Health check passed - count -------- 221187 (1 row)
+Do 16 Mai 2024 03:13:10 CEST: Restarting VM
+Do 16 Mai 2024 03:14:11 CEST: Health check passed - count -------- 221339 (1 row)
+Do 16 Mai 2024 03:14:16 CEST: Restarting VM
+Do 16 Mai 2024 03:15:16 CEST: Health check passed - count -------- 221493 (1 row)
+Do 16 Mai 2024 03:15:21 CEST: Restarting VM
+Do 16 Mai 2024 03:16:21 CEST: Health check passed - count -------- 221653 (1 row)
+Do 16 Mai 2024 03:16:26 CEST: Restarting VM
+Do 16 Mai 2024 03:17:27 CEST: Health check passed - count -------- 221800 (1 row)
+Do 16 Mai 2024 03:17:32 CEST: Restarting VM
+Do 16 Mai 2024 03:18:32 CEST: Health check passed - count -------- 221955 (1 row)
+Do 16 Mai 2024 03:18:37 CEST: Restarting VM
+Do 16 Mai 2024 03:19:38 CEST: Health check passed - count -------- 222019 (1 row)
+Do 16 Mai 2024 03:19:43 CEST: Restarting VM
+Do 16 Mai 2024 03:20:43 CEST: Health check passed - count -------- 222270 (1 row)
+Do 16 Mai 2024 03:20:48 CEST: Restarting VM
+Do 16 Mai 2024 03:21:48 CEST: Health check passed - count -------- 222427 (1 row)
+Do 16 Mai 2024 03:21:53 CEST: Restarting VM
+Do 16 Mai 2024 03:22:54 CEST: Health check passed - count -------- 222585 (1 row)
+Do 16 Mai 2024 03:22:59 CEST: Restarting VM
+Do 16 Mai 2024 03:23:59 CEST: Health check passed - count -------- 222728 (1 row)
+Do 16 Mai 2024 03:24:04 CEST: Restarting VM
+Do 16 Mai 2024 03:25:04 CEST: Health check passed - count -------- 222787 (1 row)
+Do 16 Mai 2024 03:25:10 CEST: Restarting VM
+Do 16 Mai 2024 03:26:10 CEST: Health check passed - count -------- 222947 (1 row)
+Do 16 Mai 2024 03:26:15 CEST: Restarting VM
+Do 16 Mai 2024 03:27:15 CEST: Health check passed - count -------- 223108 (1 row)
+Do 16 Mai 2024 03:27:20 CEST: Restarting VM
+Do 16 Mai 2024 03:28:21 CEST: Health check passed - count -------- 223357 (1 row)
+Do 16 Mai 2024 03:28:26 CEST: Restarting VM
+Do 16 Mai 2024 03:29:26 CEST: Health check passed - count -------- 223411 (1 row)
+Do 16 Mai 2024 03:29:31 CEST: Restarting VM
+Do 16 Mai 2024 03:30:31 CEST: Health check passed - count -------- 223673 (1 row)
+Do 16 Mai 2024 03:30:36 CEST: Restarting VM
+Do 16 Mai 2024 03:31:37 CEST: Health check passed - count -------- 223826 (1 row)
+Do 16 Mai 2024 03:31:42 CEST: Restarting VM
+Do 16 Mai 2024 03:32:42 CEST: Health check passed - count -------- 223877 (1 row)
+Do 16 Mai 2024 03:32:47 CEST: Restarting VM
+Do 16 Mai 2024 03:33:48 CEST: Health check passed - count -------- 224122 (1 row)
+Do 16 Mai 2024 03:33:53 CEST: Restarting VM
+Do 16 Mai 2024 03:34:53 CEST: Health check passed - count -------- 224276 (1 row)
+Do 16 Mai 2024 03:34:58 CEST: Restarting VM
+Do 16 Mai 2024 03:35:58 CEST: Health check passed - count -------- 224420 (1 row)
+Do 16 Mai 2024 03:36:03 CEST: Restarting VM
+Do 16 Mai 2024 03:37:04 CEST: Health check passed - count -------- 224582 (1 row)
+Do 16 Mai 2024 03:37:09 CEST: Restarting VM
+Do 16 Mai 2024 03:38:09 CEST: Health check passed - count -------- 224735 (1 row)
+Do 16 Mai 2024 03:38:14 CEST: Restarting VM
+Do 16 Mai 2024 03:39:15 CEST: Health check passed - count -------- 224887 (1 row)
+Do 16 Mai 2024 03:39:20 CEST: Restarting VM
+Do 16 Mai 2024 03:40:20 CEST: Health check passed - count -------- 225048 (1 row)
+Do 16 Mai 2024 03:40:25 CEST: Restarting VM
+Do 16 Mai 2024 03:41:25 CEST: Health check passed - count -------- 225206 (1 row)
+Do 16 Mai 2024 03:41:30 CEST: Restarting VM
+Do 16 Mai 2024 03:42:31 CEST: Health check passed - count -------- 225354 (1 row)
+Do 16 Mai 2024 03:42:36 CEST: Restarting VM
+Do 16 Mai 2024 03:43:36 CEST: Health check passed - count -------- 225508 (1 row)
+Do 16 Mai 2024 03:43:41 CEST: Restarting VM
+Do 16 Mai 2024 03:44:42 CEST: Health check passed - count -------- 225672 (1 row)
+Do 16 Mai 2024 03:44:47 CEST: Restarting VM
+Do 16 Mai 2024 03:45:47 CEST: Health check passed - count -------- 225830 (1 row)
+Do 16 Mai 2024 03:45:52 CEST: Restarting VM
+Do 16 Mai 2024 03:46:52 CEST: Health check passed - count -------- 225976 (1 row)
+Do 16 Mai 2024 03:46:57 CEST: Restarting VM
+Do 16 Mai 2024 03:47:58 CEST: Health check passed - count -------- 226123 (1 row)
+Do 16 Mai 2024 03:48:03 CEST: Restarting VM
+Do 16 Mai 2024 03:49:03 CEST: Health check passed - count -------- 226187 (1 row)
+Do 16 Mai 2024 03:49:08 CEST: Restarting VM
+Do 16 Mai 2024 03:50:08 CEST: Health check passed - count -------- 226433 (1 row)
+Do 16 Mai 2024 03:50:13 CEST: Restarting VM
+Do 16 Mai 2024 03:51:14 CEST: Health check passed - count -------- 226590 (1 row)
+Do 16 Mai 2024 03:51:19 CEST: Restarting VM
+Do 16 Mai 2024 03:52:19 CEST: Health check passed - count -------- 226738 (1 row)
+Do 16 Mai 2024 03:52:24 CEST: Restarting VM
+Do 16 Mai 2024 03:53:25 CEST: Health check passed - count -------- 226895 (1 row)
+Do 16 Mai 2024 03:53:30 CEST: Restarting VM
+Do 16 Mai 2024 03:54:30 CEST: Health check passed - count -------- 227051 (1 row)
+Do 16 Mai 2024 03:54:35 CEST: Restarting VM
+Do 16 Mai 2024 03:55:35 CEST: Health check passed - count -------- 227209 (1 row)
+Do 16 Mai 2024 03:55:40 CEST: Restarting VM
+Do 16 Mai 2024 03:56:41 CEST: Health check passed - count -------- 227264 (1 row)
+Do 16 Mai 2024 03:56:46 CEST: Restarting VM
+Do 16 Mai 2024 03:57:46 CEST: Health check passed - count -------- 227522 (1 row)
+Do 16 Mai 2024 03:57:51 CEST: Restarting VM
+Do 16 Mai 2024 03:58:52 CEST: Health check passed - count -------- 227585 (1 row)
+Do 16 Mai 2024 03:58:57 CEST: Restarting VM
+Do 16 Mai 2024 03:59:57 CEST: Health check passed - count -------- 227836 (1 row)
+Do 16 Mai 2024 04:00:02 CEST: Restarting VM
+Do 16 Mai 2024 04:01:02 CEST: Health check passed - count -------- 227988 (1 row)
+Do 16 Mai 2024 04:01:07 CEST: Restarting VM
+Do 16 Mai 2024 04:02:08 CEST: Health check passed - count -------- 228135 (1 row)
+Do 16 Mai 2024 04:02:13 CEST: Restarting VM
+Do 16 Mai 2024 04:03:13 CEST: Health check passed - count -------- 228277 (1 row)
+Do 16 Mai 2024 04:03:18 CEST: Restarting VM
+Do 16 Mai 2024 04:04:19 CEST: Health check passed - count -------- 228420 (1 row)
+Do 16 Mai 2024 04:04:24 CEST: Restarting VM
+Do 16 Mai 2024 04:05:24 CEST: Health check passed - count -------- 228472 (1 row)
+Do 16 Mai 2024 04:05:29 CEST: Restarting VM
+Do 16 Mai 2024 04:06:29 CEST: Health check passed - count -------- 228718 (1 row)
+Do 16 Mai 2024 04:06:34 CEST: Restarting VM
+Do 16 Mai 2024 04:07:35 CEST: Health check passed - count -------- 228868 (1 row)
+Do 16 Mai 2024 04:07:40 CEST: Restarting VM
+Do 16 Mai 2024 04:08:40 CEST: Health check passed - count -------- 229023 (1 row)
+Do 16 Mai 2024 04:08:45 CEST: Restarting VM
+Do 16 Mai 2024 04:09:45 CEST: Health check passed - count -------- 229179 (1 row)
+Do 16 Mai 2024 04:09:50 CEST: Restarting VM
+Do 16 Mai 2024 04:10:51 CEST: Health check passed - count -------- 229323 (1 row)
+Do 16 Mai 2024 04:10:56 CEST: Restarting VM
+Do 16 Mai 2024 04:11:56 CEST: Health check passed - count -------- 229473 (1 row)
+Do 16 Mai 2024 04:12:01 CEST: Restarting VM
+Do 16 Mai 2024 04:13:02 CEST: Health check passed - count -------- 229619 (1 row)
+Do 16 Mai 2024 04:13:07 CEST: Restarting VM
+Do 16 Mai 2024 04:14:07 CEST: Health check passed - count -------- 229683 (1 row)
+Do 16 Mai 2024 04:14:12 CEST: Restarting VM
+Do 16 Mai 2024 04:15:12 CEST: Health check passed - count -------- 229931 (1 row)
+Do 16 Mai 2024 04:15:17 CEST: Restarting VM
+Do 16 Mai 2024 04:16:18 CEST: Health check passed - count -------- 229988 (1 row)
+Do 16 Mai 2024 04:16:23 CEST: Restarting VM
+Do 16 Mai 2024 04:17:23 CEST: Health check passed - count -------- 230248 (1 row)
+Do 16 Mai 2024 04:17:28 CEST: Restarting VM
+Do 16 Mai 2024 04:18:29 CEST: Health check passed - count -------- 230389 (1 row)
+Do 16 Mai 2024 04:18:34 CEST: Restarting VM
+Do 16 Mai 2024 04:19:34 CEST: Health check passed - count -------- 230533 (1 row)
+Do 16 Mai 2024 04:19:39 CEST: Restarting VM
+Do 16 Mai 2024 04:20:39 CEST: Health check passed - count -------- 230686 (1 row)
+Do 16 Mai 2024 04:20:44 CEST: Restarting VM
+Do 16 Mai 2024 04:21:45 CEST: Health check passed - count -------- 230842 (1 row)
+Do 16 Mai 2024 04:21:50 CEST: Restarting VM
+Do 16 Mai 2024 04:22:50 CEST: Health check passed - count -------- 230999 (1 row)
+Do 16 Mai 2024 04:22:55 CEST: Restarting VM
+Do 16 Mai 2024 04:23:56 CEST: Health check passed - count -------- 231154 (1 row)
+Do 16 Mai 2024 04:24:01 CEST: Restarting VM
+Do 16 Mai 2024 04:25:01 CEST: Health check passed - count -------- 231312 (1 row)
+Do 16 Mai 2024 04:25:06 CEST: Restarting VM
+Do 16 Mai 2024 04:26:06 CEST: Health check passed - count -------- 231463 (1 row)
+Do 16 Mai 2024 04:26:11 CEST: Restarting VM
+Do 16 Mai 2024 04:27:12 CEST: Health check passed - count -------- 231616 (1 row)
+Do 16 Mai 2024 04:27:17 CEST: Restarting VM
+Do 16 Mai 2024 04:28:17 CEST: Health check passed - count -------- 231764 (1 row)
+Do 16 Mai 2024 04:28:22 CEST: Restarting VM
+Do 16 Mai 2024 04:29:23 CEST: Health check passed - count -------- 231814 (1 row)
+Do 16 Mai 2024 04:29:28 CEST: Restarting VM
+Do 16 Mai 2024 04:30:28 CEST: Health check passed - count -------- 232067 (1 row)
+Do 16 Mai 2024 04:30:33 CEST: Restarting VM
+Do 16 Mai 2024 04:31:33 CEST: Health check passed - count -------- 232216 (1 row)
+Do 16 Mai 2024 04:31:38 CEST: Restarting VM
+Do 16 Mai 2024 04:32:39 CEST: Health check passed - count -------- 232370 (1 row)
+Do 16 Mai 2024 04:32:44 CEST: Restarting VM
+Do 16 Mai 2024 04:33:44 CEST: Health check passed - count -------- 232524 (1 row)
+Do 16 Mai 2024 04:33:49 CEST: Restarting VM
+Do 16 Mai 2024 04:34:50 CEST: Health check passed - count -------- 232680 (1 row)
+Do 16 Mai 2024 04:34:55 CEST: Restarting VM
+Do 16 Mai 2024 04:35:55 CEST: Health check passed - count -------- 232836 (1 row)
+Do 16 Mai 2024 04:36:00 CEST: Restarting VM
+Do 16 Mai 2024 04:37:00 CEST: Health check passed - count -------- 232993 (1 row)
+Do 16 Mai 2024 04:37:05 CEST: Restarting VM
+Do 16 Mai 2024 04:38:06 CEST: Health check passed - count -------- 233139 (1 row)
+Do 16 Mai 2024 04:38:11 CEST: Restarting VM
+Do 16 Mai 2024 04:39:11 CEST: Health check passed - count -------- 233288 (1 row)
+Do 16 Mai 2024 04:39:16 CEST: Restarting VM
+Do 16 Mai 2024 04:40:17 CEST: Health check passed - count -------- 233348 (1 row)
+Do 16 Mai 2024 04:40:22 CEST: Restarting VM
+Do 16 Mai 2024 04:41:22 CEST: Health check passed - count -------- 233599 (1 row)
+Do 16 Mai 2024 04:41:27 CEST: Restarting VM
+Do 16 Mai 2024 04:42:27 CEST: Health check passed - count -------- 233755 (1 row)
+Do 16 Mai 2024 04:42:32 CEST: Restarting VM
+Do 16 Mai 2024 04:43:33 CEST: Health check passed - count -------- 233913 (1 row)
+Do 16 Mai 2024 04:43:38 CEST: Restarting VM
+Do 16 Mai 2024 04:44:38 CEST: Health check passed - count -------- 234058 (1 row)
+Do 16 Mai 2024 04:44:43 CEST: Restarting VM
+Do 16 Mai 2024 04:45:44 CEST: Health check passed - count -------- 234210 (1 row)
+Do 16 Mai 2024 04:45:49 CEST: Restarting VM
+Do 16 Mai 2024 04:46:49 CEST: Health check passed - count -------- 234355 (1 row)
+Do 16 Mai 2024 04:46:54 CEST: Restarting VM
+Do 16 Mai 2024 04:47:54 CEST: Health check passed - count -------- 234497 (1 row)
+Do 16 Mai 2024 04:47:59 CEST: Restarting VM
+Do 16 Mai 2024 04:49:00 CEST: Health check passed - count -------- 234654 (1 row)
+Do 16 Mai 2024 04:49:05 CEST: Restarting VM
+Do 16 Mai 2024 04:50:05 CEST: Health check passed - count -------- 234799 (1 row)
+Do 16 Mai 2024 04:50:10 CEST: Restarting VM
+Do 16 Mai 2024 04:51:11 CEST: Health check passed - count -------- 234957 (1 row)
+Do 16 Mai 2024 04:51:16 CEST: Restarting VM
+Do 16 Mai 2024 04:52:16 CEST: Health check passed - count -------- 235110 (1 row)
+Do 16 Mai 2024 04:52:21 CEST: Restarting VM
+Do 16 Mai 2024 04:53:21 CEST: Health check passed - count -------- 235250 (1 row)
+Do 16 Mai 2024 04:53:26 CEST: Restarting VM
+Do 16 Mai 2024 04:54:27 CEST: Health check passed - count -------- 235399 (1 row)
+Do 16 Mai 2024 04:54:32 CEST: Restarting VM
+Do 16 Mai 2024 04:55:32 CEST: Health check passed - count -------- 235559 (1 row)
+Do 16 Mai 2024 04:55:37 CEST: Restarting VM
+Do 16 Mai 2024 04:56:38 CEST: Health check passed - count -------- 235703 (1 row)
+Do 16 Mai 2024 04:56:43 CEST: Restarting VM
+Do 16 Mai 2024 04:57:43 CEST: Health check passed - count -------- 235746 (1 row)
+Do 16 Mai 2024 04:57:48 CEST: Restarting VM
+Do 16 Mai 2024 04:58:48 CEST: Health check passed - count -------- 235995 (1 row)
+Do 16 Mai 2024 04:58:53 CEST: Restarting VM
+Do 16 Mai 2024 04:59:54 CEST: Health check passed - count -------- 236037 (1 row)
+Do 16 Mai 2024 04:59:59 CEST: Restarting VM
+Do 16 Mai 2024 05:00:59 CEST: Health check passed - count -------- 236278 (1 row)
+Do 16 Mai 2024 05:01:04 CEST: Restarting VM
+Do 16 Mai 2024 05:02:05 CEST: Health check passed - count -------- 236421 (1 row)
+Do 16 Mai 2024 05:02:10 CEST: Restarting VM
+Do 16 Mai 2024 05:03:10 CEST: Health check passed - count -------- 236562 (1 row)
+Do 16 Mai 2024 05:03:15 CEST: Restarting VM
+Do 16 Mai 2024 05:04:15 CEST: Health check passed - count -------- 236705 (1 row)
+Do 16 Mai 2024 05:04:20 CEST: Restarting VM
+Do 16 Mai 2024 05:05:21 CEST: Health check passed - count -------- 236854 (1 row)
+Do 16 Mai 2024 05:05:26 CEST: Restarting VM
+Do 16 Mai 2024 05:06:26 CEST: Health check passed - count -------- 236999 (1 row)
+Do 16 Mai 2024 05:06:31 CEST: Restarting VM
+Do 16 Mai 2024 05:07:32 CEST: Health check passed - count -------- 237149 (1 row)
+Do 16 Mai 2024 05:07:37 CEST: Restarting VM
+Do 16 Mai 2024 05:08:37 CEST: Health check passed - count -------- 237301 (1 row)
+Do 16 Mai 2024 05:08:42 CEST: Restarting VM
+Do 16 Mai 2024 05:09:42 CEST: Health check passed - count -------- 237457 (1 row)
+Do 16 Mai 2024 05:09:47 CEST: Restarting VM
+Do 16 Mai 2024 05:10:48 CEST: Health check passed - count -------- 237613 (1 row)
+Do 16 Mai 2024 05:10:53 CEST: Restarting VM
+Do 16 Mai 2024 05:11:53 CEST: Health check passed - count -------- 237768 (1 row)
+Do 16 Mai 2024 05:11:58 CEST: Restarting VM
+Do 16 Mai 2024 05:12:59 CEST: Health check passed - count -------- 237923 (1 row)
+Do 16 Mai 2024 05:13:04 CEST: Restarting VM
+Do 16 Mai 2024 05:14:04 CEST: Health check passed - count -------- 238062 (1 row)
+Do 16 Mai 2024 05:14:09 CEST: Restarting VM
+Do 16 Mai 2024 05:15:09 CEST: Health check passed - count -------- 238214 (1 row)
+Do 16 Mai 2024 05:15:14 CEST: Restarting VM
+Do 16 Mai 2024 05:16:15 CEST: Health check passed - count -------- 238261 (1 row)
+Do 16 Mai 2024 05:16:20 CEST: Restarting VM
+Do 16 Mai 2024 05:17:20 CEST: Health check passed - count -------- 238506 (1 row)
+Do 16 Mai 2024 05:17:25 CEST: Restarting VM
+Do 16 Mai 2024 05:18:26 CEST: Health check passed - count -------- 238651 (1 row)
+Do 16 Mai 2024 05:18:31 CEST: Restarting VM
+Do 16 Mai 2024 05:19:31 CEST: Health check passed - count -------- 238790 (1 row)
+Do 16 Mai 2024 05:19:36 CEST: Restarting VM
+Do 16 Mai 2024 05:20:36 CEST: Health check passed - count -------- 238930 (1 row)
+Do 16 Mai 2024 05:20:42 CEST: Restarting VM
+Do 16 Mai 2024 05:21:42 CEST: Health check passed - count -------- 239085 (1 row)
+Do 16 Mai 2024 05:21:47 CEST: Restarting VM
+Do 16 Mai 2024 05:22:47 CEST: Health check passed - count -------- 239131 (1 row)
+Do 16 Mai 2024 05:22:52 CEST: Restarting VM
+Do 16 Mai 2024 05:23:53 CEST: Health check passed - count -------- 239280 (1 row)
+Do 16 Mai 2024 05:23:58 CEST: Restarting VM
+Do 16 Mai 2024 05:24:58 CEST: Health check passed - count -------- 239421 (1 row)
+Do 16 Mai 2024 05:25:03 CEST: Restarting VM
+Do 16 Mai 2024 05:26:03 CEST: Health check passed - count -------- 239676 (1 row)
+Do 16 Mai 2024 05:26:08 CEST: Restarting VM
+Do 16 Mai 2024 05:27:09 CEST: Health check passed - count -------- 239814 (1 row)
+Do 16 Mai 2024 05:27:14 CEST: Restarting VM
+Do 16 Mai 2024 05:28:14 CEST: Health check passed - count -------- 239965 (1 row)
+Do 16 Mai 2024 05:28:19 CEST: Restarting VM
+Do 16 Mai 2024 05:29:20 CEST: Health check passed - count -------- 240114 (1 row)
+Do 16 Mai 2024 05:29:25 CEST: Restarting VM
+Do 16 Mai 2024 05:30:25 CEST: Health check passed - count -------- 240165 (1 row)
+Do 16 Mai 2024 05:30:30 CEST: Restarting VM
+Do 16 Mai 2024 05:31:30 CEST: Health check passed - count -------- 240413 (1 row)
+Do 16 Mai 2024 05:31:35 CEST: Restarting VM
+Do 16 Mai 2024 05:32:36 CEST: Health check passed - count -------- 240558 (1 row)
+Do 16 Mai 2024 05:32:41 CEST: Restarting VM
+Do 16 Mai 2024 05:33:41 CEST: Health check passed - count -------- 240713 (1 row)
+Do 16 Mai 2024 05:33:46 CEST: Restarting VM
+Do 16 Mai 2024 05:34:47 CEST: Health check passed - count -------- 240860 (1 row)
+Do 16 Mai 2024 05:34:52 CEST: Restarting VM
+Do 16 Mai 2024 05:35:52 CEST: Health check passed - count -------- 241010 (1 row)
+Do 16 Mai 2024 05:35:57 CEST: Restarting VM
+Do 16 Mai 2024 05:36:57 CEST: Health check passed - count -------- 241166 (1 row)
+Do 16 Mai 2024 05:37:03 CEST: Restarting VM
+Do 16 Mai 2024 05:38:03 CEST: Health check passed - count -------- 241317 (1 row)
+Do 16 Mai 2024 05:38:08 CEST: Restarting VM
+Do 16 Mai 2024 05:39:08 CEST: Health check passed - count -------- 241460 (1 row)
+Do 16 Mai 2024 05:39:13 CEST: Restarting VM
+Do 16 Mai 2024 05:40:14 CEST: Health check passed - count -------- 241612 (1 row)
+Do 16 Mai 2024 05:40:19 CEST: Restarting VM
+Do 16 Mai 2024 05:41:19 CEST: Health check passed - count -------- 241760 (1 row)
+Do 16 Mai 2024 05:41:24 CEST: Restarting VM
+Do 16 Mai 2024 05:42:25 CEST: Health check passed - count -------- 241898 (1 row)
+Do 16 Mai 2024 05:42:30 CEST: Restarting VM
+Do 16 Mai 2024 05:43:30 CEST: Health check passed - count -------- 242045 (1 row)
+Do 16 Mai 2024 05:43:35 CEST: Restarting VM
+Do 16 Mai 2024 05:44:35 CEST: Health check passed - count -------- 242093 (1 row)
+Do 16 Mai 2024 05:44:40 CEST: Restarting VM
+Do 16 Mai 2024 05:45:41 CEST: Health check passed - count -------- 242341 (1 row)
+Do 16 Mai 2024 05:45:46 CEST: Restarting VM
+Do 16 Mai 2024 05:46:46 CEST: Health check failed - 
+Do 16 Mai 2024 05:46:51 CEST: Restarting VM
+Do 16 Mai 2024 05:47:51 CEST: Health check failed - 
+Do 16 Mai 2024 05:47:56 CEST: Restarting VM
+Do 16 Mai 2024 05:48:56 CEST: Health check failed - 
+Do 16 Mai 2024 05:49:01 CEST: Restarting VM
+Do 16 Mai 2024 05:50:02 CEST: Health check failed - 
+Do 16 Mai 2024 05:50:07 CEST: Restarting VM
+Do 16 Mai 2024 05:51:07 CEST: Health check failed - 
+Do 16 Mai 2024 05:51:12 CEST: Restarting VM
+Do 16 Mai 2024 05:52:12 CEST: Health check failed - 
+Do 16 Mai 2024 05:52:17 CEST: Restarting VM
+Do 16 Mai 2024 05:53:17 CEST: Health check failed - 
+Do 16 Mai 2024 05:53:22 CEST: Restarting VM
+Do 16 Mai 2024 05:54:22 CEST: Health check failed - 
+Do 16 Mai 2024 05:54:27 CEST: Restarting VM
+Do 16 Mai 2024 05:55:28 CEST: Health check failed - 
+Do 16 Mai 2024 05:55:33 CEST: Restarting VM
+Do 16 Mai 2024 05:56:33 CEST: Health check failed - 
+Do 16 Mai 2024 05:56:38 CEST: Restarting VM
+Do 16 Mai 2024 05:57:38 CEST: Health check failed - 
+Do 16 Mai 2024 05:57:43 CEST: Restarting VM
+Do 16 Mai 2024 05:58:43 CEST: Health check failed - 
+Do 16 Mai 2024 05:58:48 CEST: Restarting VM
+Do 16 Mai 2024 05:59:49 CEST: Health check failed - 
+Do 16 Mai 2024 05:59:54 CEST: Restarting VM
+Do 16 Mai 2024 06:00:54 CEST: Health check failed - 
+Do 16 Mai 2024 06:00:59 CEST: Restarting VM
+Do 16 Mai 2024 06:01:59 CEST: Health check failed - 
+Do 16 Mai 2024 06:02:04 CEST: Restarting VM
+Do 16 Mai 2024 06:03:04 CEST: Health check failed - 
+Do 16 Mai 2024 06:03:09 CEST: Restarting VM
+Do 16 Mai 2024 06:04:09 CEST: Health check failed - 
+Do 16 Mai 2024 06:04:14 CEST: Restarting VM
+Do 16 Mai 2024 06:05:15 CEST: Health check failed - 
+Do 16 Mai 2024 06:05:20 CEST: Restarting VM
+Do 16 Mai 2024 06:06:20 CEST: Health check failed - 
+Do 16 Mai 2024 06:06:25 CEST: Restarting VM
+Do 16 Mai 2024 06:07:25 CEST: Health check failed - 
+Do 16 Mai 2024 06:07:30 CEST: Restarting VM
+Do 16 Mai 2024 06:08:30 CEST: Health check failed - 
+Do 16 Mai 2024 06:08:35 CEST: Restarting VM
+Do 16 Mai 2024 06:09:35 CEST: Health check failed - 
+Do 16 Mai 2024 06:09:40 CEST: Restarting VM
+Do 16 Mai 2024 06:10:41 CEST: Health check failed - 
+Do 16 Mai 2024 06:10:46 CEST: Restarting VM
+Do 16 Mai 2024 06:11:46 CEST: Health check failed - 
+Do 16 Mai 2024 06:11:51 CEST: Restarting VM
+Do 16 Mai 2024 06:12:51 CEST: Health check failed - 
+Do 16 Mai 2024 06:12:56 CEST: Restarting VM
+Do 16 Mai 2024 06:13:56 CEST: Health check failed - 
+Do 16 Mai 2024 06:14:01 CEST: Restarting VM
+Do 16 Mai 2024 06:15:02 CEST: Health check failed - 
+Do 16 Mai 2024 06:15:07 CEST: Restarting VM
+Do 16 Mai 2024 06:16:07 CEST: Health check failed - 
+Do 16 Mai 2024 06:16:12 CEST: Restarting VM
+Do 16 Mai 2024 06:17:12 CEST: Health check failed - 
+Do 16 Mai 2024 06:17:17 CEST: Restarting VM
+Do 16 Mai 2024 06:18:17 CEST: Health check failed - 
+Do 16 Mai 2024 06:18:22 CEST: Restarting VM
+Do 16 Mai 2024 06:19:22 CEST: Health check failed - 
+Do 16 Mai 2024 06:19:27 CEST: Restarting VM
+Do 16 Mai 2024 06:20:28 CEST: Health check failed - 
+Do 16 Mai 2024 06:20:33 CEST: Restarting VM
+Do 16 Mai 2024 06:21:33 CEST: Health check failed - 
+Do 16 Mai 2024 06:21:38 CEST: Restarting VM
+Do 16 Mai 2024 06:22:38 CEST: Health check failed - 
+Do 16 Mai 2024 06:22:43 CEST: Restarting VM
+Do 16 Mai 2024 06:23:43 CEST: Health check failed - 
+Do 16 Mai 2024 06:23:48 CEST: Restarting VM
+Do 16 Mai 2024 06:24:49 CEST: Health check failed - 
+Do 16 Mai 2024 06:24:54 CEST: Restarting VM
+Do 16 Mai 2024 06:25:54 CEST: Health check failed - 
+Do 16 Mai 2024 06:25:59 CEST: Restarting VM
+Do 16 Mai 2024 06:26:59 CEST: Health check failed - 
+Do 16 Mai 2024 06:27:04 CEST: Restarting VM
+Do 16 Mai 2024 06:28:04 CEST: Health check failed - 
+Do 16 Mai 2024 06:28:09 CEST: Restarting VM
+Do 16 Mai 2024 06:29:09 CEST: Health check failed - 
+Do 16 Mai 2024 06:29:14 CEST: Restarting VM
+Do 16 Mai 2024 06:30:15 CEST: Health check failed - 
+Do 16 Mai 2024 06:30:20 CEST: Restarting VM
+Do 16 Mai 2024 06:31:20 CEST: Health check failed - 
+Do 16 Mai 2024 06:31:25 CEST: Restarting VM
+Do 16 Mai 2024 06:32:25 CEST: Health check failed - 
+Do 16 Mai 2024 06:32:30 CEST: Restarting VM
+Do 16 Mai 2024 06:33:30 CEST: Health check failed - 
+Do 16 Mai 2024 06:33:35 CEST: Restarting VM
+Do 16 Mai 2024 06:34:35 CEST: Health check failed - 
+Do 16 Mai 2024 06:34:40 CEST: Restarting VM
+Do 16 Mai 2024 06:35:41 CEST: Health check failed - 
+Do 16 Mai 2024 06:35:46 CEST: Restarting VM
+Do 16 Mai 2024 06:36:46 CEST: Health check failed - 
+Do 16 Mai 2024 06:36:51 CEST: Restarting VM
+Do 16 Mai 2024 06:37:51 CEST: Health check failed - 
+Do 16 Mai 2024 06:37:56 CEST: Restarting VM
+Do 16 Mai 2024 06:38:56 CEST: Health check failed - 
+Do 16 Mai 2024 06:39:01 CEST: Restarting VM
+Do 16 Mai 2024 06:40:02 CEST: Health check failed - 
+Do 16 Mai 2024 06:40:07 CEST: Restarting VM
+Do 16 Mai 2024 06:41:07 CEST: Health check failed - 
+Do 16 Mai 2024 06:41:12 CEST: Restarting VM
+Do 16 Mai 2024 06:42:12 CEST: Health check failed - 
+Do 16 Mai 2024 06:42:17 CEST: Restarting VM
+Do 16 Mai 2024 06:43:17 CEST: Health check failed - 
+Do 16 Mai 2024 06:43:22 CEST: Restarting VM
+Do 16 Mai 2024 06:44:22 CEST: Health check failed - 
+Do 16 Mai 2024 06:44:27 CEST: Restarting VM
+Do 16 Mai 2024 06:45:28 CEST: Health check failed - 
+Do 16 Mai 2024 06:45:33 CEST: Restarting VM
+Do 16 Mai 2024 06:46:33 CEST: Health check failed - 
+Do 16 Mai 2024 06:46:38 CEST: Restarting VM
+Do 16 Mai 2024 06:47:38 CEST: Health check failed - 
+Do 16 Mai 2024 06:47:43 CEST: Restarting VM
+Do 16 Mai 2024 06:48:43 CEST: Health check failed - 
+Do 16 Mai 2024 06:48:48 CEST: Restarting VM
+Do 16 Mai 2024 06:49:48 CEST: Health check failed - 
+Do 16 Mai 2024 06:49:53 CEST: Restarting VM
+Do 16 Mai 2024 06:50:54 CEST: Health check failed - 
+Do 16 Mai 2024 06:50:59 CEST: Restarting VM
+Do 16 Mai 2024 06:51:59 CEST: Health check failed - 
+Do 16 Mai 2024 06:52:04 CEST: Restarting VM
+Do 16 Mai 2024 06:53:04 CEST: Health check failed - 
+Do 16 Mai 2024 06:53:09 CEST: Restarting VM
+Do 16 Mai 2024 06:54:09 CEST: Health check failed - 
+Do 16 Mai 2024 06:54:14 CEST: Restarting VM
+Do 16 Mai 2024 06:55:15 CEST: Health check failed - 
+Do 16 Mai 2024 06:55:20 CEST: Restarting VM
+Do 16 Mai 2024 06:56:20 CEST: Health check failed - 
+Do 16 Mai 2024 06:56:25 CEST: Restarting VM
+Do 16 Mai 2024 06:57:25 CEST: Health check failed - 
+Do 16 Mai 2024 06:57:30 CEST: Restarting VM
+Do 16 Mai 2024 06:58:30 CEST: Health check failed - 
+Do 16 Mai 2024 06:58:35 CEST: Restarting VM
+Do 16 Mai 2024 06:59:35 CEST: Health check failed - 
+Do 16 Mai 2024 06:59:40 CEST: Restarting VM
+Do 16 Mai 2024 07:00:41 CEST: Health check failed - 
+Do 16 Mai 2024 07:00:46 CEST: Restarting VM
+Do 16 Mai 2024 07:01:46 CEST: Health check failed - 
+Do 16 Mai 2024 07:01:51 CEST: Restarting VM
+Do 16 Mai 2024 07:02:51 CEST: Health check failed - 
+Do 16 Mai 2024 07:02:56 CEST: Restarting VM
+Do 16 Mai 2024 07:03:56 CEST: Health check failed - 
+Do 16 Mai 2024 07:04:01 CEST: Restarting VM
+Do 16 Mai 2024 07:05:02 CEST: Health check failed - 
+Do 16 Mai 2024 07:05:07 CEST: Restarting VM
+Do 16 Mai 2024 07:06:07 CEST: Health check failed - 
+Do 16 Mai 2024 07:06:12 CEST: Restarting VM
+Do 16 Mai 2024 07:07:12 CEST: Health check failed - 
+Do 16 Mai 2024 07:07:17 CEST: Restarting VM
+Do 16 Mai 2024 07:08:17 CEST: Health check failed - 
+Do 16 Mai 2024 07:08:22 CEST: Restarting VM
+Do 16 Mai 2024 07:09:22 CEST: Health check failed - 
+Do 16 Mai 2024 07:09:27 CEST: Restarting VM
+Do 16 Mai 2024 07:10:28 CEST: Health check failed - 
+Do 16 Mai 2024 07:10:33 CEST: Restarting VM
+Do 16 Mai 2024 07:11:33 CEST: Health check failed - 
+Do 16 Mai 2024 07:11:38 CEST: Restarting VM
+Do 16 Mai 2024 07:12:38 CEST: Health check failed - 
+Do 16 Mai 2024 07:12:43 CEST: Restarting VM
+Do 16 Mai 2024 07:13:43 CEST: Health check failed - 
+Do 16 Mai 2024 07:13:48 CEST: Restarting VM
+Do 16 Mai 2024 07:14:48 CEST: Health check failed - 
+Do 16 Mai 2024 07:14:53 CEST: Restarting VM
+Do 16 Mai 2024 07:15:54 CEST: Health check failed - 
+Do 16 Mai 2024 07:15:59 CEST: Restarting VM
+Do 16 Mai 2024 07:16:59 CEST: Health check failed - 
+Do 16 Mai 2024 07:17:04 CEST: Restarting VM
+Do 16 Mai 2024 07:18:04 CEST: Health check failed - 
+Do 16 Mai 2024 07:18:09 CEST: Restarting VM
+Do 16 Mai 2024 07:19:09 CEST: Health check failed - 
+Do 16 Mai 2024 07:19:14 CEST: Restarting VM
+Do 16 Mai 2024 07:20:15 CEST: Health check failed - 
+Do 16 Mai 2024 07:20:20 CEST: Restarting VM
+Do 16 Mai 2024 07:21:20 CEST: Health check failed - 
+Do 16 Mai 2024 07:21:25 CEST: Restarting VM
+Do 16 Mai 2024 07:22:25 CEST: Health check failed - 
+Do 16 Mai 2024 07:22:30 CEST: Restarting VM
+Do 16 Mai 2024 07:23:30 CEST: Health check failed - 
+Do 16 Mai 2024 07:23:35 CEST: Restarting VM
+Do 16 Mai 2024 07:24:35 CEST: Health check failed - 
+Do 16 Mai 2024 07:24:40 CEST: Restarting VM
+Do 16 Mai 2024 07:25:41 CEST: Health check failed - 
+Do 16 Mai 2024 07:25:46 CEST: Restarting VM
+Do 16 Mai 2024 07:26:46 CEST: Health check failed - 
+Do 16 Mai 2024 07:26:51 CEST: Restarting VM
+Do 16 Mai 2024 07:27:51 CEST: Health check failed - 
+Do 16 Mai 2024 07:27:56 CEST: Restarting VM
+Do 16 Mai 2024 07:28:56 CEST: Health check failed - 
+Do 16 Mai 2024 07:29:01 CEST: Restarting VM
+Do 16 Mai 2024 07:30:01 CEST: Health check failed - 
+Do 16 Mai 2024 07:30:06 CEST: Restarting VM
+Do 16 Mai 2024 07:31:07 CEST: Health check failed - 
+Do 16 Mai 2024 07:31:12 CEST: Restarting VM
+Do 16 Mai 2024 07:32:12 CEST: Health check failed - 
+Do 16 Mai 2024 07:32:17 CEST: Restarting VM
+Do 16 Mai 2024 07:33:17 CEST: Health check failed - 
+Do 16 Mai 2024 07:33:22 CEST: Restarting VM
+Do 16 Mai 2024 07:34:22 CEST: Health check failed - 
+Do 16 Mai 2024 07:34:27 CEST: Restarting VM
+Do 16 Mai 2024 07:35:28 CEST: Health check failed - 
+Do 16 Mai 2024 07:35:33 CEST: Restarting VM
+Do 16 Mai 2024 07:36:33 CEST: Health check failed - 
+Do 16 Mai 2024 07:36:38 CEST: Restarting VM
+Do 16 Mai 2024 07:37:38 CEST: Health check failed - 
+Do 16 Mai 2024 07:37:43 CEST: Restarting VM
+Do 16 Mai 2024 07:38:43 CEST: Health check failed - 
+Do 16 Mai 2024 07:38:48 CEST: Restarting VM
+Do 16 Mai 2024 07:39:48 CEST: Health check failed - 
+Do 16 Mai 2024 07:39:53 CEST: Restarting VM
+Do 16 Mai 2024 07:40:54 CEST: Health check failed - 
+Do 16 Mai 2024 07:40:59 CEST: Restarting VM
+Do 16 Mai 2024 07:41:59 CEST: Health check failed - 
+Do 16 Mai 2024 07:42:04 CEST: Restarting VM
+Do 16 Mai 2024 07:43:04 CEST: Health check failed - 
+Do 16 Mai 2024 07:43:09 CEST: Restarting VM
+Do 16 Mai 2024 07:44:09 CEST: Health check failed - 
+Do 16 Mai 2024 07:44:14 CEST: Restarting VM
+Do 16 Mai 2024 07:45:14 CEST: Health check failed - 
+Do 16 Mai 2024 07:45:19 CEST: Restarting VM
+Do 16 Mai 2024 07:46:20 CEST: Health check failed - 
+Do 16 Mai 2024 07:46:25 CEST: Restarting VM
+Do 16 Mai 2024 07:47:25 CEST: Health check failed - 
+Do 16 Mai 2024 07:47:30 CEST: Restarting VM
+Do 16 Mai 2024 07:48:30 CEST: Health check failed - 
+Do 16 Mai 2024 07:48:35 CEST: Restarting VM
+Do 16 Mai 2024 07:49:35 CEST: Health check failed - 
+Do 16 Mai 2024 07:49:40 CEST: Restarting VM
+Do 16 Mai 2024 07:50:41 CEST: Health check failed - 
+Do 16 Mai 2024 07:50:46 CEST: Restarting VM
+Do 16 Mai 2024 07:51:46 CEST: Health check failed - 
+Do 16 Mai 2024 07:51:51 CEST: Restarting VM
+Do 16 Mai 2024 07:52:51 CEST: Health check failed - 
+Do 16 Mai 2024 07:52:56 CEST: Restarting VM
+Do 16 Mai 2024 07:53:56 CEST: Health check failed - 
+Do 16 Mai 2024 07:54:01 CEST: Restarting VM
+Do 16 Mai 2024 07:55:01 CEST: Health check failed - 
+Do 16 Mai 2024 07:55:06 CEST: Restarting VM
+Do 16 Mai 2024 07:56:07 CEST: Health check failed - 
+Do 16 Mai 2024 07:56:12 CEST: Restarting VM
+Do 16 Mai 2024 07:57:12 CEST: Health check failed - 
+Do 16 Mai 2024 07:57:17 CEST: Restarting VM
+Do 16 Mai 2024 07:58:17 CEST: Health check failed - 
+Do 16 Mai 2024 07:58:22 CEST: Restarting VM
+Do 16 Mai 2024 07:59:22 CEST: Health check failed - 
+Do 16 Mai 2024 07:59:27 CEST: Restarting VM
+Do 16 Mai 2024 08:00:27 CEST: Health check failed - 
+Do 16 Mai 2024 08:00:32 CEST: Restarting VM
+Do 16 Mai 2024 08:01:33 CEST: Health check failed - 
+Do 16 Mai 2024 08:01:38 CEST: Restarting VM
+Do 16 Mai 2024 08:02:38 CEST: Health check failed - 
+Do 16 Mai 2024 08:02:43 CEST: Restarting VM
+Do 16 Mai 2024 08:03:43 CEST: Health check failed - 
+Do 16 Mai 2024 08:03:48 CEST: Restarting VM
+Do 16 Mai 2024 08:04:48 CEST: Health check failed - 
+Do 16 Mai 2024 08:04:53 CEST: Restarting VM
+Do 16 Mai 2024 08:05:54 CEST: Health check failed - 
+Do 16 Mai 2024 08:05:59 CEST: Restarting VM
+Do 16 Mai 2024 08:06:59 CEST: Health check failed - 
+Do 16 Mai 2024 08:07:04 CEST: Restarting VM
+Do 16 Mai 2024 08:08:04 CEST: Health check failed - 
+Do 16 Mai 2024 08:08:09 CEST: Restarting VM
+Do 16 Mai 2024 08:09:09 CEST: Health check failed - 
+Do 16 Mai 2024 08:09:14 CEST: Restarting VM
+Do 16 Mai 2024 08:10:14 CEST: Health check failed - 
+Do 16 Mai 2024 08:10:19 CEST: Restarting VM
+Do 16 Mai 2024 08:11:20 CEST: Health check failed - 
+Do 16 Mai 2024 08:11:25 CEST: Restarting VM
+Do 16 Mai 2024 08:12:25 CEST: Health check failed - 
+Do 16 Mai 2024 08:12:30 CEST: Restarting VM
+Do 16 Mai 2024 08:13:30 CEST: Health check failed - 
+Do 16 Mai 2024 08:13:35 CEST: Restarting VM
+Do 16 Mai 2024 08:14:35 CEST: Health check failed - 
+Do 16 Mai 2024 08:14:40 CEST: Restarting VM
+Do 16 Mai 2024 08:15:40 CEST: Health check failed - 
+Do 16 Mai 2024 08:15:46 CEST: Restarting VM
+Do 16 Mai 2024 08:16:46 CEST: Health check failed - 
+Do 16 Mai 2024 08:16:51 CEST: Restarting VM
+Do 16 Mai 2024 08:17:51 CEST: Health check failed - 
+Do 16 Mai 2024 08:17:56 CEST: Restarting VM
+Do 16 Mai 2024 08:18:56 CEST: Health check failed - 
+Do 16 Mai 2024 08:19:01 CEST: Restarting VM
+Do 16 Mai 2024 08:20:01 CEST: Health check failed - 
+Do 16 Mai 2024 08:20:06 CEST: Restarting VM
+Do 16 Mai 2024 08:21:07 CEST: Health check failed - 
+Do 16 Mai 2024 08:21:12 CEST: Restarting VM
+Do 16 Mai 2024 08:22:12 CEST: Health check failed - 
+Do 16 Mai 2024 08:22:17 CEST: Restarting VM
+Do 16 Mai 2024 08:23:17 CEST: Health check failed - 
+Do 16 Mai 2024 08:23:22 CEST: Restarting VM
+Do 16 Mai 2024 08:24:22 CEST: Health check failed - 
+Do 16 Mai 2024 08:24:27 CEST: Restarting VM
+Do 16 Mai 2024 08:25:27 CEST: Health check failed - 
+Do 16 Mai 2024 08:25:32 CEST: Restarting VM
+Do 16 Mai 2024 08:26:33 CEST: Health check failed - 
+Do 16 Mai 2024 08:26:38 CEST: Restarting VM
+Do 16 Mai 2024 08:27:38 CEST: Health check failed - 
+Do 16 Mai 2024 08:27:43 CEST: Restarting VM
+Do 16 Mai 2024 08:28:43 CEST: Health check failed - 
+Do 16 Mai 2024 08:28:48 CEST: Restarting VM
+Do 16 Mai 2024 08:29:48 CEST: Health check failed - 
+Do 16 Mai 2024 08:29:53 CEST: Restarting VM
+Do 16 Mai 2024 08:30:54 CEST: Health check failed - 
+Do 16 Mai 2024 08:30:59 CEST: Restarting VM
+Do 16 Mai 2024 08:31:59 CEST: Health check failed - 
+Do 16 Mai 2024 08:32:04 CEST: Restarting VM
+Do 16 Mai 2024 08:33:04 CEST: Health check failed - 
+Do 16 Mai 2024 08:33:09 CEST: Restarting VM
+Do 16 Mai 2024 08:34:09 CEST: Health check failed - 
+Do 16 Mai 2024 08:34:14 CEST: Restarting VM
+Do 16 Mai 2024 08:35:14 CEST: Health check failed - 
+Do 16 Mai 2024 08:35:19 CEST: Restarting VM
+Do 16 Mai 2024 08:36:20 CEST: Health check failed - 
+Do 16 Mai 2024 08:36:25 CEST: Restarting VM
+Do 16 Mai 2024 08:37:25 CEST: Health check failed - 
+Do 16 Mai 2024 08:37:30 CEST: Restarting VM
+Do 16 Mai 2024 08:38:30 CEST: Health check failed - 
